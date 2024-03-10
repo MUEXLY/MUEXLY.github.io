@@ -63,7 +63,7 @@ def main():
 
     bold = partial(bold_contributors_with_group, group_members=group_members)
 
-    with open("papers.json", "r") as file:
+    with open("publications.json", "r") as file:
         paper_dicts = json.load(file)['papers']
 
     papers = [
