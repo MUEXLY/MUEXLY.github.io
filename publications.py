@@ -1,7 +1,9 @@
+from copy import deepcopy
 from datetime import datetime
 from dataclasses import dataclass
-from string import Template
+from functools import partial
 import json
+from string import Template
 
 
 @dataclass
@@ -42,25 +44,38 @@ class Paper:
                 }
             )
 
-with open("group_members.txt", "r") as file:
-    group_members = file.read().splitlines()
 
-def bold(member) -> str:
-    if member in group_members:
-        return f'<b>{member}</b>'
-    return member
+def bold_contributors_with_group(paper: Paper, group_members: list[str]) -> Paper:
 
-with open("papers.jsonl", "r") as file:
-    papers = []
-    for line in file:
-        paper_dict = json.loads(line)
-        paper_dict['contributors'] = [
-            bold(contributor) for contributor in paper_dict['contributors']
-        ]
-        papers.append(
-            Paper(**paper_dict)
-        )
+    new_paper = deepcopy(paper)
+    for i, contributor in enumerate(paper.contributors):
+        if contributor not in group_members:
+            continue
+        new_paper.contributors[i] = f'<b>{contributor}</b>'
 
-papers = sorted(papers, key=lambda paper: paper.date_published, reverse=True)
-snippet = '<hr>\n'.join(paper.html_snippet for paper in papers)
-print(f'<hr>\n{snippet}<hr>')
+    return new_paper
+
+
+def main():
+
+    with open("group_members.txt", "r") as file:
+        group_members = file.read().splitlines()
+
+    bold = partial(bold_contributors_with_group, group_members=group_members)
+
+    with open("papers.json", "r") as file:
+        paper_dicts = json.load(file)['papers']
+
+    papers = [
+        bold(Paper(**paper_dict)) for paper_dict in paper_dicts
+    ]
+
+    papers = sorted(papers, key=lambda x: x.date_published, reverse=True)
+    snippet = '<hr>\n'.join(paper.html_snippet for paper in papers)
+    with open('publications.html', 'w') as file:
+        print(f'<hr>\n{snippet}<hr>', file=file)
+
+
+if __name__ == '__main__':
+
+    main()
