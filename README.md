@@ -1,3 +1,3 @@
-future web page for research group
+future web page for research group (WIP)
 
-[jwjeffr.github.io](https://jwjeffr.github.io)
+[muexe.github.io](https://muexe.github.io)
