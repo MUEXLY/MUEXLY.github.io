@@ -8,6 +8,13 @@
             font-family: Arial;
             text-align: center;
         }
+        
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 20px;
+        }
 
         .tab {
             overflow: hidden;
@@ -42,6 +49,12 @@
             border-top: none;
         }
         
+        .paragraph-wrapper {
+            width: 25%;
+            margin: 0 auto;
+            text-align: left;
+        }
+        
         img {
             margin-right: 50px;
         }
@@ -61,18 +74,52 @@
     </div>
 
     <div id="About" class="tabcontent">
-        <h3>About</h3>
-        <p>Tired and caffeine-addicted</p>
+        <div class="container">
+          <div style="max-width:25%; word-wrap:break-word;">
+              <p>
+                The main topic of research is to better understand the behavior of materials under extreme environments of temperature, deformation and irradiation to predict and design materials with optimal performance.<br><br>
+                Why is this important? Materials fail to withstand the extreme environments posed by advanced applications, lowering their efficiency (power generation, aerospace, transportation, etc).<br>
+                Known materials do not provide the expected/desired properties (batteries, fuel cells, conducting materials, transportation).<br>
+                Control over material properties is insufficient (explosives, soft matter). Current theory and modeling does not fully predict materials behavior.
+              </p>
+              <div>
+                <a href="https://fde96062-73df-49a8-95a6-bf6236a614a2.filesusr.com/ugd/0b340f_964cce03e3204a85b77faba96432c841.pdf" style="display:block;height:100%;width:100%">Curriculum Vitae</a>
+              </div>
+          </div>
+          <img src="https://github.io/media/placeholder.png" width="25%">
+        </div>
     </div>
 
     <div id="Research" class="tabcontent">
-        <h3>About</h3>
-        <p>Pretending my models reflect reality</p>
+        <h3>Our Work</h3>
+        <div class="paragraph-wrapper">
+            <p>Find out what exciting work is happening within the research group. Our team works collaboratively with international researchers to develop new methods and tools for materials analysis. Below you can find a summary of some of the projects that we're working on, with respective links to any associated information.</p>
+        </div>
+        <hr>
+        <div class="container">
+          <img src="https://github.io/media/placeholder.png" width="25%">
+          <div style="max-width:25%; word-wrap:break-word;">
+              <h4>Materials Analysis of High Entropy Alloys (HEA)</h4>
+              <p>
+                This is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on "Edit Text" or double click on the text box to start.
+              </p>
+          </div>
+        </div>
+        <hr>
+        <div class="container">
+          <div style="max-width:25%; word-wrap:break-word;">
+              <h4>Developing Multi-Scale Models via Molecular Dynamics (MD), Dislocation Dynamics (DD), and Machine Learning (ML)</h4>
+              <p>
+                This is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on "Edit Text" or double click on the text box to start.
+              </p>
+          </div>
+          <img src="https://github.io/media/placeholder.png" width="25%">
+        </div>
     </div>
 
-    <div id="People" class="tabcontent">
-        <h3>About</h3>
-        <p>Just me (and your mom)</p>
+    <div id="Team" class="tabcontent">
+        <h3>Meet the Team</h3>
+        <p>Just me (everyone got fired)</p>
     </div>
 
     <div id="Highlighted Works" class="tabcontent">
@@ -83,6 +130,10 @@
     <div id="Recent Publications" class="tabcontent">
         <h3>Recent Publications</h3>
         <iframe src="https://jwjeffr.github.io/src/publications/publications.html" frameborder="0" width="75%" height="600"></iframe>
+    </div>
+    
+    <div id="Contact" class="tabcontent">
+        <h3>Contact Information</h3>
     </div>
 
     <script>
