@@ -17,6 +17,15 @@
       "day": 21,
       "month": 12,
       "year": 2023
+    },
+    {
+      "title": "The Generation of a Physics Informed Machine Learning Model to Predict Defect Evolution in Materials & On the Thermally Activated Regime of Dislocation Motion: A Simulation Driven Study on the Mechanical Behavior of Crystals",
+      "doi": "https://tigerprints.clemson.edu/all_theses/4198/",
+      "contributors": ["Liam Myhill"],
+      "abstract": "Line defects in crystals, known as dislocations, govern the mechanisms of plastic deformation at the micro-meso scale. The study of dislocations has proliferated the field of materials science and engineering for since the 1950’s, and modern studies show increasing utilization of computational methods to model the evolution of line defects in material systems. In keeping with modern research practice, the studies herewith demonstrate the use of advanced computing to generate models which can be used to better understand the behaviors of dislocations within crystal matrices. An advanced high-throughput model for a physically informed machine learning graph neural network (PIML-GNN) is outlined, which draws upon the output provided from Molecular Dynamics (MD) simulations and the computational efficacy of Dislocation Dynamics (DD). The intention of the study is to improve the dynamical prediction of DD mobility laws using the evolution of dislocation structures extracted from MD and processed using Ovito DXA analysis [29]. Each configuration is provided to the DD framework such that the local stress state can be embedded into the information passed to the ML model for training. The extracted dislocation mobility is then validated analytically by comparing regimes of phonon drag and thermal activation. In a separate study, the energetics of thermal activation are analyzed via a stochastic dislocation dynamics (SDD) approach. To impose stochasticity, which simulates the effects of thermal energy in the system, a Langevin thermostat overlays a white noise profile to the dislocation stress field whose amplitude scales directly with the absolute temperature of the simulation. Specific dislocation configurations are designed such that local energy minima are easily recognizable, and the stress state of the simulation is varied such that energy barriers can be overcome in thermally activated processes. From these studies, the bypass of local obstacles can be analyzed by extracting activation volumes and energies necessary to facilitate thermally activated processes in dislocation motion.",
+      "day": 1,
+      "month": 12,
+      "year": 2023
     }
   ]
 }
