@@ -6,7 +6,7 @@ theme = 'lowkey'
 title = 'MUEXLY Research Group'
 enableRobotsTXT = true
 summaryLength = 15
-paginate = 5
+paginate = 25
 
 
 [markup]
