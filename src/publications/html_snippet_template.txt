@@ -1,5 +1,0 @@
-<p><b>${title}</b></p>
-<p>${formatted_contributors}</p>
-<p>${formatted_date}</p>
-<p>${abstract}</p>
-<a href="${doi}" target="_blank">${doi}</a>
