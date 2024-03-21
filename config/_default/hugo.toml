@@ -3,7 +3,7 @@ copyright = "{year}" # To make 2007 - 2022. Just add before {year} example: 2007
 languageCode = 'en-US'
 defaultContentLanguage = 'en'
 theme = 'lowkey'
-title = 'Enhanced Lowkey Hugo'
+title = 'MUEXLY Research Group'
 enableRobotsTXT = true
 summaryLength = 15
 paginate = 5
@@ -24,3 +24,6 @@ paginate = 5
     noHl = false
     style = 'dracula'
     tabWidth = 4
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

@@ -1,49 +1,49 @@
 [[main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
+    identifier = "about"
+    name = "About"
+    url = "/about"
     weight = 1
 
 [[main]]
-    identifier = "about"
-    name = "About me"
-    url = "/about"
+    identifier = "research"
+    name = "Research"
+    url = "/research"
     weight = 2
 
 [[main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories"
+    identifier = "team"
+    name = "Team"
+    url = "/team"
     weight = 3
 
 [[main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags"
+    identifier = "highlighted_works"
+    name = "Highlighted Works"
+    url = "/highlighted_works"
     weight = 4
 
 [[main]]
-    identifier = "donate"
-    name = "Donate"
-    url = "https://ko-fi.com/nixentric"
+    identifier = "recent_publications"
+    name = "Recent Publications"
+    url = "/recent_publications"
     weight = 5
+
+[[main]]
+    identifier = "software"
+    name = "Software"
+    url = "/software"
+    weight = 6
     
 # Social Media Configuration
 
 [[social]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "#"
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/muexly"
     weight = 1
 
 [[social]]
-    identifier = "instagram"
-    name = "Instagram"
-    url = "#"
+    identifier = "home"
+    name = "Home"
+    url = "/"
     weight = 2
-
-[[social]]
-    identifier = "github"
-    name = "GitHub"
-    url = "#"
-    weight = 3
