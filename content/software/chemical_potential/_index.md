@@ -1,7 +1,7 @@
 ---
 title: "chemical_potential"
 draft: false
-date: 2022-08-27T09:16:45.000Z
+date: 2024-03-21T06:33:28+0000
 description: "LAMMPS interface to compute and fit chemical potentials in a solid solution"
 ---
 

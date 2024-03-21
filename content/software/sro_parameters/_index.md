@@ -1,7 +1,7 @@
 ---
 title: "sro_parameters"
 draft: false
-date: 2022-08-27T09:16:45.000Z
+date: 2024-03-21T16:29:03+0000
 description: "OVITO modifier for Cowley short range order parameter"
 ---
 
