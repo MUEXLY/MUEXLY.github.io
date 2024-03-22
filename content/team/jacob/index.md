@@ -1,8 +1,22 @@
 ---
 title: "Jacob Jeffries"
 draft: false
-date: 2024-03-21T06:33:28+0000
+date: 2024-03-22T18:16:35+0000
 description: "Ph.D. Student in Materials Science and Engineering"
 ---
 
-I like programming. Here's my [GitHub](https://github.com/jwjeffr).
+Hello! 👋
+
+My name is Jacob and I am currently a Ph.D. student in Materials Science and Engineering.
+
+I joined the group in 2022 as an undergraduate performing molecular dynamics simulations of vacancy hopping in tungsten subject to a strong thermal gradient.
+
+🌱 I am currently working on:
+
+- Transport and grain boundary segregation in High Entropy Alloys 
+- Multi-scale modeling of radiation-induced segregation
+- Diffusion on rough potential energy surfaces
+- Non-equilibrium vacancy transport in tungsten
+- Kinetic Monte Carlo simulations of organic nanocrystalline growth
+
+You can see more of my projects on my [GitHub](https://github.com/jwjeffr) profile, as well as a more-detailed description of my experience in my [CV](cv/main.pdf).

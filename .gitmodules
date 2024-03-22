@@ -1,3 +1,6 @@
 [submodule "themes/lowkey"]
 	path = themes/lowkey
 	url = https://github.com/jwjeffr/Lowkey-Hugo-Theme
+[submodule "content/team/jacob/cv"]
+	path = content/team/jacob/cv
+	url = https://github.com/jwjeffr/cv
