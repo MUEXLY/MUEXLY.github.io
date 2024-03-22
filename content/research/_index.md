@@ -22,7 +22,7 @@ Our team works collaboratively with international researchers to develop new met
           <p style="margin-bottom">This is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on "Edit Text" or double click on the text box to start.</p>
      </div> 
      <div style="flex:1;padding-left:10%;">
-          <img src="placeholder.png"/>
+          <img src="5.30Drafting_v2-1.png"/>
      </div>
 </div>
 
