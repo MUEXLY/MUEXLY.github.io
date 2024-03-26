@@ -8,22 +8,22 @@
     </td>
     <td>
         <figure>
-            <img src="recrystallize.gif" alt="Trulli" style="width:100%">
-            <figcaption>Simulated crystallization of austenitic stainless steel with LAMMPS</figcaption>
+            <img src="vacancy.gif" alt="Trulli" style="width:100%">
+            <figcaption>Vacancy hopping in FeNiCrCoMn with LAMMPS</figcaption>
         </figure>
     </td>
   </tr>
   <tr>
     <td>
         <figure>
-            <img src="recrystallize.gif" alt="Trulli" style="width:100%">
-            <figcaption>Simulated crystallization of austenitic stainless steel with LAMMPS</figcaption>
+            <img src="placeholder.png" alt="Trulli" style="width:100%">
+            <figcaption>Caption here</figcaption>
         </figure>
     </td>
     <td>
         <figure>
-            <img src="recrystallize.gif" alt="Trulli" style="width:100%">
-            <figcaption>Simulated crystallization of austenitic stainless steel with LAMMPS</figcaption>
+            <img src="placeholder.png" alt="Trulli" style="width:100%">
+            <figcaption>Caption here</figcaption>
         </figure>
     </td>
   </tr>
