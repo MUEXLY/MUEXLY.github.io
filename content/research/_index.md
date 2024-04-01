@@ -8,10 +8,10 @@ Our team works collaboratively with international researchers to develop new met
 ### Materials Analysis of High Entropy Alloys (HEA)
 <div style="display:flex; align-items: center;">
      <div style="flex:1;padding-right:10%;">
-          <img src="placeholder.png"/>
+          <img src="mc.png"/>
      </div>
      <div style="flex:1">
-          <p style="margin-bottom">This is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on "Edit Text" or double click on the text box to start.</p>
+          <p style="margin-bottom">Hybrid canonical Monte Carlo-NPT molecular dynamics evolution of CoNiCrFeMn and FeAl</p>
      </div>
 </div>
 
