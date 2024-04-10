@@ -4,3 +4,6 @@
 [submodule "content/team/jacob/cv"]
 	path = content/team/jacob/cv
 	url = https://github.com/jwjeffr/cv
+[submodule "content/recent_publications/scholarly_publications"]
+	path = content/recent_publications/scholarly_publications
+	url = https://github.com/ezefranca/scholarly_publications
