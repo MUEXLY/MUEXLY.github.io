@@ -102,10 +102,10 @@ def main():
     all_pubs.sort(key=lambda x: x.date, reverse=True)
     all_pubs = all_pubs[:MAX_PUBS]
     
-    with open(Path("header.md"), "r") as file:
+    with open(Path("header.txt"), "r") as file:
         print(file.read())
 
-    with open(Path("template.md"), "r") as file:
+    with open(Path("template.txt"), "r") as file:
 
         template = Template(file.read())
     
