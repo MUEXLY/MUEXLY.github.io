@@ -1,9 +1,11 @@
 # Recent Publications
 
-...and theses/preprints/etc.*
+...and pre-prints, etc.*
+
+Last updated: ${date}
 
 <span style="font-size:0.7em;padding-bottom:10px">
-    *This list is procured from an automated scrape of Google Scholar, so any mistakes from Google Scholar will appear here as well.
+    *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
 </span>
 
 ---

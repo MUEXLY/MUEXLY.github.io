@@ -1,9 +1,13 @@
 **${title}**
 
+${authors}
+
 <span style="font-size:0.85em;padding-bottom:10px">
     ${date}
+    
+    ${abstract}
 </span>
 
-[Google Scholar](${url})
+[${url}](${url})
 
 ---

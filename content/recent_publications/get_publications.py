@@ -1,126 +1,89 @@
-import requests
-import re
-import time
 from dataclasses import dataclass
 from datetime import datetime
 from string import Template
-from pathlib import Path
 
-from scholarly_publications import fetch_publications
+import pyalex
 
 
 @dataclass
 class Publication:
 
+    doi: str
     title: str
-    date: datetime
-    url: str
+    publication_date: str
+    abstract: str
+    authors: str
 
     def __dict__(self):
 
         return {
-            "title": self.title,
-            "date": self.date.strftime("%B %d, %Y"),
-            "url": self.url
+            "url": self.doi,
+            "title": self.title.strip("\n"),
+            "date": datetime.strftime(self.publication_date, r"%B %d, %Y"),
+            "abstract": self.abstract,
+            "authors": self.authors
         }
 
 
-HEADERS = {
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
-    'user-agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36',
-}
-
-COOKIES = {
-    'CONSENT': 'PENDING+300',
-}
-
-
-DATE_PATTERNS = [
-    re.compile(r'<div class="gsc_oci_value">([0-9]+/[0-9]+/[0-9]+)</div>'),
-    re.compile(r'<div class="gsc_oci_value">([0-9]+/[0-9]+)</div>'),
-    re.compile(r'<div class="gsc_oci_value">([0-9]+)</div>')
+PI_AUTHOR_ID = "Aa5041305461"
+MAX_WORKS = 50
+EXCLUDED_PUBLICATIONS = [
+    "W4389939228",
+    "W4391351611",
+    "W4380482838"
 ]
 
-DATETIME_PATTERNS = [
-    r"%Y/%m/%d",
-    r"%Y/%m",
-    r"%Y"
+EXCLUDED_URLS = [
+    f"https://openalex.org/{pub}" for pub in EXCLUDED_PUBLICATIONS
 ]
-
-MAX_PUBS = 50
-
-PI_AUTHOR_ID = "Zy5TYLjEDukC"
-
-WAIT_TIME = 10
 
 
 def main():
 
-    all_pubs = []
-        
-    for p in fetch_publications(PI_AUTHOR_ID, max_publications=MAX_PUBS, sortby='pubdate'):
-        url = p["link"]
-        request_kwargs = {
-            "proxies": {
-                "http": FreeProxy(rand=True).get(),
-                "https": FreeProxy(rand=True).get()
-            },
-            "verify": False
-        }
-        response = requests.get(url, cookies=COOKIES, headers=HEADERS)
-        if response.status_code != 200:
-            raise ValueError(response)
-        
-        match = None
-        for pattern in DATE_PATTERNS:
-            match = re.search(pattern, response.text)
-            if match:
-                break
-        if not match:
-            raise ValueError(url)
-        
-        pub_date = None
-        for pattern in DATETIME_PATTERNS:
-            try:
-                pub_date = datetime.strptime(match.group(1), pattern)
-                break
-            except ValueError:
-                continue
-        if not pub_date:
-            raise ValueError(url)
-        publication = Publication(
-            title=p["title"],
-            date=pub_date,
-            url=url
-        )
-        all_pubs.append(publication)
-        
-        time.sleep(WAIT_TIME)
-        print('pub added')
-
-    all_pubs.sort(key=lambda x: x.date, reverse=True)
-    all_pubs = all_pubs[:MAX_PUBS]
+    works = pyalex.Works() \
+        .filter(author={"id": PI_AUTHOR_ID}) \
+        .sort(publication_year="desc") \
+        .get(per_page=MAX_WORKS)
     
-    with open(Path("header.txt"), "r") as file:
-        print(file.read())
+    publications = []
+    for w in works:
+        if w["id"] in EXCLUDED_URLS:
+            continue
 
-    with open(Path("template.txt"), "r") as file:
+        abstract = w["abstract"]
+        if not abstract:
+            abstract = ''
 
-        template = Template(file.read())
-    
-    for pub in all_pubs:
-        
-        result = template.substitute(
-            {
-                "title": pub.title,
-                "date": pub.date.strftime("%B %d, %Y"),
-                "url": pub.url
-            }
+        authors = ', '.join(
+            authorship["author"]["display_name"] for authorship in w["authorships"]
         )
-        print(result)
+        
+        publications.append(
+            Publication(
+                doi=w["doi"],
+                title=w["title"],
+                publication_date=datetime.strptime(w["publication_date"], r"%Y-%m-%d"),
+                abstract=abstract,
+                authors=authors
+            )
+        )
 
+    publications.sort(key=lambda x: x.publication_date, reverse=True)
 
+    with open("header.txt", "r") as file:
+        src = Template(file.read())
+
+    print(src.substitute({
+        "date": str(datetime.today().strftime(r"%B %d, %Y"))
+    }))
+
+    with open("template.txt", "r") as file:
+        src = Template(file.read())
+    
+    for p in publications:
+
+        print(src.substitute(p.__dict__()))
+    
 
 if __name__ == '__main__':
 
