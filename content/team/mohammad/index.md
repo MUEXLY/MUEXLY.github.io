@@ -7,7 +7,7 @@ description: "Ph.D. Student in Mechanical Engineering"
 
 
 My name is Mohammad and I am currently a Ph.D. student in Mechanical Engineering. 
-I started my PhD in 2022 as focusing on molecular dynamics simulations and theoretical studies to investigate role of entropy in rate of reaction for tungsten. We published this work in Computational Materials Science and the link is provided [here](https://doi.org/10.1016/j.commatsci.2024.112954) 
+I started my PhD in Spring 2022 as focusing on molecular dynamics simulations and theoretical studies to investigate role of entropy in rate of reaction for tungsten. We published this work in Computational Materials Science and the link is provided [here](https://doi.org/10.1016/j.commatsci.2024.112954) 
 
 
 I am currently doing research on:
