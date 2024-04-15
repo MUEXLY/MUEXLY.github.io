@@ -6,3 +6,14 @@ description: "Ph.D. Student in Mechanical Engineering"
 ---
 
 Content here
+My name is Mohammad and I am currently a Ph.D. student in Mechanical Engineering. 
+I started my PhD in 2022 as focusing on molecular dynamics simulations and theoretical studies to investigate role of entropy in rate of reaction for tungsten. We published this work in Computational Materials Science (https://doi.org/10.1016/j.commatsci.2024.112954).
+
+I am currently doing research on:
+
+- Radiation Induced Segregation of structural composition-aware alloys. 
+- Kinetic Monte Carlo simulations for Radiation Induced Segregation.
+- Prediction of rate of reaction in grain boundary migration (MD & theoretical Studies).
+- Dislocation dipole separation rate (MD & theoretical Studies).
+[My Google Scholar Profile](https://scholar.google.com/citations?user=QivkGJoAAAAJ&hl=en)
+[My Linkedin Profile](www.linkedin.com/in/mohammadhossein-nahavandian) 
