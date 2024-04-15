@@ -20,6 +20,7 @@ I am currently doing research on:
 Awards:
 - Graduate Travel Grant from Graduate student government of Clemson University for [MS&T2023](https://www.tms.org/TMS2023/TMS2023/Default.aspx).
 - CECAS GSAB Supplementary Travel Award for [TMS2024](https://www.tms.org/TMS2024/TMS2024/Default.aspx).
+- Mechanical Engineering Department of Clemson University Excellence Award for Graduate Teaching Assistants 2024.
 
 [My Google Scholar Profile](https://scholar.google.com/citations?user=QivkGJoAAAAJ&hl=en)
 
