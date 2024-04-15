@@ -17,6 +17,9 @@ I am currently doing research on:
 - Prediction of rate of reaction in grain boundary migration (MD & theoretical Studies).
 - Dislocation dipole separation rate (MD & theoretical Studies).
 
+Awards:
+- Graduate Travel Grant from Graduate student government of Clemson University for [MS&T2023](https://www.tms.org/TMS2023/TMS2023/Default.aspx).
+- CECAS GSAB Supplementary Travel Award for [TMS2024](https://www.tms.org/TMS2024/TMS2024/Default.aspx).
 
 [My Google Scholar Profile](https://scholar.google.com/citations?user=QivkGJoAAAAJ&hl=en)
 
