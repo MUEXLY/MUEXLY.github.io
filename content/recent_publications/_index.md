@@ -9,6 +9,20 @@ Last updated: April 10, 2024
 </span>
 
 ---
+**From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle
+  bypass: Atomistic Simulations and Theoretical Investigation**
+
+Mohammadhossein Nahavandian, Samir Sarkar, Soumendu Bagchi, Danny Pérez, Enrique Martínez
+
+March 28, 2024
+
+<sub><sup>
+Dislocations are the primary carriers of plasticity in metallic material. Understanding the basic mechanisms for dislocation movement is paramount to predicting the material mechanical response. Relying on atomistic simulations, we observe a transition from non-Arrhenius to Arrhenius behavior in the rate for an edge dislocation to overcome the elastic interaction with a prismatic loop in tungsten. Beyond the critical resolved shear stress, the process shows a non-Arrhenius behavior at low temperatures. However, as the temperature increases, the activation entropy starts to dominate, leading to a traditional Arrhenius behavior. We have computed the activation entropy analytically along the minimum energy path following Schoeck's methods [1], which capture the cross-over between anti-Arrhenius and Arrhenius domains. Also, the Projected Average Force Integrator (PAFI) [2], another simulation method to compute free energies along an initial transition path, exhibits considerable concurrence with Schoeck's formalism. We conclude that entropic effects need to be considered to understand processes involving dislocations bypassing elastic barriers close to the critical resolved shear stress. More work needs to be performed to fully understand the discrepancies between Schoeck's and PAFI results compared to molecular dynamics.
+</sup></sub>
+
+[https://doi.org/10.1016/j.commatsci.2024.112954](https://doi.org/10.1016/j.commatsci.2024.112954)
+
+---
 **Data-Driven Modeling of Dislocation Mobility from Atomistics using
   Physics-Informed Machine Learning**
 
@@ -62,20 +76,7 @@ High-entropy alloys have drawn recent interest for their promising mechanical pr
 [https://doi.org/10.48550/arxiv.2402.07324](https://doi.org/10.48550/arxiv.2402.07324)
 
 ---
-**From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle
-  bypass: Atomistic Simulations and Theoretical Investigation**
 
-Mohammadhossein Nahavandian, Samir Sarkar, Soumendu Bagchi, Danny Pérez, Enrique Martínez
-
-March 28, 2024
-
-<sub><sup>
-Dislocations are the primary carriers of plasticity in metallic material. Understanding the basic mechanisms for dislocation movement is paramount to predicting the material mechanical response. Relying on atomistic simulations, we observe a transition from non-Arrhenius to Arrhenius behavior in the rate for an edge dislocation to overcome the elastic interaction with a prismatic loop in tungsten. Beyond the critical resolved shear stress, the process shows a non-Arrhenius behavior at low temperatures. However, as the temperature increases, the activation entropy starts to dominate, leading to a traditional Arrhenius behavior. We have computed the activation entropy analytically along the minimum energy path following Schoeck's methods [1], which capture the cross-over between anti-Arrhenius and Arrhenius domains. Also, the Projected Average Force Integrator (PAFI) [2], another simulation method to compute free energies along an initial transition path, exhibits considerable concurrence with Schoeck's formalism. We conclude that entropic effects need to be considered to understand processes involving dislocations bypassing elastic barriers close to the critical resolved shear stress. More work needs to be performed to fully understand the discrepancies between Schoeck's and PAFI results compared to molecular dynamics.
-</sup></sub>
-
-[https://doi.org/10.1016/j.commatsci.2024.112954](https://doi.org/10.1016/j.commatsci.2024.112954)
-
----
 **Predicting short-range order evolution in WTaCrVHf refractory high-entropy alloys**
 
 Andrew Alvarado, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, Enrique Martínez, Osman El-Atwani
