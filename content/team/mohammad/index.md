@@ -1,7 +1,7 @@
 ---
 title: "Mohammadhossein Nahavandian"
 draft: false
-date: 2024-04-16T02:21:31+0000
+date: 2024-04-16T02:22:31+0000
 description: "Ph.D. Student in Mechanical Engineering"
 ---
 
@@ -16,10 +16,12 @@ I am currently doing research on:
 - Prediction of rate of reaction in grain boundary migration (MD & theoretical Studies).
 - Dislocation dipole separation rate (MD & theoretical Studies).
 
+
 Awards:
 - Graduate Travel Grant from Graduate student government of Clemson University for [MS&T2023](https://www.tms.org/TMS2023/TMS2023/Default.aspx).
 - CECAS GSAB Supplementary Travel Award for [TMS2024](https://www.tms.org/TMS2024/TMS2024/Default.aspx).
 - Clemson University's Mechanical Engineering Department Excellence Award for Graduate Teaching Assistants 2024.
+
 
 
 Social Avcivities:
