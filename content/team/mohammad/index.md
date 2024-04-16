@@ -1,7 +1,7 @@
 ---
 title: "Mohammadhossein Nahavandian"
 draft: false
-date: 2024-04-15T08:38:31+0000
+date: 2024-04-15T08:39:31+0000
 description: "Ph.D. Student in Mechanical Engineering"
 ---
 
@@ -21,9 +21,11 @@ Awards:
 - CECAS GSAB Supplementary Travel Award for [TMS2024](https://www.tms.org/TMS2024/TMS2024/Default.aspx).
 - Clemson University's Mechanical Engineering Department Excellence Award for Graduate Teaching Assistants 2024.
 
+
 Social Avcivities:
-- Director of Communications at Clemson Iranian Students Organization (Fall 2022 - Fall 2023)
-- Memebr of Mechanical Engineering Graduate Student Council at Clemson University (Fall 2023 - present)
+- Director of Communications at Clemson Iranian Students Organization (Fall 2022 - Fall 2023).
+- Memebr of Mechanical Engineering Graduate Student Council at Clemson University (Fall 2023 - present).
+
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=QivkGJoAAAAJ&hl=en)
 
