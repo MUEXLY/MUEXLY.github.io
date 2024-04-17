@@ -1,7 +1,7 @@
 ---
 title: "Mohammadhossein Nahavandian"
 draft: false
-date: 2024-04-16T02:22:31+0000
+date: 2024-04-17T10:22:31+0000
 description: "Ph.D. Student in Mechanical Engineering"
 ---
 
@@ -32,3 +32,5 @@ Social Avcivities:
 [Google Scholar Profile](https://scholar.google.com/citations?user=QivkGJoAAAAJ&hl=en)
 
 [Linkedin Profile](www.linkedin.com/in/mohammadhossein-nahavandian) 
+---
+Email: mnahava@clemson.edu
