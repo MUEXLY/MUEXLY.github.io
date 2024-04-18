@@ -35,9 +35,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo content
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: 3.9.12
       - name: Install pyalex
@@ -48,6 +48,8 @@ jobs:
           cd content/recent_publications
           python get_publications.py > _index.md
           cd ../../
+      - name: Push created file
+        run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add content/recent_publications/_index.md
