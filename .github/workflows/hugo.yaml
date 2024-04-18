@@ -29,6 +29,8 @@ defaults:
 
 jobs:
   # Fetch publication list
+  permissions:
+    contents: write
   fetch_publications:
     runs-on: ubuntu-latest
     steps:
