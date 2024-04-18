@@ -44,7 +44,7 @@ jobs:
       - name: Run publication fetcher
         run: |
           cd content/recent_publications
-          python get_publications > _index.md
+          python get_publications.py > _index.md
           cd ../../
           git config user.name github-actions
           git config user.email github-actions@github.com
