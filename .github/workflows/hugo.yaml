@@ -29,9 +29,9 @@ defaults:
 
 jobs:
   # Fetch publication list
-  permissions:
-    contents: write
   fetch_publications:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo content
