@@ -13,6 +13,6 @@ $$
 \mu_\alpha = \mu_\alpha^\circ + \sum_{\beta\neq\alpha} A_{\alpha\beta}x_\beta
 $$
 
-where $\mu_\alpha$ is the chemical potential of species $\alpha$, $\mu_\alpha^\circ$ is a reference chemical potential, $x_\beta$ is the atomic fraction of species $\beta$, and $A_{\alpha\beta}$ is a fitting parameter.
+where $\mu_\alpha$ is the chemical potential of species $\alpha$, $\mu_\alpha^\circ$ is a reference chemical potential, $x_\beta$ is the atomic fraction of species $\beta$, and $A_{\alpha\beta}$ is a fitting parameter corresponding to the heat of mixing between $\alpha$ and $\beta$.
 
 The code can be viewed and installed from its [GitHub repository](https://github.com/MUEXLY/chemical_potential).
