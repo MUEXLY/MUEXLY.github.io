@@ -32,6 +32,7 @@ jobs:
   fetch_publications:
     permissions:
       contents: write
+    continue-on-error: true
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo content
