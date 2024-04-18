@@ -32,7 +32,6 @@ jobs:
   fetch_publications:
     permissions:
       contents: write
-    continue-on-error: true
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo content
@@ -52,7 +51,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add content/recent_publications/_index.md
-          git commit -m "fetched publications workflow"
+          git commit --allow_empty -m "fetched publications workflow"
           git push
 
   # Build job
