@@ -63,19 +63,6 @@ This study explores the intricate interactions between grain boundaries (GBs) an
 [https://doi.org/10.48550/arxiv.2403.12257](https://doi.org/10.48550/arxiv.2403.12257)
 
 ---
-**Microstructural evolution and transmutation in tungsten under ion and neutron irradiation**
-
-Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Mikhiel Hattar, Osman El-Atwani, D. Nguyen-Manh, Michael P. Moody, P.A.J. Bagot, David E.J. Armstrong
-
-March 2024
-
-<sub><sup>
-This study aims to compare the effects of neutron and self-ion irradiation on the mechanical properties and microstructural evolution in W. Neutron irradiation at the HFR reactor to 1.67 dpa at 800 °C resulted in the formation of large Re and Os rich clusters and voids. The post-irradiation composition was measured using APT and verfified against FISPACT modelling. The measured Re and Os concentration was used to create alloys with equivalent concentrations of Re and Os. These alloys were exposed to self-ion irradiation to a peak dose of 1.7 dpa at 800 °C. APT showed that self-ion irradiation leads to the formation of small Os clusters, wheras under neutron irradiation large Re/Os clusters form. Voids are formed by both ion and neutron irradiation, but the voids formed by neutron irradiation are larger. By comparing the behaviour of W-1.4Re and W-1.4Re-0.1Os, suppression of Re cluster formation was observed. Irradiation hardening was measured using nanoindentation and was found to be 2.7 GPa, after neutron irradiation and 1.6 GPa and 0.6 GPa for the self-ion irradiated W-1.4Re and W-1.4Re-0.1Os. The higher hardening is attributed to the barrier strength of large voids and Re/Os clusters that are observed after neutron irradiation.
-</sup></sub>
-
-[https://doi.org/10.1016/j.mtla.2023.101991](https://doi.org/10.1016/j.mtla.2023.101991)
-
----
 **Shock wave induced migration of an edge dislocation dipole in alpha-Fe**
 
 Santiago Heredia-Ávalos, Cristian D. Denton, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
@@ -87,6 +74,19 @@ The mobility of a 1/2〈111〉{110} edge dipole in alpha-iron has been studied u
 </sup></sub>
 
 [https://doi.org/10.1016/j.jnucmat.2023.154878](https://doi.org/10.1016/j.jnucmat.2023.154878)
+
+---
+**Microstructural evolution and transmutation in tungsten under ion and neutron irradiation**
+
+Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Mikhiel Hattar, Osman El-Atwani, D. Nguyen-Manh, Michael P. Moody, P.A.J. Bagot, David E.J. Armstrong
+
+March 2024
+
+<sub><sup>
+This study aims to compare the effects of neutron and self-ion irradiation on the mechanical properties and microstructural evolution in W. Neutron irradiation at the HFR reactor to 1.67 dpa at 800 °C resulted in the formation of large Re and Os rich clusters and voids. The post-irradiation composition was measured using APT and verfified against FISPACT modelling. The measured Re and Os concentration was used to create alloys with equivalent concentrations of Re and Os. These alloys were exposed to self-ion irradiation to a peak dose of 1.7 dpa at 800 °C. APT showed that self-ion irradiation leads to the formation of small Os clusters, wheras under neutron irradiation large Re/Os clusters form. Voids are formed by both ion and neutron irradiation, but the voids formed by neutron irradiation are larger. By comparing the behaviour of W-1.4Re and W-1.4Re-0.1Os, suppression of Re cluster formation was observed. Irradiation hardening was measured using nanoindentation and was found to be 2.7 GPa, after neutron irradiation and 1.6 GPa and 0.6 GPa for the self-ion irradiated W-1.4Re and W-1.4Re-0.1Os. The higher hardening is attributed to the barrier strength of large voids and Re/Os clusters that are observed after neutron irradiation.
+</sup></sub>
+
+[https://doi.org/10.1016/j.mtla.2023.101991](https://doi.org/10.1016/j.mtla.2023.101991)
 
 ---
 **Stochastic Integration of the Cahn-Hilliard Phase Field Equations**
@@ -245,19 +245,6 @@ We report a systematic computational analysis of the mechanical behavior of plas
 [https://doi.org/10.1021/acsami.2c20795](https://doi.org/10.1021/acsami.2c20795)
 
 ---
-**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
-
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
-
-January 2023
-
-<sub><sup>
-Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
-
----
 **From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
 
 Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
@@ -269,6 +256,19 @@ High-entropy materials represent the state-of-the-art on the alloy design strate
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
+
+---
+**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
+
+<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
+
+January 2023
+
+<sub><sup>
+Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
 
 ---
 **Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
@@ -401,19 +401,6 @@ First-wall materials in a fusion reactor are expected to withstand harsh conditi
 [https://doi.org/10.1063/5.0071935](https://doi.org/10.1063/5.0071935)
 
 ---
-**The mobility of small, over-pressurized helium bubbles in tungsten at 2000 K**
-
-Z.J. Bergstrom, Danny Pérez, <b>Enrique Martínez</b>
-
-December 2021
-
-<sub><sup>
-Fusion reactor environments inevitably lead to the formation of high-pressure helium bubbles whose nucleation, growth, and diffusion strongly impact the performance of plasma-facing components. This research describes a diffusion mechanism of over-pressurized bubbles via a sequence of Frenkel pair nucleation, self-interstitial migration, and Frenkel pair annihilation. Molecular dynamics was used to simulate the diffusion of small bubbles in tungsten at 2000 K with helium-per-vacancy ratios in the range of 4.5 to 7. The diffusion coefficients are calculated and their dependence on helium content, number of vacancies, and number of attached self-interstitials is characterized. It is found that bubbles are most mobile when the nucleation/annihilation rates of Frenkel pairs are nearly equal and when the bubbles nucleate and annihilate a single self-interstitial. All bubbles experience a peak diffusivity, which can be as high as 10−11 m2/s decreasing with bubble size. The calculated diffusion coefficients provide valuable insight into the mobility of small, high-pressure bubbles, and can be used as input parameters in mesoscale models to improve predictions of plasma-surface interactions. (LA-UR-21-21881)
-</sup></sub>
-
-[https://doi.org/10.1016/j.jnucmat.2021.153306](https://doi.org/10.1016/j.jnucmat.2021.153306)
-
----
 **Non-orthogonal computational grids for studying dislocation motion in phase field approaches**
 
 Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik Dayal, <b>Enrique Martínez</b>
@@ -425,6 +412,19 @@ In this work, new non-orthogonal computational grids are implemented into a phas
 </sup></sub>
 
 [https://doi.org/10.1016/j.commatsci.2021.110834](https://doi.org/10.1016/j.commatsci.2021.110834)
+
+---
+**The mobility of small, over-pressurized helium bubbles in tungsten at 2000 K**
+
+Z.J. Bergstrom, Danny Pérez, <b>Enrique Martínez</b>
+
+December 2021
+
+<sub><sup>
+Fusion reactor environments inevitably lead to the formation of high-pressure helium bubbles whose nucleation, growth, and diffusion strongly impact the performance of plasma-facing components. This research describes a diffusion mechanism of over-pressurized bubbles via a sequence of Frenkel pair nucleation, self-interstitial migration, and Frenkel pair annihilation. Molecular dynamics was used to simulate the diffusion of small bubbles in tungsten at 2000 K with helium-per-vacancy ratios in the range of 4.5 to 7. The diffusion coefficients are calculated and their dependence on helium content, number of vacancies, and number of attached self-interstitials is characterized. It is found that bubbles are most mobile when the nucleation/annihilation rates of Frenkel pairs are nearly equal and when the bubbles nucleate and annihilate a single self-interstitial. All bubbles experience a peak diffusivity, which can be as high as 10−11 m2/s decreasing with bubble size. The calculated diffusion coefficients provide valuable insight into the mobility of small, high-pressure bubbles, and can be used as input parameters in mesoscale models to improve predictions of plasma-surface interactions. (LA-UR-21-21881)
+</sup></sub>
+
+[https://doi.org/10.1016/j.jnucmat.2021.153306](https://doi.org/10.1016/j.jnucmat.2021.153306)
 
 ---
 **Perspectives on multiscale modelling and experiments to accelerate materials development for fusion**
