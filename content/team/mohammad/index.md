@@ -31,7 +31,7 @@ I am currently a Ph.D. student in Mechanical Engineering. I have earned my B.S a
 ---
 [Google Scholar Profile](https://scholar.google.com/citations?user=QivkGJoAAAAJ&hl=en)
 
-[Linkedin Profile](www.linkedin.com/in/mohammadhossein-nahavandian) 
+[Linkedin Profile](https://www.linkedin.com/in/mohammadhossein-nahavandian) 
 
 ---
 Email: mnahava@clemson.edu
