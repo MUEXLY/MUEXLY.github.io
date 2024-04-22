@@ -2,11 +2,25 @@
 
 ...and pre-prints, etc.*
 
-Last updated: April 18, 2024
+Last updated: April 22, 2024
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
 </span>
+
+---
+**Grain boundary metastability controls irradiation resistance in
+  nanocrystalline metals**
+
+Osman El-Atwani, A. Doak Barnett, <b>Enrique Martínez</b>, Jian Han, Asher C. Leff, Chang-Yu Hung, James E. Nathaniel, Sicong He, Emily M. Hopkins, Larissa M. Woryk, Khalid Mikhiel Hattar, Blas P. Uberuaga, David J. Srolovitz, Michael L. Falk, Jaime Marian, Mitra L. Taheri
+
+April 2024
+
+<sub><sup>
+Grain boundaries (GBs) in polycrystalline materials are powerful sinks for irradiation defects. While standard theories assume that the sink efficiency of a grain boundary is defined solely by its character before irradiation, recent evidence conclusively shows that the irradiation sink efficiency is a highly dynamic property controlled by the intrinsic metastability of GBs under far-from-equilibrium irradiation conditions. In this paper, we reveal that the denuded (i.e., defect-free) zone, typically the signature of a strong sink, can collapse as irradiation damage accumulates. We propose a radiation damage evolution model that captures this behavior based on the emergence of a series of irradiation defect-enabled metastable GB microstate changes that dynamically alter the ability of the GB to absorb further damage. We show that these microstate changes control further defect absorption and give rise to the formation of a defect network that manifests itself as a net Nye-tensor signal detectable via lattice curvature experiments.
+</sup></sub>
+
+[https://doi.org/10.48550/arxiv.2404.10144](https://doi.org/10.48550/arxiv.2404.10144)
 
 ---
 **Data-Driven Modeling of Dislocation Mobility from Atomistics using Physics-Informed Machine Learning**
@@ -245,19 +259,6 @@ We report a systematic computational analysis of the mechanical behavior of plas
 [https://doi.org/10.1021/acsami.2c20795](https://doi.org/10.1021/acsami.2c20795)
 
 ---
-**From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
-
-Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
-
-January 2023
-
-<sub><sup>
-High-entropy materials represent the state-of-the-art on the alloy design strategy for future applications in extreme environments. Recent data indicates that high-entropy alloys (HEAs) exhibit outstanding radiation resistance in face of existing diluted alloy counterparts due to suppressed damage formation and evolution. An extension of the HEA concept is presented in this paper towards the synthesis and characterization of novel high-entropy ceramics as emergent materials for application in environments where energetic particle irradiation is a major concern. A novel carbide within the quinary refractory system CrNbTaTiW has been synthesized using magnetron-sputtering. The material exhibited nanocrystalline grains, singlephase crystal structure and C content around 50 at.%. Heavy-ion irradiation with in-situ Transmission Electron Microscopy was used to assess the irradiation response of the new highentropy carbide (HEC) at 573 K and a comparison with the HEA within the system is made. No displacement damage effects appear within the microstructures of both HEA and HEC up to a dose of 17 displacements-per-atom. Surprisingly, the HEC has not amorphized under the investigated conditions. Xe was implanted in both materials and bubbles nucleated, but smaller sizes compared with conventional nuclear materials shedding light they are potential candidates for use in nuclear energy.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
-
----
 **Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
 
 <b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
@@ -269,6 +270,19 @@ Short-range order (SRO) in multicomponent concentrated alloys affects their mech
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
+
+---
+**From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
+
+Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
+
+January 2023
+
+<sub><sup>
+High-entropy materials represent the state-of-the-art on the alloy design strategy for future applications in extreme environments. Recent data indicates that high-entropy alloys (HEAs) exhibit outstanding radiation resistance in face of existing diluted alloy counterparts due to suppressed damage formation and evolution. An extension of the HEA concept is presented in this paper towards the synthesis and characterization of novel high-entropy ceramics as emergent materials for application in environments where energetic particle irradiation is a major concern. A novel carbide within the quinary refractory system CrNbTaTiW has been synthesized using magnetron-sputtering. The material exhibited nanocrystalline grains, singlephase crystal structure and C content around 50 at.%. Heavy-ion irradiation with in-situ Transmission Electron Microscopy was used to assess the irradiation response of the new highentropy carbide (HEC) at 573 K and a comparison with the HEA within the system is made. No displacement damage effects appear within the microstructures of both HEA and HEC up to a dose of 17 displacements-per-atom. Surprisingly, the HEC has not amorphized under the investigated conditions. Xe was implanted in both materials and bubbles nucleated, but smaller sizes compared with conventional nuclear materials shedding light they are potential candidates for use in nuclear energy.
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
 
 ---
 **Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
@@ -401,19 +415,6 @@ First-wall materials in a fusion reactor are expected to withstand harsh conditi
 [https://doi.org/10.1063/5.0071935](https://doi.org/10.1063/5.0071935)
 
 ---
-**Non-orthogonal computational grids for studying dislocation motion in phase field approaches**
-
-Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik Dayal, <b>Enrique Martínez</b>
-
-December 2021
-
-<sub><sup>
-In this work, new non-orthogonal computational grids are implemented into a phase field model called Phase Field Dislocation Dynamics (PFDD). We demonstrate that the new non-orthogonal grid can accommodate multiple slip planes in either the face centered cubic (FCC) or body centered cubic (BCC) crystallographic systems. We show that they avoid numerical errors induced when modeling glide on inclined slip planes in an orthogonal grid. The Gibbs effect that arises in the orthogonal or rotated orthogonal grids is substantially diminished when a non-orthogonal grid is employed. A few test cases demonstrate the effectiveness of using non-orthogonal grids in solving systems with multiple non-planar slip systems.
-</sup></sub>
-
-[https://doi.org/10.1016/j.commatsci.2021.110834](https://doi.org/10.1016/j.commatsci.2021.110834)
-
----
 **The mobility of small, over-pressurized helium bubbles in tungsten at 2000 K**
 
 Z.J. Bergstrom, Danny Pérez, <b>Enrique Martínez</b>
@@ -425,6 +426,19 @@ Fusion reactor environments inevitably lead to the formation of high-pressure he
 </sup></sub>
 
 [https://doi.org/10.1016/j.jnucmat.2021.153306](https://doi.org/10.1016/j.jnucmat.2021.153306)
+
+---
+**Non-orthogonal computational grids for studying dislocation motion in phase field approaches**
+
+Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik Dayal, <b>Enrique Martínez</b>
+
+December 2021
+
+<sub><sup>
+In this work, new non-orthogonal computational grids are implemented into a phase field model called Phase Field Dislocation Dynamics (PFDD). We demonstrate that the new non-orthogonal grid can accommodate multiple slip planes in either the face centered cubic (FCC) or body centered cubic (BCC) crystallographic systems. We show that they avoid numerical errors induced when modeling glide on inclined slip planes in an orthogonal grid. The Gibbs effect that arises in the orthogonal or rotated orthogonal grids is substantially diminished when a non-orthogonal grid is employed. A few test cases demonstrate the effectiveness of using non-orthogonal grids in solving systems with multiple non-planar slip systems.
+</sup></sub>
+
+[https://doi.org/10.1016/j.commatsci.2021.110834](https://doi.org/10.1016/j.commatsci.2021.110834)
 
 ---
 **Perspectives on multiscale modelling and experiments to accelerate materials development for fusion**
@@ -638,19 +652,6 @@ We use density functional tight binding (DFTB) molecular dynamics (MD) simulatio
 **Accelerated Molecular Dynamics Simulations of Dislocation-Obstacle Interactions in Tungsten: Enabling Micro-Second Simulations**
 
 Nithin Mathew, <b>Enrique Martínez</b>, Danny Pérez
-
-March 2020
-
-<sub><sup>
-
-</sup></sub>
-
-[None](None)
-
----
-**Reaction rates in shocked nitromethane from density functional tight binding simulations**
-
-Romain Perriot, Marc J. Cawkwell, <b>Enrique Martínez</b>, Edward M. Kober, Shawn McGrane
 
 March 2020
 
