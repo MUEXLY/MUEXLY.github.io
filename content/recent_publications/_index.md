@@ -2,7 +2,7 @@
 
 ...and pre-prints, etc.*
 
-Last updated: April 22, 2024
+Last updated: April 23, 2024
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
@@ -196,7 +196,7 @@ Abstract In our previous work, we have demonstrated using nonequilibrium molecul
 ---
 **Comparison of Dislocation Loop Formation Resistance in Nanocrystalline and Coarse-Grained Refractory High Entropy Alloys**
 
-Osman El-Atwani, H.T. Vo, N. Krienke, <b>Enrique Martínez</b>, Jon K. Baldwin, Wei‐Ying Chen, Meimei Li, Saryu Fensin
+Osman El-Atwani, H.T. Vo, N. Krienke, <b>Enrique Martínez</b>, Jon K. Baldwin, Wei–Ying Chen, Meimei Li, Saryu Fensin
 
 May 2023
 
