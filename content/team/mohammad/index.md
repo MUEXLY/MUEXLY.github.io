@@ -13,9 +13,9 @@ I am currently a Ph.D. student in Mechanical Engineering. I have earned my B.S a
 **I Am Currently Conducting Research On:**
 
 - Radiation Induced Segregation of structural composition-aware alloys. 
-- Kinetic Monte Carlo simulations for Radiation Induced Segregation.
-- Prediction of rate of reaction in grain boundary migration (MD & theoretical Studies).
-- Dislocation dipole separation rate (MD & theoretical Studies).
+- Kinetic Monte Carlo simulations for Radiation Induced Segregation in structural alloys.
+- Prediction of rate of reaction in stick-slip non-Arrhenius/Arrhenius grain boundary migration (MD & theoretical Studies).
+- Dislocation dipole thermal fluctuation and separation rate (MD & theoretical Studies).
 
 ---
 **Awards:**
