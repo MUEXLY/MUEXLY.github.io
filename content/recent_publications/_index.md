@@ -415,19 +415,6 @@ First-wall materials in a fusion reactor are expected to withstand harsh conditi
 [https://doi.org/10.1063/5.0071935](https://doi.org/10.1063/5.0071935)
 
 ---
-**Non-orthogonal computational grids for studying dislocation motion in phase field approaches**
-
-Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik Dayal, <b>Enrique Martínez</b>
-
-December 2021
-
-<sub><sup>
-In this work, new non-orthogonal computational grids are implemented into a phase field model called Phase Field Dislocation Dynamics (PFDD). We demonstrate that the new non-orthogonal grid can accommodate multiple slip planes in either the face centered cubic (FCC) or body centered cubic (BCC) crystallographic systems. We show that they avoid numerical errors induced when modeling glide on inclined slip planes in an orthogonal grid. The Gibbs effect that arises in the orthogonal or rotated orthogonal grids is substantially diminished when a non-orthogonal grid is employed. A few test cases demonstrate the effectiveness of using non-orthogonal grids in solving systems with multiple non-planar slip systems.
-</sup></sub>
-
-[https://doi.org/10.1016/j.commatsci.2021.110834](https://doi.org/10.1016/j.commatsci.2021.110834)
-
----
 **The mobility of small, over-pressurized helium bubbles in tungsten at 2000 K**
 
 Z.J. Bergstrom, Danny Pérez, <b>Enrique Martínez</b>
@@ -439,6 +426,19 @@ Fusion reactor environments inevitably lead to the formation of high-pressure he
 </sup></sub>
 
 [https://doi.org/10.1016/j.jnucmat.2021.153306](https://doi.org/10.1016/j.jnucmat.2021.153306)
+
+---
+**Non-orthogonal computational grids for studying dislocation motion in phase field approaches**
+
+Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik Dayal, <b>Enrique Martínez</b>
+
+December 2021
+
+<sub><sup>
+In this work, new non-orthogonal computational grids are implemented into a phase field model called Phase Field Dislocation Dynamics (PFDD). We demonstrate that the new non-orthogonal grid can accommodate multiple slip planes in either the face centered cubic (FCC) or body centered cubic (BCC) crystallographic systems. We show that they avoid numerical errors induced when modeling glide on inclined slip planes in an orthogonal grid. The Gibbs effect that arises in the orthogonal or rotated orthogonal grids is substantially diminished when a non-orthogonal grid is employed. A few test cases demonstrate the effectiveness of using non-orthogonal grids in solving systems with multiple non-planar slip systems.
+</sup></sub>
+
+[https://doi.org/10.1016/j.commatsci.2021.110834](https://doi.org/10.1016/j.commatsci.2021.110834)
 
 ---
 **Perspectives on multiscale modelling and experiments to accelerate materials development for fusion**
