@@ -21,7 +21,7 @@ I am currently a Ph.D. student and Graduate Research Assistant in Mechanical Eng
 **Awards:**
 - Graduate Travel Grant from Graduate student government of Clemson University for [MS&T2023](https://www.tms.org/TMS2023/TMS2023/Default.aspx).
 - CECAS GSAB Supplementary Travel Award for [TMS2024](https://www.tms.org/TMS2024/TMS2024/Default.aspx).
-- Clemson University's Mechanical Engineering Department [ME Graduate Teaching Excellence Award 2024](IMG_9002.jpg).
+- Clemson University's Mechanical Engineering Department [ME Graduate Teaching Excellence Award 2024](ME Excellence Award 2024.jpg).
 ---
 
 **Social Avcivities:**
