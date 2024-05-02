@@ -33,7 +33,7 @@ I am currently a Ph.D. student and Graduate Research Assistant in Mechanical Eng
 
 [Linkedin Profile](https://www.linkedin.com/in/mohammadhossein-nahavandian) 
 
-[CV](https://www.linkedin.com/in/mohammadhossein-nahavandian)
+[CV](https://github.com/content/team/mohammad/CV-MohammadhosseinNahavandiannew.pdf)
 
 
 ---
