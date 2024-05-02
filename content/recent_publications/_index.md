@@ -209,7 +209,7 @@ Abstract In our previous work, we have demonstrated using nonequilibrium molecul
 ---
 **Comparison of Dislocation Loop Formation Resistance in Nanocrystalline and Coarse-Grained Refractory High Entropy Alloys**
 
-Osman El-Atwani, H.T. Vo, N. Krienke, <b>Enrique Martínez</b>, Jon K. Baldwin, Wei‐Ying Chen, Meimei Li, Saryu Fensin
+Osman El-Atwani, H.T. Vo, N. Krienke, <b>Enrique Martínez</b>, Jon K. Baldwin, Wei–Ying Chen, Meimei Li, Saryu Fensin
 
 May 2023
 
