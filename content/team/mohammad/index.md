@@ -33,6 +33,7 @@ I am currently a Ph.D. student and Graduate Research Assistant in Mechanical Eng
 
 [Linkedin Profile](https://www.linkedin.com/in/mohammadhossein-nahavandian) 
 
-[Short CV](https://www.linkedin.com/in/mohammadhossein-nahavandian) 
+[CV](CV-Mohammadhossein Nahavandian new.pdf).
+
 ---
 Email: mnahava@clemson.edu
