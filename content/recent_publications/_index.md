@@ -272,19 +272,6 @@ We report a systematic computational analysis of the mechanical behavior of plas
 [https://doi.org/10.1021/acsami.2c20795](https://doi.org/10.1021/acsami.2c20795)
 
 ---
-**From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
-
-Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
-
-January 2023
-
-<sub><sup>
-High-entropy materials represent the state-of-the-art on the alloy design strategy for future applications in extreme environments. Recent data indicates that high-entropy alloys (HEAs) exhibit outstanding radiation resistance in face of existing diluted alloy counterparts due to suppressed damage formation and evolution. An extension of the HEA concept is presented in this paper towards the synthesis and characterization of novel high-entropy ceramics as emergent materials for application in environments where energetic particle irradiation is a major concern. A novel carbide within the quinary refractory system CrNbTaTiW has been synthesized using magnetron-sputtering. The material exhibited nanocrystalline grains, singlephase crystal structure and C content around 50 at.%. Heavy-ion irradiation with in-situ Transmission Electron Microscopy was used to assess the irradiation response of the new highentropy carbide (HEC) at 573 K and a comparison with the HEA within the system is made. No displacement damage effects appear within the microstructures of both HEA and HEC up to a dose of 17 displacements-per-atom. Surprisingly, the HEC has not amorphized under the investigated conditions. Xe was implanted in both materials and bubbles nucleated, but smaller sizes compared with conventional nuclear materials shedding light they are potential candidates for use in nuclear energy.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
-
----
 **Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
 
 <b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
@@ -296,6 +283,19 @@ Short-range order (SRO) in multicomponent concentrated alloys affects their mech
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
+
+---
+**From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
+
+Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
+
+January 2023
+
+<sub><sup>
+High-entropy materials represent the state-of-the-art on the alloy design strategy for future applications in extreme environments. Recent data indicates that high-entropy alloys (HEAs) exhibit outstanding radiation resistance in face of existing diluted alloy counterparts due to suppressed damage formation and evolution. An extension of the HEA concept is presented in this paper towards the synthesis and characterization of novel high-entropy ceramics as emergent materials for application in environments where energetic particle irradiation is a major concern. A novel carbide within the quinary refractory system CrNbTaTiW has been synthesized using magnetron-sputtering. The material exhibited nanocrystalline grains, singlephase crystal structure and C content around 50 at.%. Heavy-ion irradiation with in-situ Transmission Electron Microscopy was used to assess the irradiation response of the new highentropy carbide (HEC) at 573 K and a comparison with the HEA within the system is made. No displacement damage effects appear within the microstructures of both HEA and HEC up to a dose of 17 displacements-per-atom. Surprisingly, the HEC has not amorphized under the investigated conditions. Xe was implanted in both materials and bubbles nucleated, but smaller sizes compared with conventional nuclear materials shedding light they are potential candidates for use in nuclear energy.
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
 
 ---
 **Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
