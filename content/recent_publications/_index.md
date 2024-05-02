@@ -90,19 +90,6 @@ This study explores the intricate interactions between grain boundaries (GBs) an
 [https://doi.org/10.48550/arxiv.2403.12257](https://doi.org/10.48550/arxiv.2403.12257)
 
 ---
-**Microstructural evolution and transmutation in tungsten under ion and neutron irradiation**
-
-Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Mikhiel Hattar, Osman El-Atwani, D. Nguyen-Manh, Michael P. Moody, P.A.J. Bagot, David E.J. Armstrong
-
-March 2024
-
-<sub><sup>
-This study aims to compare the effects of neutron and self-ion irradiation on the mechanical properties and microstructural evolution in W. Neutron irradiation at the HFR reactor to 1.67 dpa at 800 °C resulted in the formation of large Re and Os rich clusters and voids. The post-irradiation composition was measured using APT and verfified against FISPACT modelling. The measured Re and Os concentration was used to create alloys with equivalent concentrations of Re and Os. These alloys were exposed to self-ion irradiation to a peak dose of 1.7 dpa at 800 °C. APT showed that self-ion irradiation leads to the formation of small Os clusters, wheras under neutron irradiation large Re/Os clusters form. Voids are formed by both ion and neutron irradiation, but the voids formed by neutron irradiation are larger. By comparing the behaviour of W-1.4Re and W-1.4Re-0.1Os, suppression of Re cluster formation was observed. Irradiation hardening was measured using nanoindentation and was found to be 2.7 GPa, after neutron irradiation and 1.6 GPa and 0.6 GPa for the self-ion irradiated W-1.4Re and W-1.4Re-0.1Os. The higher hardening is attributed to the barrier strength of large voids and Re/Os clusters that are observed after neutron irradiation.
-</sup></sub>
-
-[https://doi.org/10.1016/j.mtla.2023.101991](https://doi.org/10.1016/j.mtla.2023.101991)
-
----
 **Shock wave induced migration of an edge dislocation dipole in alpha-Fe**
 
 Santiago Heredia-Ávalos, Cristian D. Denton, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
@@ -114,6 +101,19 @@ The mobility of a 1/2〈111〉{110} edge dipole in alpha-iron has been studied u
 </sup></sub>
 
 [https://doi.org/10.1016/j.jnucmat.2023.154878](https://doi.org/10.1016/j.jnucmat.2023.154878)
+
+---
+**Microstructural evolution and transmutation in tungsten under ion and neutron irradiation**
+
+Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Mikhiel Hattar, Osman El-Atwani, D. Nguyen-Manh, Michael P. Moody, P.A.J. Bagot, David E.J. Armstrong
+
+March 2024
+
+<sub><sup>
+This study aims to compare the effects of neutron and self-ion irradiation on the mechanical properties and microstructural evolution in W. Neutron irradiation at the HFR reactor to 1.67 dpa at 800 °C resulted in the formation of large Re and Os rich clusters and voids. The post-irradiation composition was measured using APT and verfified against FISPACT modelling. The measured Re and Os concentration was used to create alloys with equivalent concentrations of Re and Os. These alloys were exposed to self-ion irradiation to a peak dose of 1.7 dpa at 800 °C. APT showed that self-ion irradiation leads to the formation of small Os clusters, wheras under neutron irradiation large Re/Os clusters form. Voids are formed by both ion and neutron irradiation, but the voids formed by neutron irradiation are larger. By comparing the behaviour of W-1.4Re and W-1.4Re-0.1Os, suppression of Re cluster formation was observed. Irradiation hardening was measured using nanoindentation and was found to be 2.7 GPa, after neutron irradiation and 1.6 GPa and 0.6 GPa for the self-ion irradiated W-1.4Re and W-1.4Re-0.1Os. The higher hardening is attributed to the barrier strength of large voids and Re/Os clusters that are observed after neutron irradiation.
+</sup></sub>
+
+[https://doi.org/10.1016/j.mtla.2023.101991](https://doi.org/10.1016/j.mtla.2023.101991)
 
 ---
 **Stochastic Integration of the Cahn-Hilliard Phase Field Equations**
