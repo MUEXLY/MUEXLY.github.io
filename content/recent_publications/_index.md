@@ -36,19 +36,6 @@ Abstract Dislocation mobility, which dictates the response of dislocations to an
 [https://doi.org/10.21203/rs.3.rs-4171499/v1](https://doi.org/10.21203/rs.3.rs-4171499/v1)
 
 ---
-**From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle bypass: Atomistic simulations and theoretical investigation**
-
-<b>Mohammadhossein Nahavandian</b>, Samir Sarkar, Soumendu Bagchi, Danny Pérez, <b>Enrique Martínez</b>
-
-April 2024
-
-<sub><sup>
-Dislocations are the primary carriers of plasticity in metallic materials. Understanding the basic mechanisms for dislocation movement is paramount to predicting the material mechanical response. Relying on atomistic simulations, we observe a transition from non-Arrhenius to Arrhenius behavior in the rate of an edge dislocation overcoming the long-range elastic interaction with a prismatic loop in tungsten. Close to the critical resolved shear stress, the process shows a non-Arrhenius behavior at low temperatures. However, as the temperature increases, the activation entropy starts to dominate, leading to a traditional Arrhenius-like behavior. We have computed the activation entropy analytically along the minimum energy path following Schoeck's method [1], which captures the cross-over between anti-Arrhenius and Arrhenius domains. Also, the Projected Average Force Integrator (PAFI) [2], another simulation method to compute free energies along an initial transition path, exhibits considerable concurrence with Schoeck's formalism. We conclude that entropic effects need to be considered to understand processes involving dislocations bypassing elastic barriers close to the critical resolved shear stress. More work needs to be performed to fully understand the discrepancies between Schoeck's and PAFI compared to molecular dynamics.
-</sup></sub>
-
-[https://doi.org/10.1016/j.commatsci.2024.112954](https://doi.org/10.1016/j.commatsci.2024.112954)
-
----
 **Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e435" altimg="si2.svg"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
 
 Cristian D. Denton, Santiago Heredia-Ávalos, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
@@ -60,6 +47,19 @@ In this work we studied the effects of 20 keV collision cascades in alpha iron w
 </sup></sub>
 
 [https://doi.org/10.1016/j.nme.2024.101663](https://doi.org/10.1016/j.nme.2024.101663)
+
+---
+**From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle bypass: Atomistic simulations and theoretical investigation**
+
+<b>Mohammadhossein Nahavandian</b>, Samir Sarkar, Soumendu Bagchi, Danny Pérez, <b>Enrique Martínez</b>
+
+April 2024
+
+<sub><sup>
+Dislocations are the primary carriers of plasticity in metallic materials. Understanding the basic mechanisms for dislocation movement is paramount to predicting the material mechanical response. Relying on atomistic simulations, we observe a transition from non-Arrhenius to Arrhenius behavior in the rate of an edge dislocation overcoming the long-range elastic interaction with a prismatic loop in tungsten. Close to the critical resolved shear stress, the process shows a non-Arrhenius behavior at low temperatures. However, as the temperature increases, the activation entropy starts to dominate, leading to a traditional Arrhenius-like behavior. We have computed the activation entropy analytically along the minimum energy path following Schoeck's method [1], which captures the cross-over between anti-Arrhenius and Arrhenius domains. Also, the Projected Average Force Integrator (PAFI) [2], another simulation method to compute free energies along an initial transition path, exhibits considerable concurrence with Schoeck's formalism. We conclude that entropic effects need to be considered to understand processes involving dislocations bypassing elastic barriers close to the critical resolved shear stress. More work needs to be performed to fully understand the discrepancies between Schoeck's and PAFI compared to molecular dynamics.
+</sup></sub>
+
+[https://doi.org/10.1016/j.commatsci.2024.112954](https://doi.org/10.1016/j.commatsci.2024.112954)
 
 ---
 **Data-Driven Modeling of Dislocation Mobility from Atomistics using
@@ -272,19 +272,6 @@ We report a systematic computational analysis of the mechanical behavior of plas
 [https://doi.org/10.1021/acsami.2c20795](https://doi.org/10.1021/acsami.2c20795)
 
 ---
-**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
-
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
-
-January 2023
-
-<sub><sup>
-Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
-
----
 **From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
 
 Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
@@ -296,6 +283,19 @@ High-entropy materials represent the state-of-the-art on the alloy design strate
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
+
+---
+**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
+
+<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
+
+January 2023
+
+<sub><sup>
+Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
 
 ---
 **Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
@@ -428,19 +428,6 @@ First-wall materials in a fusion reactor are expected to withstand harsh conditi
 [https://doi.org/10.1063/5.0071935](https://doi.org/10.1063/5.0071935)
 
 ---
-**The mobility of small, over-pressurized helium bubbles in tungsten at 2000 K**
-
-Z.J. Bergstrom, Danny Pérez, <b>Enrique Martínez</b>
-
-December 2021
-
-<sub><sup>
-Fusion reactor environments inevitably lead to the formation of high-pressure helium bubbles whose nucleation, growth, and diffusion strongly impact the performance of plasma-facing components. This research describes a diffusion mechanism of over-pressurized bubbles via a sequence of Frenkel pair nucleation, self-interstitial migration, and Frenkel pair annihilation. Molecular dynamics was used to simulate the diffusion of small bubbles in tungsten at 2000 K with helium-per-vacancy ratios in the range of 4.5 to 7. The diffusion coefficients are calculated and their dependence on helium content, number of vacancies, and number of attached self-interstitials is characterized. It is found that bubbles are most mobile when the nucleation/annihilation rates of Frenkel pairs are nearly equal and when the bubbles nucleate and annihilate a single self-interstitial. All bubbles experience a peak diffusivity, which can be as high as 10−11 m2/s decreasing with bubble size. The calculated diffusion coefficients provide valuable insight into the mobility of small, high-pressure bubbles, and can be used as input parameters in mesoscale models to improve predictions of plasma-surface interactions. (LA-UR-21-21881)
-</sup></sub>
-
-[https://doi.org/10.1016/j.jnucmat.2021.153306](https://doi.org/10.1016/j.jnucmat.2021.153306)
-
----
 **Non-orthogonal computational grids for studying dislocation motion in phase field approaches**
 
 Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik Dayal, <b>Enrique Martínez</b>
@@ -452,6 +439,19 @@ In this work, new non-orthogonal computational grids are implemented into a phas
 </sup></sub>
 
 [https://doi.org/10.1016/j.commatsci.2021.110834](https://doi.org/10.1016/j.commatsci.2021.110834)
+
+---
+**The mobility of small, over-pressurized helium bubbles in tungsten at 2000 K**
+
+Z.J. Bergstrom, Danny Pérez, <b>Enrique Martínez</b>
+
+December 2021
+
+<sub><sup>
+Fusion reactor environments inevitably lead to the formation of high-pressure helium bubbles whose nucleation, growth, and diffusion strongly impact the performance of plasma-facing components. This research describes a diffusion mechanism of over-pressurized bubbles via a sequence of Frenkel pair nucleation, self-interstitial migration, and Frenkel pair annihilation. Molecular dynamics was used to simulate the diffusion of small bubbles in tungsten at 2000 K with helium-per-vacancy ratios in the range of 4.5 to 7. The diffusion coefficients are calculated and their dependence on helium content, number of vacancies, and number of attached self-interstitials is characterized. It is found that bubbles are most mobile when the nucleation/annihilation rates of Frenkel pairs are nearly equal and when the bubbles nucleate and annihilate a single self-interstitial. All bubbles experience a peak diffusivity, which can be as high as 10−11 m2/s decreasing with bubble size. The calculated diffusion coefficients provide valuable insight into the mobility of small, high-pressure bubbles, and can be used as input parameters in mesoscale models to improve predictions of plasma-surface interactions. (LA-UR-21-21881)
+</sup></sub>
+
+[https://doi.org/10.1016/j.jnucmat.2021.153306](https://doi.org/10.1016/j.jnucmat.2021.153306)
 
 ---
 **Perspectives on multiscale modelling and experiments to accelerate materials development for fusion**
