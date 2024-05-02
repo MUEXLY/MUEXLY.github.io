@@ -36,19 +36,6 @@ Abstract Dislocation mobility, which dictates the response of dislocations to an
 [https://doi.org/10.21203/rs.3.rs-4171499/v1](https://doi.org/10.21203/rs.3.rs-4171499/v1)
 
 ---
-**Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e435" altimg="si2.svg"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
-
-Cristian D. Denton, Santiago Heredia-Ávalos, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
-
-April 2024
-
-<sub><sup>
-In this work we studied the effects of 20 keV collision cascades in alpha iron with a 1/2〈111〉{110} edge dipole using molecular dynamics. We analysed three different cases: a) the primary knock-on atom (PKA) is centered between both dislocations, b) the PKA is closer to one of the dislocations, and c) the PKA is on top of one of the dislocations and directed towards it. Our calculations show enhanced formation of vacancy clusters in the bulk for intermediate distances due to the absorption of self-interstitials by the dislocation during the collision cascade reducing the recombination between vacancies and self-interstitials. This effect results in the formation of jogs at the dislocation and the consequent climb due to the absorption of the self-interstitials. As a result, there is an unbalance between vacancies and self-interstitials produced by the collision cascade, with a significantly larger number of vacancies than self-interstitials in the bulk and the formation of large vacancy clusters. When the collision cascade develops directly on top of the dislocation, jogs are formed due to both the absorption of vacancies and self-interstitials, inducing climb and with the total dislocation length increasing up to several nanometers.
-</sup></sub>
-
-[https://doi.org/10.1016/j.nme.2024.101663](https://doi.org/10.1016/j.nme.2024.101663)
-
----
 **From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle bypass: Atomistic simulations and theoretical investigation**
 
 <b>Mohammadhossein Nahavandian</b>, Samir Sarkar, Soumendu Bagchi, Danny Pérez, <b>Enrique Martínez</b>
@@ -60,6 +47,19 @@ Dislocations are the primary carriers of plasticity in metallic materials. Under
 </sup></sub>
 
 [https://doi.org/10.1016/j.commatsci.2024.112954](https://doi.org/10.1016/j.commatsci.2024.112954)
+
+---
+**Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e435" altimg="si2.svg"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
+
+Cristian D. Denton, Santiago Heredia-Ávalos, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
+
+April 2024
+
+<sub><sup>
+In this work we studied the effects of 20 keV collision cascades in alpha iron with a 1/2〈111〉{110} edge dipole using molecular dynamics. We analysed three different cases: a) the primary knock-on atom (PKA) is centered between both dislocations, b) the PKA is closer to one of the dislocations, and c) the PKA is on top of one of the dislocations and directed towards it. Our calculations show enhanced formation of vacancy clusters in the bulk for intermediate distances due to the absorption of self-interstitials by the dislocation during the collision cascade reducing the recombination between vacancies and self-interstitials. This effect results in the formation of jogs at the dislocation and the consequent climb due to the absorption of the self-interstitials. As a result, there is an unbalance between vacancies and self-interstitials produced by the collision cascade, with a significantly larger number of vacancies than self-interstitials in the bulk and the formation of large vacancy clusters. When the collision cascade develops directly on top of the dislocation, jogs are formed due to both the absorption of vacancies and self-interstitials, inducing climb and with the total dislocation length increasing up to several nanometers.
+</sup></sub>
+
+[https://doi.org/10.1016/j.nme.2024.101663](https://doi.org/10.1016/j.nme.2024.101663)
 
 ---
 **Data-Driven Modeling of Dislocation Mobility from Atomistics using
@@ -272,19 +272,6 @@ We report a systematic computational analysis of the mechanical behavior of plas
 [https://doi.org/10.1021/acsami.2c20795](https://doi.org/10.1021/acsami.2c20795)
 
 ---
-**From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
-
-Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
-
-January 2023
-
-<sub><sup>
-High-entropy materials represent the state-of-the-art on the alloy design strategy for future applications in extreme environments. Recent data indicates that high-entropy alloys (HEAs) exhibit outstanding radiation resistance in face of existing diluted alloy counterparts due to suppressed damage formation and evolution. An extension of the HEA concept is presented in this paper towards the synthesis and characterization of novel high-entropy ceramics as emergent materials for application in environments where energetic particle irradiation is a major concern. A novel carbide within the quinary refractory system CrNbTaTiW has been synthesized using magnetron-sputtering. The material exhibited nanocrystalline grains, singlephase crystal structure and C content around 50 at.%. Heavy-ion irradiation with in-situ Transmission Electron Microscopy was used to assess the irradiation response of the new highentropy carbide (HEC) at 573 K and a comparison with the HEA within the system is made. No displacement damage effects appear within the microstructures of both HEA and HEC up to a dose of 17 displacements-per-atom. Surprisingly, the HEC has not amorphized under the investigated conditions. Xe was implanted in both materials and bubbles nucleated, but smaller sizes compared with conventional nuclear materials shedding light they are potential candidates for use in nuclear energy.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
-
----
 **Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
 
 <b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
@@ -296,6 +283,19 @@ Short-range order (SRO) in multicomponent concentrated alloys affects their mech
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
+
+---
+**From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
+
+Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
+
+January 2023
+
+<sub><sup>
+High-entropy materials represent the state-of-the-art on the alloy design strategy for future applications in extreme environments. Recent data indicates that high-entropy alloys (HEAs) exhibit outstanding radiation resistance in face of existing diluted alloy counterparts due to suppressed damage formation and evolution. An extension of the HEA concept is presented in this paper towards the synthesis and characterization of novel high-entropy ceramics as emergent materials for application in environments where energetic particle irradiation is a major concern. A novel carbide within the quinary refractory system CrNbTaTiW has been synthesized using magnetron-sputtering. The material exhibited nanocrystalline grains, singlephase crystal structure and C content around 50 at.%. Heavy-ion irradiation with in-situ Transmission Electron Microscopy was used to assess the irradiation response of the new highentropy carbide (HEC) at 573 K and a comparison with the HEA within the system is made. No displacement damage effects appear within the microstructures of both HEA and HEC up to a dose of 17 displacements-per-atom. Surprisingly, the HEC has not amorphized under the investigated conditions. Xe was implanted in both materials and bubbles nucleated, but smaller sizes compared with conventional nuclear materials shedding light they are potential candidates for use in nuclear energy.
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
 
 ---
 **Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
