@@ -2,7 +2,7 @@
 
 ...and pre-prints, etc.*
 
-Last updated: May 10, 2024
+Last updated: May 13, 2024
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
@@ -12,7 +12,7 @@ Last updated: May 10, 2024
 **Grain boundary metastability controls irradiation resistance in
   nanocrystalline metals**
 
-Osman El-Atwani, A. Doak Barnett, <b>Enrique Martínez</b>, Jian Han, Asher C. Leff, Chang-Yu Hung, James E. Nathaniel, Sicong He, Emily M. Hopkins, Larissa M. Woryk, Khalid Mikhiel Hattar, Blas P. Uberuaga, David J. Srolovitz, Michael L. Falk, Jaime Marian, Mitra L. Taheri
+Osman El-Atwani, A. Doak Barnett, E. Martínez, Jian Han, Asher C. Leff, Chang-Yu Hung, James E. Nathaniel, Sicong He, Emily M. Hopkins, Larissa M. Woryk, Khalid Mikhiel Hattar, Blas P. Uberuaga, David J. Srolovitz, Michael L. Falk, Jaime Marian, Mitra L. Taheri
 
 April 2024
 
@@ -36,19 +36,6 @@ Abstract Dislocation mobility, which dictates the response of dislocations to an
 [https://doi.org/10.21203/rs.3.rs-4171499/v1](https://doi.org/10.21203/rs.3.rs-4171499/v1)
 
 ---
-**Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e435" altimg="si2.svg"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
-
-Cristian D. Denton, Santiago Heredia-Ávalos, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
-
-April 2024
-
-<sub><sup>
-In this work we studied the effects of 20 keV collision cascades in alpha iron with a 1/2〈111〉{110} edge dipole using molecular dynamics. We analysed three different cases: a) the primary knock-on atom (PKA) is centered between both dislocations, b) the PKA is closer to one of the dislocations, and c) the PKA is on top of one of the dislocations and directed towards it. Our calculations show enhanced formation of vacancy clusters in the bulk for intermediate distances due to the absorption of self-interstitials by the dislocation during the collision cascade reducing the recombination between vacancies and self-interstitials. This effect results in the formation of jogs at the dislocation and the consequent climb due to the absorption of the self-interstitials. As a result, there is an unbalance between vacancies and self-interstitials produced by the collision cascade, with a significantly larger number of vacancies than self-interstitials in the bulk and the formation of large vacancy clusters. When the collision cascade develops directly on top of the dislocation, jogs are formed due to both the absorption of vacancies and self-interstitials, inducing climb and with the total dislocation length increasing up to several nanometers.
-</sup></sub>
-
-[https://doi.org/10.1016/j.nme.2024.101663](https://doi.org/10.1016/j.nme.2024.101663)
-
----
 **From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle bypass: Atomistic simulations and theoretical investigation**
 
 <b>Mohammadhossein Nahavandian</b>, Samir Sarkar, Soumendu Bagchi, Danny Pérez, <b>Enrique Martínez</b>
@@ -62,10 +49,23 @@ Dislocations are the primary carriers of plasticity in metallic materials. Under
 [https://doi.org/10.1016/j.commatsci.2024.112954](https://doi.org/10.1016/j.commatsci.2024.112954)
 
 ---
+**Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e435" altimg="si2.svg"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
+
+Cristian D. Denton, Santiago Heredia-Ávalos, Juan Carlos Moreno‐Marín, E. Martínez, M.J. Caturla
+
+April 2024
+
+<sub><sup>
+In this work we studied the effects of 20 keV collision cascades in alpha iron with a 1/2〈111〉{110} edge dipole using molecular dynamics. We analysed three different cases: a) the primary knock-on atom (PKA) is centered between both dislocations, b) the PKA is closer to one of the dislocations, and c) the PKA is on top of one of the dislocations and directed towards it. Our calculations show enhanced formation of vacancy clusters in the bulk for intermediate distances due to the absorption of self-interstitials by the dislocation during the collision cascade reducing the recombination between vacancies and self-interstitials. This effect results in the formation of jogs at the dislocation and the consequent climb due to the absorption of the self-interstitials. As a result, there is an unbalance between vacancies and self-interstitials produced by the collision cascade, with a significantly larger number of vacancies than self-interstitials in the bulk and the formation of large vacancy clusters. When the collision cascade develops directly on top of the dislocation, jogs are formed due to both the absorption of vacancies and self-interstitials, inducing climb and with the total dislocation length increasing up to several nanometers.
+</sup></sub>
+
+[https://doi.org/10.1016/j.nme.2024.101663](https://doi.org/10.1016/j.nme.2024.101663)
+
+---
 **Data-Driven Modeling of Dislocation Mobility from Atomistics using
   Physics-Informed Machine Learning**
 
-Yifeng Tian, Soumendu Bagchi, <b>Liam Myhill</b>, Giacomo Po, <b>Enrique Martínez</b>, Yen Ting Lin, Nithin Mathew, Danny Pérez
+Yifeng Tian, Soumendu Bagchi, <b>Liam Myhill</b>, Giacomo Po, E. Martínez, Yen Ting Lin, Nithin Mathew, Danny Pérez
 
 March 2024
 
@@ -90,6 +90,19 @@ This study explores the intricate interactions between grain boundaries (GBs) an
 [https://doi.org/10.48550/arxiv.2403.12257](https://doi.org/10.48550/arxiv.2403.12257)
 
 ---
+**Shock wave induced migration of an edge dislocation dipole in alpha-Fe**
+
+Santiago Heredia-Ávalos, Cristian D. Denton, Juan Carlos Moreno‐Marín, E. Martínez, M.J. Caturla
+
+March 2024
+
+<sub><sup>
+The mobility of a 1/2〈111〉{110} edge dipole in alpha-iron has been studied using molecular dynamics simulations. Collision cascades generated by keV recoils have been shown to induce the migration of dislocations. In order to elucidate the origin of the motion of these dislocations, and separate the production of defects from temperature or pressure effects, a stressed region of different shapes (sphere and cylinder) is simulated close to the edge dipole. We observe that the generated shock wave triggers the movement of the dislocations even when no defects are produced. The shape of the distorted region and the character of the dislocations influence the way the dislocations move, due to the change in Peach-Koehler force direction and to the fact that the shock waves arrive to the different parts of the dislocations at different times.
+</sup></sub>
+
+[https://doi.org/10.1016/j.jnucmat.2023.154878](https://doi.org/10.1016/j.jnucmat.2023.154878)
+
+---
 **Microstructural evolution and transmutation in tungsten under ion and neutron irradiation**
 
 Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Mikhiel Hattar, Osman El-Atwani, D. Nguyen-Manh, Michael P. Moody, P.A.J. Bagot, David E.J. Armstrong
@@ -103,22 +116,9 @@ This study aims to compare the effects of neutron and self-ion irradiation on th
 [https://doi.org/10.1016/j.mtla.2023.101991](https://doi.org/10.1016/j.mtla.2023.101991)
 
 ---
-**Shock wave induced migration of an edge dislocation dipole in alpha-Fe**
-
-Santiago Heredia-Ávalos, Cristian D. Denton, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
-
-March 2024
-
-<sub><sup>
-The mobility of a 1/2〈111〉{110} edge dipole in alpha-iron has been studied using molecular dynamics simulations. Collision cascades generated by keV recoils have been shown to induce the migration of dislocations. In order to elucidate the origin of the motion of these dislocations, and separate the production of defects from temperature or pressure effects, a stressed region of different shapes (sphere and cylinder) is simulated close to the edge dipole. We observe that the generated shock wave triggers the movement of the dislocations even when no defects are produced. The shape of the distorted region and the character of the dislocations influence the way the dislocations move, due to the change in Peach-Koehler force direction and to the fact that the shock waves arrive to the different parts of the dislocations at different times.
-</sup></sub>
-
-[https://doi.org/10.1016/j.jnucmat.2023.154878](https://doi.org/10.1016/j.jnucmat.2023.154878)
-
----
 **Stochastic Integration of the Cahn-Hilliard Phase Field Equations**
 
-Qianran Yu, Nicholas Julian, Jaime Marian, <b>Enrique Martínez</b>
+Qianran Yu, Nicholas Julian, Jaime Marian, E. Martínez
 
 February 2024
 
@@ -131,7 +131,7 @@ In this work we develop a stochastic algorithm to integrate the Cahn-Hilliard eq
 ---
 **Langmuir-like model of dilute impurities in concentrated solid solutions**
 
-<b>Jacob Jeffries</b>, <b>Enrique Martínez</b>
+<b>Jacob Jeffries</b>, E. Martínez
 
 February 2024
 
@@ -144,7 +144,7 @@ High-entropy alloys have drawn recent interest for their promising mechanical pr
 ---
 **From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle bypass: Atomistic Simulations and Theoretical Investigation**
 
-<b>Mohammadhossein Nahavandian</b>, Samir Sarkar, Soumendu Bagchi, Danny Pérez, <b>Enrique Martínez</b>
+<b>Mohammadhossein Nahavandian</b>, Samir Sarkar, Soumendu Bagchi, Danny Pérez, E. Martínez
 
 January 2024
 
@@ -183,7 +183,7 @@ In this work, a kinetic Monte Carlo (KMC) scheme is integrated into a phase fiel
 ---
 **Predicting short-range order evolution in WTaCrVHf refractory high-entropy alloys**
 
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
+<b>Andrew Alvarado</b>, Chan-Ho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, E. Martínez, Osman El-Atwani
 
 August 2023
 
@@ -196,7 +196,7 @@ Short-range order (SRO) in multicomponent concentrated alloys affects their mech
 ---
 **Impact of Soret effect on hydrogen and helium retention in PFC tungsten under ELM-like conditions**
 
-Dwaipayan Dasgupta, Sophie Blondel, <b>Enrique Martínez</b>, Dimitrios Maroudas, Brian D. Wirth
+Dwaipayan Dasgupta, Sophie Blondel, E. Martínez, Dimitrios Maroudas, Brian D. Wirth
 
 June 2023
 
@@ -209,7 +209,7 @@ Abstract In our previous work, we have demonstrated using nonequilibrium molecul
 ---
 **Comparison of Dislocation Loop Formation Resistance in Nanocrystalline and Coarse-Grained Refractory High Entropy Alloys**
 
-Osman El-Atwani, H.T. Vo, N. Krienke, <b>Enrique Martínez</b>, Jon K. Baldwin, Wei‐Ying Chen, Meimei Li, Saryu Fensin
+Osman El-Atwani, H.T. Vo, N. Krienke, E. Martínez, Jon K. Baldwin, Wei‐Ying Chen, Meimei Li, Saryu Fensin
 
 May 2023
 
@@ -222,7 +222,7 @@ In nanocrystalline high entropy alloys (HEAs), the difference in chemistry and t
 ---
 **A quinary WTaCrVHf nanocrystalline refractory high-entropy alloy withholding extreme irradiation environments**
 
-Osman El-Atwani, H.T. Vo, Matheus A. Tunes, C. Lee, <b>Andrew Alvarado</b>, N. Krienke, Jonathan D. Poplawsky, Aaron A. Kohnert, Jonathan Gigax, W.-Y. Chen, M. Li, Yongqiang Wang, Jan Wróbel, D. Nguyen-Manh, Jon K. Baldwin, O. U. Tukac, Eda Aydoğan, Saryu Fensin, <b>Enrique Martínez</b>
+Osman El-Atwani, H.T. Vo, Matheus A. Tunes, C. Lee, <b>Andrew Alvarado</b>, N. Krienke, Jonathan D. Poplawsky, Aaron A. Kohnert, Jonathan Gigax, W.-Y. Chen, M. Li, Yongqiang Wang, Jan Wróbel, D. Nguyen-Manh, Jon K. Baldwin, O. U. Tukac, Eda Aydoğan, Saryu Fensin, E. Martínez
 
 May 2023
 
@@ -235,7 +235,7 @@ In the quest of new materials that can withstand severe irradiation and mechanic
 ---
 **From high-entropy alloys to high-entropy ceramics: The radiation-resistant highly concentrated refractory carbide (CrNbTaTiW)C**
 
-Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
+Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, E. Martínez, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
 
 May 2023
 
@@ -248,7 +248,7 @@ High-entropy materials represent the state-of-the-art on the alloy design strate
 ---
 **A methodology to generate crystal-based molecular structures for atomistic simulations**
 
-Christian F. A. Negre, <b>Andrew Alvarado</b>, Himanshu Singh, Joshua M. Finkelstein, <b>Enrique Martínez</b>, Romain Perriot
+Christian F. A. Negre, <b>Andrew Alvarado</b>, Himanshu Singh, Joshua M. Finkelstein, E. Martínez, Romain Perriot
 
 March 2023
 
@@ -261,7 +261,7 @@ We propose a systematic method to construct crystal-based molecular structures o
 ---
 **Molecular-Dynamics Analysis of the Mechanical Behavior of Plasma-Facing Tungsten**
 
-Asanka Weerasinghe, <b>Enrique Martínez</b>, Brian D. Wirth, Dimitrios Maroudas
+Asanka Weerasinghe, E. Martínez, Brian D. Wirth, Dimitrios Maroudas
 
 January 2023
 
@@ -274,7 +274,7 @@ We report a systematic computational analysis of the mechanical behavior of plas
 ---
 **Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
 
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
+<b>Andrew Alvarado</b>, Chan-Ho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, E. Martínez, Osman El-Atwani
 
 January 2023
 
@@ -287,7 +287,7 @@ Short-range order (SRO) in multicomponent concentrated alloys affects their mech
 ---
 **From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
 
-Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
+Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, E. Martínez, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
 
 January 2023
 
@@ -300,7 +300,7 @@ High-entropy materials represent the state-of-the-art on the alloy design strate
 ---
 **Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
 
-Nikhil Chandra Admal, Tusher Ahmed, <b>Enrique Martínez</b>, Giacomo Po
+Nikhil Chandra Admal, Tusher Ahmed, E. Martínez, Giacomo Po
 
 November 2022
 
@@ -326,7 +326,7 @@ Citation Martínez Sáez, Enrique (2007). Development of advanced numerical algo
 ---
 **Interstitial hydrogen enhances the mobility of some grain boundaries in tungsten**
 
-Nithin Mathew, Danny Pérez, Wonjoon Suk, Blas P. Uberuaga, <b>Enrique Martínez</b>
+Nithin Mathew, Danny Pérez, Wonjoon Suk, Blas P. Uberuaga, E. Martínez
 
 June 2022
 
@@ -378,7 +378,7 @@ Tungsten is the primary candidate materials for the high neutron flux, high temp
 ---
 **Atomistic and machine learning studies of solute segregation in metastable grain boundaries**
 
-Yasir Mahmood, Maher Alghalayini, <b>Enrique Martínez</b>, Christiaan J. J. Paredis, Fadi F. Abdeljawad
+Yasir Mahmood, Maher Alghalayini, E. Martínez, Christiaan J. J. Paredis, Fadi F. Abdeljawad
 
 April 2022
 
@@ -404,7 +404,7 @@ Solute strengthening is an important mechanism that contributes to improving the
 ---
 **Interface Dislocations and Grain Boundary Disconnections Using Smith Normal Bicrystallography**
 
-Nikhil Chandra Admal, <b>Enrique Martínez</b>, Giacomo Po
+Nikhil Chandra Admal, E. Martínez, Giacomo Po
 
 January 2022
 
@@ -417,7 +417,7 @@ The CSL/DSCL model for interfaces in crystalline materials offers a unified fram
 ---
 **Thermal gradient effect on helium and self-interstitial transport in tungsten**
 
-<b>Enrique Martínez</b>, Nithin Mathew, Danny Pérez, Sophie Blondel, Dwaipayan Dasgupta, Brian D. Wirth, Dimitrios Maroudas
+E. Martínez, Nithin Mathew, Danny Pérez, Sophie Blondel, Dwaipayan Dasgupta, Brian D. Wirth, Dimitrios Maroudas
 
 December 2021
 
@@ -430,7 +430,7 @@ First-wall materials in a fusion reactor are expected to withstand harsh conditi
 ---
 **The mobility of small, over-pressurized helium bubbles in tungsten at 2000 K**
 
-Z.J. Bergstrom, Danny Pérez, <b>Enrique Martínez</b>
+Z. J. Bergstrom, Danny Pérez, E. Martínez
 
 December 2021
 
@@ -443,7 +443,7 @@ Fusion reactor environments inevitably lead to the formation of high-pressure he
 ---
 **Non-orthogonal computational grids for studying dislocation motion in phase field approaches**
 
-Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik Dayal, <b>Enrique Martínez</b>
+Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik Dayal, E. Martínez
 
 December 2021
 
@@ -456,7 +456,7 @@ In this work, new non-orthogonal computational grids are implemented into a phas
 ---
 **Perspectives on multiscale modelling and experiments to accelerate materials development for fusion**
 
-Mark R. Gilbert, Kazuto Arakawa, Z.J. Bergstrom, M.J. Caturla, S. L. Dudarev, Fei Gao, Alexandra M. Goryaeva, Sanmei Hu, Xunxiang Hu, Richard J. Kurtz, A. Litnovsky, Jaime Marian, Mihai-Cosmin Marinica, <b>Enrique Martínez</b>, Emmanuelle A. Marquis, Daniel R. Mason, Ba Nghiep Nguyen, Pär Olsson, Yu.N. Osetsky, David J. Senor, Wahyu Setyawan, Michael P. Short, Tomoaki Suzudo, Jason R. Trelewicz, Tomohito Tsuru, Gary S. Was, Brian D. Wirth, Yang Li, Yanwen Zhang, Steven J. Zinkle
+Mark R. Gilbert, Kazuto Arakawa, Z. J. Bergstrom, M.J. Caturla, S. L. Dudarev, Fei Gao, Alexandra M. Goryaeva, Sanmei Hu, Xunxiang Hu, Richard J. Kurtz, A. Litnovsky, Jaime Marian, Mihai-Cosmin Marinica, E. Martínez, Emmanuelle A. Marquis, Daniel R. Mason, Ba Nghiep Nguyen, Pär Olsson, Yu.N. Osetsky, David J. Senor, Wahyu Setyawan, Michael P. Short, Tomoaki Suzudo, Jason R. Trelewicz, Tomohito Tsuru, Gary S. Was, Brian D. Wirth, Yang Li, Yanwen Zhang, Steven J. Zinkle
 
 October 2021
 
@@ -469,7 +469,7 @@ Prediction of material performance in fusion reactor environments relies on comp
 ---
 **Development of a solute and defect concentration dependant Ising model for the study of transmutation induced segregation in neutron irradiated W–(Re, Os) systems**
 
-Matthew J. Lloyd, <b>Enrique Martínez</b>, Luca Messina, D. Nguyen-Manh
+Matthew J. Lloyd, E. Martínez, Luca Messina, D. Nguyen-Manh
 
 September 2021
 
@@ -482,7 +482,7 @@ Abstract In this study, radiation-induced precipitation of transmutation product
 ---
 **A stochastic solver based on the residence time algorithm for crystal plasticity models**
 
-Qianran Yu, <b>Enrique Martínez</b>, Javier Segurado, Jaime Marian
+Qianran Yu, E. Martínez, Javier Segurado, Jaime Marian
 
 August 2021
 
@@ -495,7 +495,7 @@ Abstract The deformation of crystalline materials by dislocation motion takes pl
 ---
 **Strain Effects on the Diffusion Properties of Near-Surface Self-Interstitial Atoms and Adatoms in Tungsten**
 
-Bochuan Sun, Dimitrios Maroudas, Brian D. Wirth, <b>Enrique Martínez</b>
+Bochuan Sun, Dimitrios Maroudas, Brian D. Wirth, E. Martínez
 
 July 2021
 
@@ -508,7 +508,7 @@ Tungsten (W) is a candidate for the plasma-facing components and divertor in fut
 ---
 **Relative relevance of mobility and driving force on edge dislocation climb by the vacancy mechanism**
 
-<b>Enrique Martínez</b>, Alankar Alankar, A. Caro, Thomas Jourdan
+E. Martínez, Alankar Alankar, A. Caro, Thomas Jourdan
 
 June 2021
 
@@ -521,7 +521,7 @@ In this work we examine the driving force for edge dislocations to climb in α-F
 ---
 **On the cross-slip of screw dislocations in zirconium**
 
-Y Li, Sabyasachi Chatterjee, <b>Enrique Martínez</b>, Nasr M. Ghoniem, Giacomo Po
+Y Li, Sabyasachi Chatterjee, E. Martínez, Nasr M. Ghoniem, Giacomo Po
 
 April 2021
 
@@ -547,7 +547,7 @@ March 2021
 ---
 **Helium implantation damage resistance in nanocrystalline W-Ta-V-Cr high entropy alloys**
 
-Osman El-Atwani, <b>Andrew Alvarado</b>, Kaan Unal, Saryu Fensin, John Hinks, Graeme Greaves, Jon K. Baldwin, Stuart A. Maloy, <b>Enrique Martínez</b>
+Osman El-Atwani, <b>Andrew Alvarado</b>, Kaan Unal, Saryu Fensin, John Hinks, Graeme Greaves, Jon K. Baldwin, Stuart A. Maloy, E. Martínez
 
 March 2021
 
@@ -560,7 +560,7 @@ Nanocrystalline W-Ta-Cr-V high entropy alloys have shown promising properties as
 ---
 **Collision cascade effects near an edge dislocation dipole in alpha-Fe: Induced dislocation mobility and enhanced defect clustering**
 
-Santiago Heredia-Ávalos, Cristian D. Denton, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
+Santiago Heredia-Ávalos, Cristian D. Denton, Juan Carlos Moreno-Marı́n, E. Martínez, M.J. Caturla
 
 January 2021
 
@@ -573,7 +573,7 @@ Collision cascades near a 1/2⟨111⟩{110} edge dipole in alpha-iron have been 
 ---
 **A pathway to synthesizing single-crystal Fe and FeCr films**
 
-Benjamin Derby, Jacob Cooper, Timothy G. Lach, <b>Enrique Martínez</b>, Hyosim Kim, J. Kevin Baldwin, Djamel Kaoumi, Danny J. Edwards, Daniel K. Schreiber, Blas P. Uberuaga, Ning Li
+Benjamin Derby, Jacob Cooper, Timothy G. Lach, E. Martínez, Hyosim Kim, J. Kevin Baldwin, Djamel Kaoumi, Danny J. Edwards, Daniel K. Schreiber, Blas P. Uberuaga, Ning Li
 
 December 2020
 
@@ -586,7 +586,7 @@ Nuclear reactor environments provide a unique scientific and engineering challen
 ---
 **Relative relevance of mobility and driving force on edge dislocation climb by the vacancy mechanism**
 
-<b>Enrique Martínez</b>, Alankar Alankar, A. Caro, Thomas Jourdan
+E. Martínez, Alankar Alankar, A. Caro, Thomas Jourdan
 
 November 2020
 
@@ -599,7 +599,7 @@ In this work we examine the driving force for edge dislocations to climb in $\al
 ---
 **Point defect evolution under irradiation: Finite size effects and spatio-temporal correlations**
 
-<b>Enrique Martínez</b>, Frédéric Soisson, Maylise Nastar
+E. Martínez, Frédéric Soisson, Maylise Nastar
 
 October 2020
 
@@ -612,7 +612,7 @@ The evolution of point defect concentrations under irradiation is controlled by 
 ---
 **Prediction of the Al-rich part of the Al-Cu phase diagram using cluster expansion and statistical mechanics**
 
-S. Liu, <b>Enrique Martínez</b>, J. LLorca
+S. Liu, E. Martínez, J. LLorca
 
 August 2020
 
@@ -625,7 +625,7 @@ The thermodynamic properties of α-Al and other phases (GP zones, θ'', θ' and 
 ---
 **Opposite trends in the microstructural evolution of irradiated ceramics driven by asymmetric defect migration energies**
 
-A. Debelle, Jean-Paul Crocombette, Alexandre Boulle, <b>Enrique Martínez</b>, Blas P. Uberuaga, Diana Bachiller‐Perea, L. Thomé, M. Behar
+A. Debelle, Jean-Paul Crocombette, Alexandre Boulle, E. Martínez, Blas P. Uberuaga, Diana Bachiller‐Perea, L. Thomé, M. Behar
 
 June 2020
 
@@ -638,7 +638,7 @@ X-ray diffraction experiments complemented with numerical simulations reveal tha
 ---
 **Temperature threshold for preferential bubble formation on grain boundaries in tungsten under in-situ helium irradiation**
 
-Osman El-Atwani, William H. Cunningham, Danny Pérez, <b>Enrique Martínez</b>, Jason R. Trelewicz, M. Li, Stuart A. Maloy
+Osman El-Atwani, William H. Cunningham, Danny Pérez, E. Martínez, Jason R. Trelewicz, M. Li, Stuart A. Maloy
 
 April 2020
 
@@ -651,7 +651,7 @@ Understanding a material's radiation tolerance requires examining its performanc
 ---
 **Reaction Rates in Nitromethane under High Pressure from Density Functional Tight Binding Molecular Dynamics Simulations**
 
-Romain Perriot, Marc J. Cawkwell, <b>Enrique Martínez</b>, Shawn McGrane
+Romain Perriot, Marc Cawkwell, E. Martínez, Shawn McGrane
 
 March 2020
 
