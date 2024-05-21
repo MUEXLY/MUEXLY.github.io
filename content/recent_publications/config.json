@@ -7,10 +7,12 @@
     "excluded_publications": [
         "W4389939228",
         "W4391351611",
-        "W4380482838"
+        "W4380482838",
+        "W1735286682"
     ],
     "authors_to_bold": [
         "Enrique Martínez",
+        "E. Martínez",
         "Mohammadhossein Nahavandian",
         "Liam Myhill",
         "Jacob Jeffries",

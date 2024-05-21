@@ -1,13 +1,13 @@
 ---
 title: "Jacob Jeffries"
 draft: false
-date: 2024-03-22T18:16:35+0000
+date: 2024-05-21T01:43:45+0000
 description: "Ph.D. Student in Materials Science and Engineering"
 ---
 
 Hello! 👋
 
-My name is Jacob and I am currently a Ph.D. student in Materials Science and Engineering.
+My name is Jacob and I am currently a Ph.D. student in Materials Science and Engineering. I am also the Vice President of the [CECAS Graduate Student Advisory Board](https://www.clemson.edu/cecas/students/community/gsab.html).
 
 I joined the group in 2022 as an undergraduate performing molecular dynamics simulations of vacancy hopping in tungsten subject to a strong thermal gradient.
 
