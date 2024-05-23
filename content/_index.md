@@ -16,8 +16,8 @@
   <tr>
     <td>
         <figure>
-            <img src="placeholder.png" alt="Trulli" style="width:100%">
-            <figcaption>Caption here</figcaption>
+            <img src="mlDDD.gif" alt="Trulli" style="width:100%">
+            <figcaption>Continuum Dislocation Dynamics simulation with Machine Learning Mobility for Fe</figcaption>
         </figure>
     </td>
     <td>
