@@ -24,7 +24,7 @@ I am currently a Ph.D. student and Graduate Research Assistant in Mechanical Eng
 - Clemson University's Mechanical Engineering Department [ME Graduate Teaching Excellence Award 2024](MEExcellenceAward2024.jpg).
 ---
 
-**Social Avcivities:**
+**Social Activities:**
 - Director of Communications at Clemson Iranian Students Organization (Fall 2022 - Fall 2023).
 - Member of Mechanical Engineering Graduate Student Council [(MEGSC)](https://www.clemson.edu/cecas/departments/me/academics/graduate/megsc.html) at Clemson University (Fall 2023 - present).
 
