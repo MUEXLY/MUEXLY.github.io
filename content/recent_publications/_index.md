@@ -2,7 +2,7 @@
 
 ...and pre-prints, etc.*
 
-Last updated: May 23, 2024
+Last updated: June 14, 2024
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
@@ -36,19 +36,6 @@ Abstract Dislocation mobility, which dictates the response of dislocations to an
 [https://doi.org/10.21203/rs.3.rs-4171499/v1](https://doi.org/10.21203/rs.3.rs-4171499/v1)
 
 ---
-**Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e435" altimg="si2.svg"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
-
-Cristian D. Denton, Santiago Heredia-Ávalos, Juan Carlos Moreno-Marı́n, <b>E. Martínez</b>, M.J. Caturla
-
-April 2024
-
-<sub><sup>
-In this work we studied the effects of 20 keV collision cascades in alpha iron with a 1/2〈111〉{110} edge dipole using molecular dynamics. We analysed three different cases: a) the primary knock-on atom (PKA) is centered between both dislocations, b) the PKA is closer to one of the dislocations, and c) the PKA is on top of one of the dislocations and directed towards it. Our calculations show enhanced formation of vacancy clusters in the bulk for intermediate distances due to the absorption of self-interstitials by the dislocation during the collision cascade reducing the recombination between vacancies and self-interstitials. This effect results in the formation of jogs at the dislocation and the consequent climb due to the absorption of the self-interstitials. As a result, there is an unbalance between vacancies and self-interstitials produced by the collision cascade, with a significantly larger number of vacancies than self-interstitials in the bulk and the formation of large vacancy clusters. When the collision cascade develops directly on top of the dislocation, jogs are formed due to both the absorption of vacancies and self-interstitials, inducing climb and with the total dislocation length increasing up to several nanometers.
-</sup></sub>
-
-[https://doi.org/10.1016/j.nme.2024.101663](https://doi.org/10.1016/j.nme.2024.101663)
-
----
 **From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle bypass: Atomistic simulations and theoretical investigation**
 
 <b>Mohammadhossein Nahavandian</b>, Samir Sarkar, Soumendu Bagchi, Danny Pérez, <b>Enrique Martínez</b>
@@ -60,6 +47,19 @@ Dislocations are the primary carriers of plasticity in metallic materials. Under
 </sup></sub>
 
 [https://doi.org/10.1016/j.commatsci.2024.112954](https://doi.org/10.1016/j.commatsci.2024.112954)
+
+---
+**Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e435" altimg="si2.svg"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
+
+Cristian D. Denton, Santiago Heredia-Ávalos, Juan Carlos Moreno-Marı́n, <b>E. Martínez</b>, M.J. Caturla
+
+April 2024
+
+<sub><sup>
+In this work we studied the effects of 20 keV collision cascades in alpha iron with a 1/2〈111〉{110} edge dipole using molecular dynamics. We analysed three different cases: a) the primary knock-on atom (PKA) is centered between both dislocations, b) the PKA is closer to one of the dislocations, and c) the PKA is on top of one of the dislocations and directed towards it. Our calculations show enhanced formation of vacancy clusters in the bulk for intermediate distances due to the absorption of self-interstitials by the dislocation during the collision cascade reducing the recombination between vacancies and self-interstitials. This effect results in the formation of jogs at the dislocation and the consequent climb due to the absorption of the self-interstitials. As a result, there is an unbalance between vacancies and self-interstitials produced by the collision cascade, with a significantly larger number of vacancies than self-interstitials in the bulk and the formation of large vacancy clusters. When the collision cascade develops directly on top of the dislocation, jogs are formed due to both the absorption of vacancies and self-interstitials, inducing climb and with the total dislocation length increasing up to several nanometers.
+</sup></sub>
+
+[https://doi.org/10.1016/j.nme.2024.101663](https://doi.org/10.1016/j.nme.2024.101663)
 
 ---
 **Data-Driven Modeling of Dislocation Mobility from Atomistics using
@@ -90,19 +90,6 @@ This study explores the intricate interactions between grain boundaries (GBs) an
 [https://doi.org/10.48550/arxiv.2403.12257](https://doi.org/10.48550/arxiv.2403.12257)
 
 ---
-**Microstructural evolution and transmutation in tungsten under ion and neutron irradiation**
-
-Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Hattar, Osman El-Atwani, D. Nguyen-Manh, Michael P. Moody, P.A.J. Bagot, David E.J. Armstrong
-
-March 2024
-
-<sub><sup>
-This study aims to compare the effects of neutron and self-ion irradiation on the mechanical properties and microstructural evolution in W. Neutron irradiation at the HFR reactor to 1.67 dpa at 800 °C resulted in the formation of large Re and Os rich clusters and voids. The post-irradiation composition was measured using APT and verfified against FISPACT modelling. The measured Re and Os concentration was used to create alloys with equivalent concentrations of Re and Os. These alloys were exposed to self-ion irradiation to a peak dose of 1.7 dpa at 800 °C. APT showed that self-ion irradiation leads to the formation of small Os clusters, wheras under neutron irradiation large Re/Os clusters form. Voids are formed by both ion and neutron irradiation, but the voids formed by neutron irradiation are larger. By comparing the behaviour of W-1.4Re and W-1.4Re-0.1Os, suppression of Re cluster formation was observed. Irradiation hardening was measured using nanoindentation and was found to be 2.7 GPa, after neutron irradiation and 1.6 GPa and 0.6 GPa for the self-ion irradiated W-1.4Re and W-1.4Re-0.1Os. The higher hardening is attributed to the barrier strength of large voids and Re/Os clusters that are observed after neutron irradiation.
-</sup></sub>
-
-[https://doi.org/10.1016/j.mtla.2023.101991](https://doi.org/10.1016/j.mtla.2023.101991)
-
----
 **Shock wave induced migration of an edge dislocation dipole in alpha-Fe**
 
 Santiago Heredia-Ávalos, Cristian D. Denton, Juan Carlos Moreno-Marı́n, <b>E. Martínez</b>, M.J. Caturla
@@ -116,9 +103,22 @@ The mobility of a 1/2〈111〉{110} edge dipole in alpha-iron has been studied u
 [https://doi.org/10.1016/j.jnucmat.2023.154878](https://doi.org/10.1016/j.jnucmat.2023.154878)
 
 ---
+**Microstructural evolution and transmutation in tungsten under ion and neutron irradiation**
+
+Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Hattar, Osman El-Atwani, D. Nguyen-Manh, Michael P. Moody, P.A.J. Bagot, David E.J. Armstrong
+
+March 2024
+
+<sub><sup>
+This study aims to compare the effects of neutron and self-ion irradiation on the mechanical properties and microstructural evolution in W. Neutron irradiation at the HFR reactor to 1.67 dpa at 800 °C resulted in the formation of large Re and Os rich clusters and voids. The post-irradiation composition was measured using APT and verfified against FISPACT modelling. The measured Re and Os concentration was used to create alloys with equivalent concentrations of Re and Os. These alloys were exposed to self-ion irradiation to a peak dose of 1.7 dpa at 800 °C. APT showed that self-ion irradiation leads to the formation of small Os clusters, wheras under neutron irradiation large Re/Os clusters form. Voids are formed by both ion and neutron irradiation, but the voids formed by neutron irradiation are larger. By comparing the behaviour of W-1.4Re and W-1.4Re-0.1Os, suppression of Re cluster formation was observed. Irradiation hardening was measured using nanoindentation and was found to be 2.7 GPa, after neutron irradiation and 1.6 GPa and 0.6 GPa for the self-ion irradiated W-1.4Re and W-1.4Re-0.1Os. The higher hardening is attributed to the barrier strength of large voids and Re/Os clusters that are observed after neutron irradiation.
+</sup></sub>
+
+[https://doi.org/10.1016/j.mtla.2023.101991](https://doi.org/10.1016/j.mtla.2023.101991)
+
+---
 **Stochastic Integration of the Cahn-Hilliard Phase Field Equations**
 
-Qianran Yu, Nicholas Julian, Jaime Marian, <b>E. Martínez</b>
+Qianran Yu, Nick Julian, Jaime Marian, <b>E. Martínez</b>
 
 February 2024
 
@@ -157,7 +157,7 @@ Dislocations are the primary carriers of plasticity in metallic material. Unders
 ---
 **A novel route to fibers with volatile crystalline semiconductor cores part 2: Selenides and phosphides**
 
-Thomasina Zaengle, <b>Enrique Martínez</b>, Thomas Hawkins, Colin D. McMillen, John Ballato
+Thomasina Zaengle, <b>Enrique Martínez</b>, Thomas W. Hawkins, Colin D. McMillen, John Ballato
 
 November 2023
 
@@ -183,7 +183,7 @@ In this work, a kinetic Monte Carlo (KMC) scheme is integrated into a phase fiel
 ---
 **Predicting short-range order evolution in WTaCrVHf refractory high-entropy alloys**
 
-<b>Andrew Alvarado</b>, Chan-Ho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>E. Martínez</b>, Osman El-Atwani
+<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>E. Martínez</b>, Osman El-Atwani
 
 August 2023
 
@@ -222,7 +222,7 @@ In nanocrystalline high entropy alloys (HEAs), the difference in chemistry and t
 ---
 **A quinary WTaCrVHf nanocrystalline refractory high-entropy alloy withholding extreme irradiation environments**
 
-Osman El-Atwani, H.T. Vo, Matheus A. Tunes, C. Lee, <b>Andrew Alvarado</b>, N. Krienke, Jonathan D. Poplawsky, Aaron A. Kohnert, Jonathan Gigax, W.-Y. Chen, M. Li, Yongqiang Wang, Jan Wróbel, D. Nguyen-Manh, Jon K. Baldwin, O. U. Tukac, Eda Aydoğan, Saryu Fensin, <b>E. Martínez</b>
+Osman El-Atwani, H.T. Vo, Matheus A. Tunes, C. Lee, <b>Andrew Alvarado</b>, N. Krienke, Jonathan D. Poplawsky, Aaron A. Kohnert, Jonathan Gigax, W.-Y. Chen, M. Li, Yongqiang Wang, Jan Wróbel, D. Nguyen-Manh, Jon K. Baldwin, O. U. Tukac, Eda Aydogan, Saryu Fensin, <b>E. Martínez</b>
 
 May 2023
 
@@ -287,7 +287,7 @@ High-entropy materials represent the state-of-the-art on the alloy design strate
 ---
 **Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
 
-<b>Andrew Alvarado</b>, Chan-Ho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>E. Martínez</b>, Osman El-Atwani
+<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>E. Martínez</b>, Osman El-Atwani
 
 January 2023
 
@@ -352,7 +352,7 @@ May 2022
 ---
 **Interaction of transmutation products with precipitates, dislocations and grain boundaries in neutron irradiated W**
 
-Matthew J. Lloyd, Andrew London, Jack Haley, Mark R. Gilbert, Charlotte Becquart, Christophe Domain, <b>Enrique Martínez</b>, Michael P. Moody, P.A.J. Bagot, D. Nguyen-Manh, David E.J. Armstrong
+Matthew J. Lloyd, Andrew London, Jack Haley, Mark R. Gilbert, S Becquart, Christophe Domain, <b>Enrique Martínez</b>, Michael P. Moody, P.A.J. Bagot, D. Nguyen-Manh, David E.J. Armstrong
 
 May 2022
 
@@ -508,7 +508,7 @@ In this work we examine the driving force for edge dislocations to climb in α-F
 ---
 **On the cross-slip of screw dislocations in zirconium**
 
-Y Li, Sabyasachi Chatterjee, <b>E. Martínez</b>, Nasr M. Ghoniem, Giacomo Po
+Y. Li, Sabyasachi Chatterjee, <b>E. Martínez</b>, Nasr M. Ghoniem, Giacomo Po
 
 April 2021
 
@@ -599,7 +599,7 @@ The evolution of point defect concentrations under irradiation is controlled by 
 ---
 **Prediction of the Al-rich part of the Al-Cu phase diagram using cluster expansion and statistical mechanics**
 
-S. Liu, <b>E. Martínez</b>, J. LLorca
+S. Liu, <b>E. Martínez</b>, J. Llorca
 
 August 2020
 
