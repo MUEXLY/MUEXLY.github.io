@@ -15,4 +15,8 @@ Liam continued to work with Professor Enrique throughout a 2 year Masters progra
 
 Liam is continuing his academic career as a Ph.D. student studying more complex cases of thermally activated dislocation behavior, including stacking fault tetrahedra annihilation, prismatic loop rafting, and dislocation junction zipping and unzipping behaviors. 
 
+On October 31, 2024, Liam won the Mechanical Engineering graduate student government sponsored Pi-minute thesis competiton!
+
+[Pi-MT Compatiton Presentation](pi-MT_10-31-24.pptx)
+
 For more information on Liam and his work, [click here](Resume2024.pdf)
