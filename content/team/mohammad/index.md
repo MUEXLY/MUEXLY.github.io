@@ -12,13 +12,13 @@ I am currently a Ph.D. student and Graduate Research Assistant in Mechanical Eng
 ---
 **I Am Currently Conducting Research On:**
 
-- Radiation Induced Segregation of structural composition-aware alloys. 
-- Kinetic Monte Carlo simulations for Radiation Induced Segregation in structural alloys.
-- Prediction of rate of reaction in stick-slip non-Arrhenius/Arrhenius grain boundary migration (MD & theoretical Studies).
-- Dislocation dipole thermal fluctuation and separation rate (MD & theoretical Studies).
+- Chemical Redistribution and Entropic Effects on Mechanical Response of Materials Under Irradiation 
+- Kinetic Monte Carlo simulations for Radiation Induced Segregation study of structural alloys.
+- Prediction of rate of reaction in stick-slip non-Arrhenius/Arrhenius grain boundary migration (MD & Theoretical Studies).
+- Effect of Entropy and Langevin Friction on the Dislocation Glide Mechanisms (MD & DD & Theoretical Studies).
 
 ---
-**Awards:**
+**Honors and Awards:**
 - Graduate Travel Grant from Graduate student government of Clemson University for [MS&T2023](https://www.tms.org/TMS2023/TMS2023/Default.aspx).
 - CECAS GSAB Supplementary Travel Award for [TMS2024](https://www.tms.org/TMS2024/TMS2024/Default.aspx).
 - Clemson University's Mechanical Engineering Department [ME Graduate Teaching Excellence Award 2024](MEExcellenceAward2024.jpg).
