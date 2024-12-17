@@ -22,8 +22,8 @@
     </td>
     <td>
         <figure>
-            <img src="placeholder.png" alt="Trulli" style="width:100%">
-            <figcaption>Caption here</figcaption>
+            <img src="Dislocation-SIA.gif" alt="Trulli" style="width:100%">
+            <figcaption>Edge dislocation- SIA interaction in tungsten at 100 MPa and 500 K</figcaption>
         </figure>
     </td>
   </tr>
