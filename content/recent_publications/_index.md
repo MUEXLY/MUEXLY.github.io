@@ -338,19 +338,6 @@ We report a systematic computational analysis of the mechanical behavior of plas
 [https://doi.org/10.1021/acsami.2c20795](https://doi.org/10.1021/acsami.2c20795)
 
 ---
-**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
-
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
-
-January 2023
-
-<sub><sup>
-Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
-
----
 **From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
 
 Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
@@ -362,6 +349,19 @@ High-entropy materials represent the state-of-the-art on the alloy design strate
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
+
+---
+**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
+
+<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
+
+January 2023
+
+<sub><sup>
+Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
 
 ---
 **Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
