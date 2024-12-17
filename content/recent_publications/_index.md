@@ -2,11 +2,24 @@
 
 ...and pre-prints, etc.*
 
-Last updated: November 01, 2024
+Last updated: December 17, 2024
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
 </span>
+
+---
+**On the analysis of radiation-induced segregation at ion-irradiated grain boundaries**
+
+Daniele Fatto' Offidani, <b>Enrique Martínez</b>, Emmanuelle A. Marquis
+
+November 2024
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.1016/j.jnucmat.2024.155533](https://doi.org/10.1016/j.jnucmat.2024.155533)
 
 ---
 **The path towards plasma facing components: A review of state-of-the-art in W-based refractory high-entropy alloys**
@@ -24,7 +37,7 @@ October 2024
 ---
 **Data-driven modeling of dislocation mobility from atomistics using physics-informed machine learning**
 
-Yifeng Tian, Soumendu Bagchi, <b>Liam Myhill</b>, Giacomo Po, <b>Enrique Martínez</b>, Yen Ting Lin, Nithin Mathew, Danny Pérez
+Yifeng Tian, Soumendu Bagchi, <b>Liam Myhill</b>, Giacomo Po, <b>Enrique Martínez</b>, Yen Ting Lin, Nithin Mathew, Danny Perez
 
 September 2024
 
@@ -109,7 +122,7 @@ April 2024
 March 2024
 
 <sub><sup>
-Dislocations are the primary carriers of plasticity in metallic materials. Understanding the basic mechanisms for dislocation movement is paramount to predicting the material mechanical response. Relying on atomistic simulations, we observe a transition from non-Arrhenius to Arrhenius behavior in the rate of an edge dislocation overcoming the long-range elastic interaction with a prismatic loop in tungsten. Close to the critical resolved shear stress, the process shows a non-Arrhenius behavior at low temperatures. However, as the temperature increases, the activation entropy starts to dominate, leading to a traditional Arrhenius-like behavior. We have computed the activation entropy analytically along the minimum energy path following Schoeck's method [1], which captures the cross-over between anti-Arrhenius and Arrhenius domains. Also, the Projected Average Force Integrator (PAFI) [2], another simulation method to compute free energies along an initial transition path, exhibits considerable concurrence with Schoeck's formalism. We conclude that entropic effects need to be considered to understand processes involving dislocations bypassing elastic barriers close to the critical resolved shear stress. More work needs to be performed to fully understand the discrepancies between Schoeck's and PAFI compared to molecular dynamics.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.commatsci.2024.112954](https://doi.org/10.1016/j.commatsci.2024.112954)
@@ -228,7 +241,7 @@ Xiaoyao Peng, Nithin Mathew, Irene J. Beyerlein, <b>Enrique Martínez</b>, Abiga
 September 2023
 
 <sub><sup>
-In this work, a kinetic Monte Carlo (KMC) scheme is integrated into a phase field dislocation dynamics (PFDD) model to account for thermal activation. While the implementation is general and could be applied to many different thermally activated processes, we apply the model to simulate a dislocation transmitting through an interface. Two cases are analyzed: a dislocation transmitting through a strong interface, and a dislocation transmitting through a more realistic grain boundary in tungsten. Results and trends for both cases are discussed in detail, and ultimately show that the combined KMC-PFDD algorithm is effective in capturing thermally activated dislocation processes.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.commatsci.2023.112490](https://doi.org/10.1016/j.commatsci.2023.112490)
@@ -280,7 +293,7 @@ In the quest of new materials that can withstand severe irradiation and mechanic
 April 2023
 
 <sub><sup>
-Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.scriptamat.2023.115506](https://doi.org/10.1016/j.scriptamat.2023.115506)
@@ -358,7 +371,7 @@ Nikhil Chandra Admal, Tusher Ahmed, <b>Enrique Martínez</b>, Giacomo Po
 September 2022
 
 <sub><sup>
-The CSL/DSCL model for interfaces in crystalline materials offers a unified framework to study interface dislocations in phase boundaries and disconnections in grain boundaries. The model relies on the existence of a coincidence relation between the two lattices that meet at an interface. The model’s ability to quantitatively predict the thermodynamics and kinetics of interfaces has been demonstrated for a limited set of symmetric tilt grain boundaries (STGBs) in cubic materials and twin boundaries. However, the lack of a general framework of interface defects prevents its applicability to arbitrary rational boundaries. In this paper, we present a mathematical framework based on the Smith normal form (SNF) for integer matrices to study the bicrystallography of rational phase and grain boundaries. One of the main results of the paper is a constructive proof of the invariance of the coincident site lattice (CSL) under discrete relative displacements of the parent lattices (of possibly different kind) by a displacement shift complete lattice (DSCL) vector. In addition, we obtain necessary and sufficient conditions on two lattices, related by not only rotations but also lattice distortions, for the existence of a coincidence relation. We first apply these results to explore coincidence relations in arbitrary phase boundaries, and study interface dislocations. In particular, we demonstrate the framework for a phase boundary formed by a strained hexagonal lattice and a square lattice. As a second application, we show how to enumerate all possible (geometric) disconnection modes in arbitrary rational grain boundaries, including glide and non-glide modes in both STGBs and asymmetric-tilt grain boundaries (ATGBs). The constructive nature of the framework lends itself to an algorithmic implementation based exclusively on integer matrix algebra to construct all interfaces that admit CSLs up to a prescribed size, and determine disconnection modes in grain boundaries. We demonstrate the use of SNF bicrystallography on selected bicrystal misorientation axes/angles in face-centered cubic (fcc), body-centered cubic (bcc), and hexagonal (hex) lattices.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.actamat.2022.118340](https://doi.org/10.1016/j.actamat.2022.118340)
@@ -371,7 +384,7 @@ Max Boleininger, S. L. Dudarev, Daniel R. Mason, <b>Enrique Martínez</b>
 June 2022
 
 <sub><sup>
-We derive a simple analytical line integral expression for the relaxation volume tensor of an arbitrary interconnected dislocation network. This quantity determines the magnitude of dislocation contribution to the dimensional changes and volumetric swelling of a material, and highlights the fundamental dual role of dislocations as sources of internal strain as well as carriers of plastic deformation. To illustrate applications of the method, we compute the relaxation volume of a stacking fault tetrahedron, a defect commonly occurring in fcc metals; the volume of an unusual tetrahedral configuration formed by the (a/2)<111> and a<001> dislocations in a bcc metal; and estimate the relative contribution of extended dislocations to the volume relaxation of heavily irradiated tungsten.
+We derive a simple analytical line integral expression for the relaxation volume tensor of an arbitrary interconnected dislocation network. This quantity determines the magnitude of dislocation contribution to the dimensional changes and volumetric swelling of a material, and highlights the fundamental dual role of dislocations as sources of internal strain as well as carriers of plastic deformation. To illustrate applications of the method, we compute the relaxation volume of a stacking fault tetrahedron, a defect commonly occurring in fcc metals; the volume of an unusual tetrahedral configuration formed by the $(a/2)\ensuremath{\langle}111\ensuremath{\rangle}$ and $a\ensuremath{\langle}001\ensuremath{\rangle}$ dislocations in a bcc metal; and estimate the relative contribution of extended dislocations to the volume relaxation of heavily irradiated tungsten.
 </sup></sub>
 
 [https://doi.org/10.1103/physrevmaterials.6.063601](https://doi.org/10.1103/physrevmaterials.6.063601)
@@ -436,7 +449,7 @@ Matthew J. Lloyd, Andrew London, Jack Haley, Mark R. Gilbert, Charlotte Becquart
 February 2022
 
 <sub><sup>
-Tungsten is the primary candidate materials for the high neutron flux, high temperature components of a future demonstration fusion reactor. Despite this, there is a lack of data on W under fusion relevant neutron doses and irradiation temperatures. In this study, single crystal and polycrystalline W samples irradiated at the High Flux Reactor (HFR) at 900 ∘ C were characterised using Atom Probe Tomography (APT) and Scanning Transmission Electron Microscopy (STEM). Bulk chemical and isotopic concentration predictions were validated by analysing the mass spectrum from APT experiments. A post irradiation composition of W-1.26 ± 0.15 at.%Re - 0.08 ± 0.02 at.%Os - 0.01 ± 0.01 at.%Ta was measured in the single crystal sample, whereas W-1.09 ± 0.07 at.%Re - 0.08 ± 0.02 at.%Os - 0.01 ± 0.01 at.%Ta was measured for the polycrystalline. APT and STEM showed that a high number density of Re and Os rich precipitates had formed under neutron irradiation. These typically consisted of a core rich in Re and Os, surrounded by a less dense Re rich cloud. Multiple analysis methods were applied to investigate the composition of these clusters. APT showed that the centres of some of the precipitates had a rod shaped core which were rich in both Re and Os. Line profile analysis suggests that in the centre of the precipitates, the threshold composition for σ phase formation may have been reached, as has been observed in higher transmutation rate experiments. In addition, dislocations, sub grain boundaries and dislocation loops were all shown to be decorated with both Re and Os, in agreement with predictions from DFT simulations.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.mtla.2022.101370](https://doi.org/10.1016/j.mtla.2022.101370)
@@ -475,7 +488,7 @@ Zachary Bergstrom, Danny Pérez, <b>Enrique Martínez</b>
 September 2021
 
 <sub><sup>
-Fusion reactor environments inevitably lead to the formation of high-pressure helium bubbles whose nucleation, growth, and diffusion strongly impact the performance of plasma-facing components. This research describes a diffusion mechanism of over-pressurized bubbles via a sequence of Frenkel pair nucleation, self-interstitial migration, and Frenkel pair annihilation. Molecular dynamics was used to simulate the diffusion of small bubbles in tungsten at 2000 K with helium-per-vacancy ratios in the range of 4.5 to 7. The diffusion coefficients are calculated and their dependence on helium content, number of vacancies, and number of attached self-interstitials is characterized. It is found that bubbles are most mobile when the nucleation/annihilation rates of Frenkel pairs are nearly equal and when the bubbles nucleate and annihilate a single self-interstitial. All bubbles experience a peak diffusivity, which can be as high as 10−11 m2/s decreasing with bubble size. The calculated diffusion coefficients provide valuable insight into the mobility of small, high-pressure bubbles, and can be used as input parameters in mesoscale models to improve predictions of plasma-surface interactions. (LA-UR-21-21881)
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.jnucmat.2021.153306](https://doi.org/10.1016/j.jnucmat.2021.153306)
@@ -488,7 +501,7 @@ Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik 
 September 2021
 
 <sub><sup>
-In this work, new non-orthogonal computational grids are implemented into a phase field model called Phase Field Dislocation Dynamics (PFDD). We demonstrate that the new non-orthogonal grid can accommodate multiple slip planes in either the face centered cubic (FCC) or body centered cubic (BCC) crystallographic systems. We show that they avoid numerical errors induced when modeling glide on inclined slip planes in an orthogonal grid. The Gibbs effect that arises in the orthogonal or rotated orthogonal grids is substantially diminished when a non-orthogonal grid is employed. A few test cases demonstrate the effectiveness of using non-orthogonal grids in solving systems with multiple non-planar slip systems.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.commatsci.2021.110834](https://doi.org/10.1016/j.commatsci.2021.110834)
@@ -540,7 +553,7 @@ Mark R. Gilbert, Kazuto Arakawa, Zachary Bergstrom, M.J. Caturla, S. L. Dudarev,
 June 2021
 
 <sub><sup>
-Prediction of material performance in fusion reactor environments relies on computational modelling, and will continue to do so until the first generation of fusion power plants come on line and allow long-term behaviour to be observed. In the meantime, the modelling is supported by experiments that attempt to replicate some aspects of the eventual operational conditions. In 2019, a group of leading experts met under the umbrella of the IEA to discuss the current position and ongoing challenges in modelling of fusion materials and how advanced experimental characterisation is aiding model improvement. This review draws from the discussions held during that workshop. Topics covering modelling of irradiation-induced defect production and fundamental properties, gas behaviour, clustering and segregation, defect evolution and interactions are discussed, as well as new and novel multiscale simulation approaches, and the latest efforts to link modelling to experiments through advanced observation and characterisation techniques.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.jnucmat.2021.153113](https://doi.org/10.1016/j.jnucmat.2021.153113)
@@ -566,7 +579,7 @@ March 2021
 March 2021
 
 <sub><sup>
-In this work we examine the driving force for edge dislocations to climb in α-Fe from atomistic and mesoscale viewpoints. We study the bias for the climb process depending on the dislocation orientation and the applied stress due to both the gradient of the chemical potential and the transport coefficients. Both terms are modified by the applied stress and therefore contribute to climb. Surprisingly, even though the vacancy migration barrier distribution is modified by the external stress as obtained by nudged-elastic band calculations, the mobilities resulting from a kinetic Monte Carlo model applied on the obtained energy landscape are indistinguishable, independently of the stress. Moreover, an object kinetic Monte Carlo (OKMC) model including the effect of the dislocation strain field to first order shows indeed a slight anisotropic component in the diffusion in more complex dislocation configurations. However, the OKMC results highlight the fact that the thermodynamic component is the dominant driving force. We conclude that in α-Fe under thermal conditions, the main source of bias is given by the difference in vacancy chemical potentials, which is small enough to hinder the process for dynamic atomistic simulations.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.commatsci.2021.110378](https://doi.org/10.1016/j.commatsci.2021.110378)
@@ -579,7 +592,7 @@ Yang Li, Sabyasachi Chatterjee, <b>Enrique Martínez</b>, Nasr M. Ghoniem, Giaco
 February 2021
 
 <sub><sup>
-We develop here a cross-slip model for zirconium based on discrete dislocation dynamics and explicit representation of partial dislocations. It is found that the basal-to-prismatic cross-slip is always energetically favorable. The corresponding stress-free activation enthalpy is ΔHa*∼0.5eV, and the critical nucleation length is close to zero. The Escaig stress on the primary plane is found to be the most effective component in influencing the activation enthalpy. By contrast, prismatic-to-basal cross-slip is activated only if the Schmid stress on the conjugate plane is higher than ∼1GPa, with an activation enthalpy larger than 5 eV. We propose that basal slip of 〈a〉 screw dislocations in Zr is mediated by the formation and subsequent lateral migration of kink pairs formed by double cross-slip. The proposed mechanism is consistent with experimental observations on the temperature-dependence of the critical resolved shear stress (CRSS) and the wavy motion of 〈a〉-basal slip.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.actamat.2021.116764](https://doi.org/10.1016/j.actamat.2021.116764)
@@ -592,7 +605,7 @@ Osman El-Atwani, <b>Andrew Alvarado</b>, Kaan Unal, Saryu Fensin, Jonathan Hinks
 December 2020
 
 <sub><sup>
-Nanocrystalline W-Ta-Cr-V high entropy alloys have shown promising properties as nuclear fusion materials with enhanced radiation resistance to heavy ion irradiation and negligible radiation hardening. In this work, we investigate the performance of the alloy under low energy helium (He) implantation up to a fluence of 1.25 × 1017 cm−2 at 1223 K. We observe a uniform high density of very small (~2–3 nm) bubbles grown at a slow rate along with enhanced He bubble damage resistance, further marked by no preferential bubble formation on the grain boundaries, even at much higher fluences compared to previously implanted tungsten grades. First principle calculations of He formation and migration energies in this alloy indicate deep energetic wells on the potential landscape and low diffusivity of He compared to pure W. The results imply higher overall (considering both grain matrices and grain boundaries) implantation resistance due to slow He diffusion and accumulation, and confirm the enhanced vacancy-self interstitial recombination argument in these alloys.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.mtener.2020.100599](https://doi.org/10.1016/j.mtener.2020.100599)
@@ -618,7 +631,7 @@ Benjamin K. Derby, J. Cooper, Timothy G. Lach, <b>Enrique Martínez</b>, Hyosim 
 August 2020
 
 <sub><sup>
-Nuclear reactor environments provide a unique scientific and engineering challenge wherein materials must tolerate prolonged exposure to concurrent irradiation, elevated temperatures, and corrosive media. However, uncontrolled variability in material composition and structure often prohibits truly single-variable experiments that can reveal basic aspects of environmental damage. Magnetron sputtering is used here to provide a more controlled model system for these fundamental studies, yielding reproducible single-crystal Fe and FeCr thin films containing 8 and 18 at.% Cr. Electron microscopy is used to determine the systematic correlations between growth conditions and the resulting film microstructure and surface morphology. It is found that the substrate temperature and applied radio frequency (RF) bias can be tuned to obtain consistent homogeneous and single crystal films with a minimal amount of Ar impurities from the RF bias process. Epitaxial, single-crystal Fe films are obtained on MgO substrates at 500 °C with 10 Watt (W) RF bias deposition. However, when Cr is alloyed with Fe, higher substrate temperatures (600 °C) and applied RF biases (15 W) are required to achieve a similar epitaxial single-crystal FeCr film. Accelerated molecular dynamics simulations reveal that Cr impedes surface transport, explaining the need for higher temperature and bias during the growth of the Cr-bearing films.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.surfcoat.2020.126346](https://doi.org/10.1016/j.surfcoat.2020.126346)
@@ -631,22 +644,9 @@ Santiago Heredia‐Avalos, Cristian D. Denton, Juan Carlos Moreno‐Marín, <b>E
 August 2020
 
 <sub><sup>
-Collision cascades near a 1/2⟨111⟩{110} edge dipole in alpha-iron have been studied using molecular dynamics simulations for a recoil energy of 20 keV and two temperatures, 20 K and 300 K. These simulations show that the collision cascade induces the migration of the dislocations through glide along its slip plane. The motion of the dislocations starts at the peak of the collision cascade and expands a time scale much longer than the cascade duration, until restoring the equilibrium distance of the dipole, regardless of the damage produced by the cascade. At the initial stages, kinks are formed at the dislocation that enhance glide. When defects reach the dislocations, jogs are produced. We show that the initial dislocation motion is triggered by the shock wave of the collision cascade. The cascade morphology is also strongly influenced by the presence of the dislocations, having an elongated form at the peak of the displacement, which demonstrates the strong interaction of the dislocations with the cascade even at the early stages. Finally, we show that larger vacancy clusters are formed in the presence of dislocations compared to isolated cascades and that these clusters are larger for 300 K compared to 20 K.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.jnucmat.2020.152459](https://doi.org/10.1016/j.jnucmat.2020.152459)
-
----
-**Point defect evolution under irradiation: Finite size effects and spatio-temporal correlations**
-
-<b>Enrique Martínez</b>, Frédéric Soisson, Maylise Nastar
-
-June 2020
-
-<sub><sup>
-The evolution of point defect concentrations under irradiation is controlled by their diffusion properties, and by their formation and elimination mechanisms. The latter includes the mutual recombination of vacancies and interstitials, and the elimination of point defects at sinks. Two models are traditionally used to predict the defect concentration evolution, the standard rate theory (SRT) and the atomistic kinetic Monte Carlo (AKMC). We show in this work a large discrepancy in the defect concentrations between both methods when the average number of defects in the AKMC simulation box is close or lower than one. The reason is that AKMC naturally captures strong space and time correlations between vacancies and interstitials generated by the finite size of the periodic simulation box. These correlations strongly affect the recombination rate and the point defect concentrations. SRT fails to predict such correlations, and the corresponding solution deviates from the more accurate solution given by the AKMC simulation under similar conditions. These finite size correlation effects are strong when the elimination of point defects occurs by recombination only, but can still be significant in the presence of sinks. In order to account for the spacio-temporal correlation in a continuum framework, we introduce a Correlated Pair Theory (CPT). This theory fully takes into account the correlations between vacancy and interstitial pairs and predicts point defect concentrations in good agreement with AKMC simulations. Inversely, if the goal is for the AKMC to reproduce defect concentrations in bulk using small simulation boxes, the naturally occurring correlations need to be corrected. We show here that the CPT can be used to modify the elimination rates in the AKMC simulations, so as to yield point defect concentrations in agreement with SRT.
-</sup></sub>
-
-[https://doi.org/10.1016/j.jnucmat.2020.152233](https://doi.org/10.1016/j.jnucmat.2020.152233)
 
 ---
