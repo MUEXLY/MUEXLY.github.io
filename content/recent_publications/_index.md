@@ -2,11 +2,38 @@
 
 ...and pre-prints, etc.*
 
-Last updated: December 17, 2024
+Last updated: January 09, 2025
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
 </span>
+
+---
+**Segregation, ordering, and precipitation in refractory alloys**
+
+Jesper Byggmästar, Damian Sobieraj, Jan Wróbel, Daniel K. Schreiber, Osman El-Atwani, <b>Enrique Martínez</b>, D. Nguyen-Manh
+
+December 2024
+
+<sub><sup>
+Tungsten-based low-activation high-entropy alloys are possible candidates for next-generation fusion reactors due to their exceptional tolerance to irradiation, thermal loads, and stress. We develop an accurate and efficient machine-learned interatomic potential for the W-Ta-Cr-V system and use it in hybrid Monte Carlo molecular dynamics simulations of ordering and segregation to all common types of defects in WTaCrV. The predictions are compared to atom probe tomography analysis of segregation and precipitation in WTaCrV thin films. By also considering two other alloys, WTaV and MoNbTaVW, we are able to draw general conclusions about preferred segregation in refractory alloys and the reasons behind it, guiding future alloy design and elucidating experimental observations. We show that the experimentally observed CrV precipitates in WTaCrV form semicoherent bcc-to-bcc interfaces with the surrounding matrix, as coherent precipitates are not thermodynamically stable due to excessive lattice mismatch. The predictions from simulations align well with our atom probe tomography analysis as well as previous experimental observations.
+</sup></sub>
+
+[https://doi.org/10.48550/arxiv.2412.13750](https://doi.org/10.48550/arxiv.2412.13750)
+
+---
+**Design Kinetic Parameters for Improved Resilience of Materials under
+  Irradiation**
+
+<b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Matheus A. Tunes, <b>Enrique Martínez</b>, Osman El-Atwani
+
+December 2024
+
+<sub><sup>
+High entropy alloys (HEAs) have captured much attention in recent years due to their conceivably improved radiation resistance compared to pure metals and traditional alloys. However, among HEAs, there are millions of design possibilities considering all potential compositions. In this study, we develop criteria to design HEAs with improved radiation resilience taking into consideration defect properties to promote interstitial-vacancy recombination. First, we conduct rate theory calculations on defects followed by molecular dynamics (MD) simulations on pure W and W-based multicomponent concentrated alloys. It is found that when the diffusion coefficients for single vacancies and interstitials become similar and the effective migration energies of defects is minimum (maximum diffusivities), defect recombination becomes optimal, and the concentration of defects is significantly reduced. This is supported by MD simulations indicating improved radiation resistance of V- and Cr-based alloys, which satisfy the above-stated criteria. Furthermore, experimental observations also reinforce the proposed approach. This study sheds light on the design criteria for improved radiation resistance and helps material selection without the need of extensive experimental work.
+</sup></sub>
+
+[https://doi.org/10.48550/arxiv.2412.13343](https://doi.org/10.48550/arxiv.2412.13343)
 
 ---
 **On the analysis of radiation-induced segregation at ion-irradiated grain boundaries**
@@ -600,7 +627,7 @@ February 2021
 ---
 **Helium implantation damage resistance in nanocrystalline W-Ta-V-Cr high entropy alloys**
 
-Osman El-Atwani, <b>Andrew Alvarado</b>, Kaan Unal, Saryu Fensin, Jonathan Hinks, Graeme Greaves, Jon K. Baldwin, S.A. Maloy, <b>Enrique Martínez</b>
+Osman El-Atwani, <b>Andrew Alvarado</b>, Kaan Unal, Saryu Fensin, J.A. Hinks, Graeme Greaves, Jon K. Baldwin, S.A. Maloy, <b>Enrique Martínez</b>
 
 December 2020
 
@@ -622,31 +649,5 @@ In this work we examine the driving force for edge dislocations to climb in $\al
 </sup></sub>
 
 [None](None)
-
----
-**A pathway to synthesizing single-crystal Fe and FeCr films**
-
-Benjamin K. Derby, J. Cooper, Timothy G. Lach, <b>Enrique Martínez</b>, Hyosim Kim, Jon K. Baldwin, Djamel Kaoumi, Danny J. Edwards, Daniel K. Schreiber, Blas P. Uberuaga, Nan Li
-
-August 2020
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.surfcoat.2020.126346](https://doi.org/10.1016/j.surfcoat.2020.126346)
-
----
-**Collision cascade effects near an edge dislocation dipole in alpha-Fe: Induced dislocation mobility and enhanced defect clustering**
-
-Santiago Heredia‐Avalos, Cristian D. Denton, Juan Carlos Moreno‐Marín, <b>Enrique Martínez</b>, M.J. Caturla
-
-August 2020
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.jnucmat.2020.152459](https://doi.org/10.1016/j.jnucmat.2020.152459)
 
 ---
