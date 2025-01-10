@@ -2,7 +2,7 @@
 
 ...and pre-prints, etc.*
 
-Last updated: January 09, 2025
+Last updated: January 10, 2025
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
