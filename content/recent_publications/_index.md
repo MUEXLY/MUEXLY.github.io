@@ -2,7 +2,7 @@
 
 ...and pre-prints, etc.*
 
-Last updated: January 10, 2025
+Last updated: January 27, 2025
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
@@ -104,7 +104,7 @@ Refractory High-Entropy Alloys (RHEAs) hold promising potential to be used as st
 ---
 **Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si2.svg" display="inline" id="d1e435"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
 
-Cristian D. Denton, Santiago Heredia‐Avalos, Juan Carlos Moreno‐Marín, <b>Enrique Martínez</b>, M.J. Caturla
+Cristian D. Denton, Santiago Heredia‐Avalos, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
 
 April 2024
 
@@ -224,7 +224,7 @@ Dislocations are the primary carriers of plasticity in metallic material. Unders
 ---
 **Shock wave induced migration of an edge dislocation dipole in alpha-Fe**
 
-Santiago Heredia‐Avalos, Cristian D. Denton, Juan Carlos Moreno‐Marín, <b>Enrique Martínez</b>, M.J. Caturla
+Santiago Heredia‐Avalos, Cristian D. Denton, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
 
 December 2023
 
