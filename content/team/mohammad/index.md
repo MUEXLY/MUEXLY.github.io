@@ -33,7 +33,7 @@ I am currently a Ph.D. Candiadate and Graduate Research Assistant in Mechanical 
 
 [Linkedin Profile](https://www.linkedin.com/in/mohammadhossein-nahavandian) 
 
-[CV](CV.pdf)
+// [CV](CV.pdf)
 
 
 ---
