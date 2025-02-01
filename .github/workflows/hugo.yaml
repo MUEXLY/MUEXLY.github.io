@@ -55,24 +55,6 @@ jobs:
           git add content/recent_publications/_index.md
           git commit --allow-empty -m "fetched publications workflow"
           git push
-  
-  # check for NSFW content
-  nsfw-detection:
-    permissions:
-      contents: read
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo content
-        uses: actions/checkout@main
-      - name: Check for NSFW content
-        uses: fabasoad/nsfw-detection-action@main
-        with:
-          provider: cloudmersive
-          threshold: 0.9
-          type: modified,added,renamed
-          extensions: jpg,jpeg,png
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          api_key: ${{ secrets.CLOUDMERSIVE_API_KEY }}
 
   # Build job
   build:
@@ -118,7 +100,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: [build, nsfw-detection]
+    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
