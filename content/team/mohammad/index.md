@@ -33,8 +33,9 @@ I am currently a Ph.D. Candiadate and Graduate Research Assistant in Mechanical 
 
 [Linkedin Profile](https://www.linkedin.com/in/mohammadhossein-nahavandian) 
 
-[CV](CV.pdf) 
+[ORCID](https://orcid.org/my-orcid?orcid=0009-0003-1766-3388)
 
+[CV](CV.pdf) 
 
 
 ---
