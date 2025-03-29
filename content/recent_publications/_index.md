@@ -2,16 +2,68 @@
 
 ...and pre-prints, etc.*
 
-Last updated: February 07, 2025
+Last updated: March 29, 2025
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
 </span>
 
 ---
+**Prediction of defect properties in concentrated solid solutions using a Langmuir-like model**
+
+<b>Jacob Jeffries</b>, Fadi Abdeljawad, Suveen N. Mathaudhu, Emmanuelle A. Marquis, <b>Enrique Martínez</b>
+
+March 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.1103/physrevmaterials.9.033803](https://doi.org/10.1103/physrevmaterials.9.033803)
+
+---
+**High Radiation Resistance in the Binary W‐Ta System Through Small V Additions: A New Paradigm for Nuclear Fusion Materials**
+
+Matheus A. Tunes, D. Parkison, Bomin Sun, Patrick Willenshofer, Sebastian Samberger, Christoph Frühwirth, Shalini Tripathi, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
+
+March 2025
+
+<sub><sup>
+Refractory High-Entropy Alloys (RHEAs) are promising candidates for structural materials in nuclear fusion reactors, where W-based alloys are currently leading. Fusion materials must withstand extreme conditions, including i) severe radiation damage from energetic neutrons, ii) embrittlement due to H and He ion implantation, and iii) exposure to high temperatures and thermal gradients. Recent RHEAs, such as WTaCrV and WTaCrVHf, have shown superior radiation tolerance and microstructural stability compared to pure W, but their multi-element compositions complicate bulk fabrication and limit practical use. In this study, it is demonstrated that reducing alloying elements in RHEAs is feasible without compromising radiation tolerance. Herein, two Highly Concentrated Refractory Alloys (HCRAs) - W53Ta44V3 and W53Ta42V5 (at.%) - were synthesized and investigated. We found that small V additions significantly influence the radiation response of the binary W-Ta system. Experimental results, supported by ab-initio Monte Carlo simulations and machine-learning-driven molecular dynamics, reveal that minor variations in V content enhance Ta-V chemical short-range order (CSRO), improving radiation resistance in the W53Ta42V5 HCRA. By focusing on reducing chemical complexity and the number of alloying elements, the conventional high-entropy alloy paradigm is challenged, suggesting a new approach to designing simplified multi-component alloys with refractory properties for thermonuclear fusion applications.
+</sup></sub>
+
+[https://doi.org/10.1002/advs.202417659](https://doi.org/10.1002/advs.202417659)
+
+---
+**Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
+
+Akshay Korpe, O.J. El-Atwani, <b>Enrique Martínez</b>
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5183694](https://doi.org/10.2139/ssrn.5183694)
+
+---
+**Design Kinetic Parameters for Improved Resilience of Materials Under Irradiation**
+
+<b>Enrique Martínez</b>, <b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Osman El‐Atwani, Matheus A. Tunes
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5135553](https://doi.org/10.2139/ssrn.5135553)
+
+---
 **Segregation, ordering, and precipitation in refractory alloys**
 
-Jesper Byggmästar, Damian Sobieraj, Jan Wróbel, Daniel K. Schreiber, Osman El-Atwani, <b>Enrique Martínez</b>, D. Nguyen-Manh
+Jesper Byggmästar, Damian Sobieraj, Jan Wróbel, Daniel K. Schreiber, Osman El‐Atwani, <b>Enrique Martínez</b>, D. Nguyen-Manh
 
 December 2024
 
@@ -25,7 +77,7 @@ Tungsten-based low-activation high-entropy alloys are possible candidates for ne
 **Design Kinetic Parameters for Improved Resilience of Materials under
   Irradiation**
 
-<b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Matheus A. Tunes, <b>Enrique Martínez</b>, Osman El-Atwani
+<b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Matheus A. Tunes, <b>Enrique Martínez</b>, Osman El‐Atwani
 
 December 2024
 
@@ -51,7 +103,7 @@ November 2024
 ---
 **The path towards plasma facing components: A review of state-of-the-art in W-based refractory high-entropy alloys**
 
-Caleb Hatler, Ishtiaque Robin, Hyosim Kim, Nathan Curtis, Bomin Sun, Eda Aydogan, Saryu Fensin, Adrien Couet, <b>Enrique Martínez</b>, D. J. Thoma, Osman El-Atwani
+Caleb Hatler, Ishtiaque Robin, Hyosim Kim, Nathan Curtis, Bomin Sun, Eda Aydogan, Saryu Fensin, Adrien Couet, <b>Enrique Martínez</b>, D. J. Thoma, Osman El‐Atwani
 
 October 2024
 
@@ -77,7 +129,7 @@ September 2024
 ---
 **Performance of High Entropy Alloys Under Severe Environments via <i>In-situ</i> Transmission Electron Microscopy-Irradiation Experiments**
 
-Osman El-Atwani, Matheus A. Tunes, <b>Enrique Martínez</b>
+Osman El‐Atwani, Matheus A. Tunes, <b>Enrique Martínez</b>
 
 July 2024
 
@@ -91,7 +143,7 @@ July 2024
 **Enhancing Irradiation Resistance in Refractory Medium Entropy Alloys
   with Simplified Chemistry**
 
-Matheus A. Tunes, D. Parkison, Bomin Sun, Patrick Willenshofer, Sebastian Samberger, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El-Atwani
+Matheus A. Tunes, D. Parkison, Bomin Sun, Patrick Willenshofer, Sebastian Samberger, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
 
 June 2024
 
@@ -118,7 +170,7 @@ In this work we studied the effects of 20 keV collision cascades in alpha iron w
 **Grain boundary metastability controls irradiation resistance in
   nanocrystalline metals**
 
-Osman El-Atwani, Annie K. Barnett, <b>Enrique Martínez</b>, Jian Han, Asher C. Leff, Chang‐Yu Hung, James E. Nathaniel, Sicong He, Emily H. Mang, Larissa M. Woryk, Khalid Hattar, Blas P. Uberuaga, David J. Srolovitz, Michael L. Falk, Jaime Marian, Mitra L. Taheri
+Osman El‐Atwani, Annie K. Barnett, <b>Enrique Martínez</b>, Jian Han, Asher C. Leff, Chang‐Yu Hung, James E. Nathaniel, Sicong He, Emily H. Mang, Larissa M. Woryk, Khalid Hattar, Blas P. Uberuaga, David J. Srolovitz, Michael L. Falk, Jaime Marian, Mitra L. Taheri
 
 April 2024
 
@@ -237,7 +289,7 @@ The mobility of a 1/2〈111〉{110} edge dipole in alpha-iron has been studied u
 ---
 **Microstructural evolution and transmutation in tungsten under ion and neutron irradiation**
 
-Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Hattar, Osman El-Atwani, D. Nguyen-Manh, Michael P. Moody, Paul A.J. Bagot, David E.J. Armstrong
+Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Hattar, Osman El‐Atwani, D. Nguyen-Manh, Michael P. Moody, Paul A.J. Bagot, David E.J. Armstrong
 
 December 2023
 
@@ -289,7 +341,7 @@ Abstract In our previous work, we have demonstrated using nonequilibrium molecul
 ---
 **Comparison of Dislocation Loop Formation Resistance in Nanocrystalline and Coarse-Grained Refractory High Entropy Alloys**
 
-Osman El-Atwani, H.T. Vo, N. Krienke, <b>Enrique Martínez</b>, Jon K. Baldwin, Wei‐Ying Chen, Meimei Li, Saryu Fensin
+Osman El‐Atwani, H.T. Vo, N. Krienke, <b>Enrique Martínez</b>, Jon K. Baldwin, Wei‐Ying Chen, Meimei Li, Saryu Fensin
 
 May 2023
 
@@ -302,7 +354,7 @@ In nanocrystalline high entropy alloys (HEAs), the difference in chemistry and t
 ---
 **A quinary WTaCrVHf nanocrystalline refractory high-entropy alloy withholding extreme irradiation environments**
 
-Osman El-Atwani, H.T. Vo, Matheus A. Tunes, C. Lee, <b>Andrew Alvarado</b>, N. Krienke, Jonathan D. Poplawsky, Aaron A. Kohnert, Jonathan Gigax, W.-Y. Chen, M. Li, Yongqiang Wang, Jan Wróbel, D. Nguyen-Manh, Jon K. Baldwin, O. U. Tukac, Eda Aydogan, Saryu Fensin, <b>Enrique Martínez</b>
+Osman El‐Atwani, H.T. Vo, Matheus A. Tunes, C. Lee, <b>Andrew Alvarado</b>, N. Krienke, Jonathan D. Poplawsky, Aaron A. Kohnert, Jonathan Gigax, W.-Y. Chen, M. Li, Yongqiang Wang, Jan Wróbel, D. Nguyen-Manh, Jon K. Baldwin, O. U. Tukac, Eda Aydogan, Saryu Fensin, <b>Enrique Martínez</b>
 
 May 2023
 
@@ -315,7 +367,7 @@ In the quest of new materials that can withstand severe irradiation and mechanic
 ---
 **Predicting short-range order evolution in WTaCrVHf refractory high-entropy alloys**
 
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
+<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El‐Atwani
 
 April 2023
 
@@ -328,7 +380,7 @@ April 2023
 ---
 **From high-entropy alloys to high-entropy ceramics: The radiation-resistant highly concentrated refractory carbide (CrNbTaTiW)C**
 
-Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
+Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El‐Atwani
 
 March 2023
 
@@ -365,22 +417,9 @@ We report a systematic computational analysis of the mechanical behavior of plas
 [https://doi.org/10.1021/acsami.2c20795](https://doi.org/10.1021/acsami.2c20795)
 
 ---
-**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
-
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El-Atwani
-
-January 2023
-
-<sub><sup>
-Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
-
----
 **From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
 
-Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El-Atwani
+Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El‐Atwani
 
 January 2023
 
@@ -389,6 +428,19 @@ High-entropy materials represent the state-of-the-art on the alloy design strate
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
+
+---
+**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
+
+<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El‐Atwani
+
+January 2023
+
+<sub><sup>
+Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
 
 ---
 **Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
@@ -594,58 +646,6 @@ March 2021
 
 <sub><sup>
 
-</sup></sub>
-
-[None](None)
-
----
-**Relative relevance of mobility and driving force on edge dislocation climb by the vacancy mechanism**
-
-<b>Enrique Martínez</b>, Alankar Alankar, Alfredo Caro, Thomas Jourdan
-
-March 2021
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.commatsci.2021.110378](https://doi.org/10.1016/j.commatsci.2021.110378)
-
----
-**On the cross-slip of screw dislocations in zirconium**
-
-Yang Li, Sabyasachi Chatterjee, <b>Enrique Martínez</b>, Nasr M. Ghoniem, Giacomo Po
-
-February 2021
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.actamat.2021.116764](https://doi.org/10.1016/j.actamat.2021.116764)
-
----
-**Helium implantation damage resistance in nanocrystalline W-Ta-V-Cr high entropy alloys**
-
-Osman El-Atwani, <b>Andrew Alvarado</b>, Kaan Unal, Saryu Fensin, J.A. Hinks, Graeme Greaves, Jon K. Baldwin, S.A. Maloy, <b>Enrique Martínez</b>
-
-December 2020
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.mtener.2020.100599](https://doi.org/10.1016/j.mtener.2020.100599)
-
----
-**Relative relevance of mobility and driving force on edge dislocation climb by the vacancy mechanism**
-
-<b>Enrique Martínez</b>, Alankar Alankar, Alfredo Caro, Thomas Jourdan
-
-November 2020
-
-<sub><sup>
-In this work we examine the driving force for edge dislocations to climb in $\alpha$-Fe from atomistic and mesoscale viewpoints. We study the bias for the climb process depending on the dislocation orientation and the applied stress as coming from both the gradient of the chemical potential and the transport coefficients. Both terms are modified by the applied stress and therefore contribute to climb. Surprisingly, even though the vacancy migration barrier distribution is modified by the external stress as obtained by nudged-elastic band calculations, the mobilities resulting from a kinetic Monte Carlo model applied on the obtained energy landscape are indistinguishable, independently of the stress. Moreover, an object kinetic Monte Carlo (OKMC) model including the effect of the dislocation strain field to first order shows indeed a slight anisotropic component in the diffusion in more complex dislocation configurations. However, the OKMC results highlight the fact that the thermodynamic component is the dominant driving force. We conclude that in $\alpha$-Fe under thermal conditions, the main source of bias is given by the difference in vacancy chemical potentials, which is small enough to hinder the process for dynamic atomistic simulations.
 </sup></sub>
 
 [None](None)
