@@ -2,11 +2,76 @@
 
 ...and pre-prints, etc.*
 
-Last updated: March 29, 2025
+Last updated: September 02, 2025
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
 </span>
+
+---
+**Effect of alloying on intrinsic ductility in WTaCrV high entropy alloys**
+
+Akshay Korpe, Osman El-Atwani, <b>Enrique Martínez</b>
+
+August 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.1016/j.mtla.2025.102519](https://doi.org/10.1016/j.mtla.2025.102519)
+
+---
+**Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
+
+Bomin Sun, Mark Fedorov, Jan Wróbel, D. Nguyen-Manh, Caleb Hatler, Miquela Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
+
+August 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.1016/j.actamat.2025.121435](https://doi.org/10.1016/j.actamat.2025.121435)
+
+---
+**Design kinetic parameters for improved resilience of materials under irradiation**
+
+<b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Matheus A. Tunes, Osman El‐Atwani, <b>Enrique Martínez</b>
+
+July 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.1016/j.matdes.2025.114419](https://doi.org/10.1016/j.matdes.2025.114419)
+
+---
+**Segregation, ordering, and precipitation in WTaV-based concentrated refractory alloys**
+
+Jesper Byggmästar, Damian Sobieraj, Jan Wróbel, Daniel K. Schreiber, Osman El‐Atwani, <b>Enrique Martínez</b>, D. Nguyen-Manh
+
+July 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.1016/j.actamat.2025.121276](https://doi.org/10.1016/j.actamat.2025.121276)
+
+---
+**Atomic Structure of the Lithium–Lithium Oxide Interface from First Principles**
+
+Giovanni Orlandi, Jun Li, S.D. Kenny, <b>Enrique Martínez</b>
+
+March 2025
+
+<sub><sup>
+While lithium-ion batteries (LIBs) have been largely commercialized as the rechargeable battery of choice, their liquid electrolyte limits the theoretical energy density of the battery and poses serious safety threats. Solid-state lithium batteries (SSLBs) use a solid electrolyte, which can provide much higher energy densities and better safety than LIBs. The adoption of SSLBs is held back by interactions that occur between the electrolyte and anode, such as high resistance to lithium (Li) ion flow and the growth of Li dendrites that lead to short circuits. This paper focuses on understanding the interface between oxide electrolytes and Li metal anodes with the goal of predicting the structure and properties dictated by the interface. By comparing interface energies for different orientations of Li and lithium oxide (Li2O), a primary component of the solid electrolyte interphase, the Li2O(110) surface was found to be the most energetically favorable. Furthermore, bonding between the metallic Li and the oxygen atoms on the Li2O(110) plane was observed to be more impactful on stability than the lattice strain. As a consequence, the lowest energy interface was obtained by introducing FCC Li between Li2O and BCC Li.
+</sup></sub>
+
+[https://doi.org/10.1021/acsami.4c22106](https://doi.org/10.1021/acsami.4c22106)
 
 ---
 **Prediction of defect properties in concentrated solid solutions using a Langmuir-like model**
@@ -16,7 +81,7 @@ Last updated: March 29, 2025
 March 2025
 
 <sub><sup>
-
+The alleged existence of sluggish diffusion in high-entropy alloys has drawn controversy. In high-entropy alloys and, in general, in all solids, transport properties are controlled by point defect concentration, which must be known before performing atomistic simulations to compute transport coefficients. In this work, we present a general Langmuir-like model for defect concentration in an arbitrarily complex solid solution and apply this model to generate expressions for concentrations of vacancies and small interstitial atoms. We then calculate the vacancy concentration as a function of temperature in the equiatomic CoNiCrFeMn and FeAl alloys with modified embedded-atom-method potentials for various chemical orderings, showing there is no clear correlation between vacancy thermodynamics and chemical ordering in the CoNiCrFeMn alloy, but clear systematic patterns for FeAl. We believe this is due to the high stability of disordered, random, and ordered intermetallic phases, respectively, in the CoNiCrFeMn and FeAl systems. This work provides future avenues to the prediction of thermal interstitials and vacancies in solid solutions, which is necessary for models of nonequilibrium behavior of solid solutions.
 </sup></sub>
 
 [https://doi.org/10.1103/physrevmaterials.9.033803](https://doi.org/10.1103/physrevmaterials.9.033803)
@@ -35,9 +100,22 @@ Refractory High-Entropy Alloys (RHEAs) are promising candidates for structural m
 [https://doi.org/10.1002/advs.202417659](https://doi.org/10.1002/advs.202417659)
 
 ---
+**Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
+
+Skye Supakul, Eda Aydogan, Ishtiaque Robin, Bomin Sun, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5240158](https://doi.org/10.2139/ssrn.5240158)
+
+---
 **Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
 
-Akshay Korpe, O.J. El-Atwani, <b>Enrique Martínez</b>
+Akshay Korpe, Osman El-Atwani, <b>Enrique Martínez</b>
 
 January 2025
 
@@ -46,6 +124,32 @@ January 2025
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.5183694](https://doi.org/10.2139/ssrn.5183694)
+
+---
+**Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
+
+Akshay Korpe, Osman El-Atwani, <b>Enrique Martínez</b>
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5273491](https://doi.org/10.2139/ssrn.5273491)
+
+---
+**Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
+
+Skye Supakul, Ishtiaque Robin, Eda Aydogan, Bomin Sun, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5318308](https://doi.org/10.2139/ssrn.5318308)
 
 ---
 **Design Kinetic Parameters for Improved Resilience of Materials Under Irradiation**
@@ -59,6 +163,32 @@ January 2025
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.5135553](https://doi.org/10.2139/ssrn.5135553)
+
+---
+**Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
+
+Bomin Sun, Mark Fedorov, Jan Wróbel, Duc Nguyen-Manh, Caleb Hatler, Matthew J. Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5261326](https://doi.org/10.2139/ssrn.5261326)
+
+---
+**Atomistically-Informed Partial Dislocation Dynamics of Multi-Principal Element Alloys**
+
+Xin Liu, Hyunsoo Lee, Yang Li, <b>Liam Myhill</b>, Nikhil Chandra Admal, Giacomo Po, <b>Enrique Martínez</b>, Yinan Cui
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5358125](https://doi.org/10.2139/ssrn.5358125)
 
 ---
 **Segregation, ordering, and precipitation in refractory alloys**
@@ -103,7 +233,7 @@ November 2024
 ---
 **The path towards plasma facing components: A review of state-of-the-art in W-based refractory high-entropy alloys**
 
-Caleb Hatler, Ishtiaque Robin, Hyosim Kim, Nathan Curtis, Bomin Sun, Eda Aydogan, Saryu Fensin, Adrien Couet, <b>Enrique Martínez</b>, D. J. Thoma, Osman El‐Atwani
+Caleb Hatler, Ishtiaque Robin, Hyosim Kim, Nathan Curtis, Bomin Sun, Eda Aydogan, Saryu Fensin, Adrien Couet, <b>Enrique Martínez</b>, Dan J. Thoma, Osman El‐Atwani
 
 October 2024
 
@@ -156,7 +286,7 @@ Refractory High-Entropy Alloys (RHEAs) hold promising potential to be used as st
 ---
 **Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si2.svg" display="inline" id="d1e435"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
 
-Cristian D. Denton, Santiago Heredia‐Avalos, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
+Cristian D. Denton, Santiago Heredia‐Avalos, Juan Carlos Moreno‐Marín, <b>Enrique Martínez</b>, M.J. Caturla
 
 April 2024
 
@@ -276,7 +406,7 @@ Dislocations are the primary carriers of plasticity in metallic material. Unders
 ---
 **Shock wave induced migration of an edge dislocation dipole in alpha-Fe**
 
-Santiago Heredia‐Avalos, Cristian D. Denton, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
+Santiago Heredia‐Avalos, Cristian D. Denton, Juan Carlos Moreno‐Marín, <b>Enrique Martínez</b>, M.J. Caturla
 
 December 2023
 
@@ -289,7 +419,7 @@ The mobility of a 1/2〈111〉{110} edge dipole in alpha-iron has been studied u
 ---
 **Microstructural evolution and transmutation in tungsten under ion and neutron irradiation**
 
-Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Hattar, Osman El‐Atwani, D. Nguyen-Manh, Michael P. Moody, Paul A.J. Bagot, David E.J. Armstrong
+Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert G. Abernethy, Mark R. Gilbert, <b>Enrique Martínez</b>, Khalid Hattar, Osman El‐Atwani, D. Nguyen-Manh, Michael P. Moody, Paul A.J. Bagot, David E.J. Armstrong
 
 December 2023
 
@@ -497,7 +627,7 @@ Abstract Segregation of interstitials at a grain boundary (GB) is known to gener
 ---
 **Atomistic and machine learning studies of solute segregation in metastable grain boundaries**
 
-Yasir Mahmood, Maher Alghalayini, <b>Enrique Martínez</b>, Christiaan J. J. Paredis, Fadi Abdeljawad
+Yasir Mahmood, Maher B. Alghalayini, <b>Enrique Martínez</b>, Christiaan J. J. Paredis, Fadi Abdeljawad
 
 April 2022
 
@@ -519,135 +649,5 @@ Solute strengthening is an important mechanism that contributes to improving the
 </sup></sub>
 
 [https://doi.org/10.1103/physrevmaterials.6.033605](https://doi.org/10.1103/physrevmaterials.6.033605)
-
----
-**Interaction of transmutation products with precipitates, dislocations and grain boundaries in neutron irradiated W**
-
-Matthew J. Lloyd, Andrew London, Jack Haley, Mark R. Gilbert, Charlotte Becquart, Christophe Domain, <b>Enrique Martínez</b>, Michael P. Moody, Paul A.J. Bagot, D. Nguyen-Manh, David E.J. Armstrong
-
-February 2022
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.mtla.2022.101370](https://doi.org/10.1016/j.mtla.2022.101370)
-
----
-**Interface Dislocations and Grain Boundary Disconnections Using Smith Normal Bicrystallography**
-
-Nikhil Chandra Admal, <b>Enrique Martínez</b>, Giacomo Po
-
-January 2022
-
-<sub><sup>
-The CSL/DSCL model for interfaces in crystalline materials offers a unified framework to study interface dislocations in phase boundaries and disconnections in grain boundaries. The model relies on the existence of a coincidence relation between the two lattices that meet at an interface. The model’s ability to quantitatively predict the thermodynamics and kinetics of interfaces has been demonstrated for a limited set of symmetric tilt grain boundaries (STGBs) in cubic materials and twin boundaries. However, the lack of a general framework of interface defects prevents its applicability to arbitrary rational boundaries. In this paper, we present a mathematical framework based on the Smith normal form (SNF) for integer matrices to study the bicrystallography of rational phase and grain boundaries. One of the main results of the paper is a constructive proof of the invariance of the coincident site lattice (CSL) under discrete relative displacements of the parent lattices (of possibly different kind) by a displacement shift complete lattice (DSCL) vector. In addition, we obtain necessary and sufficient conditions on two lattices, related by not only rotations but also lattice distortions, for the existence of a coincidence relation. We first apply these results to explore coincidence relations in arbitrary phase boundaries, and study interface dislocations. In particular, we demonstrate the framework for a phase boundary formed by a strained hexagonal lattice and a square lattice. As a second application, we show how to enumerate all possible (geometric) disconnection modes in arbitrary rational grain boundaries, including glide and non-glide modes in both STGBs and asymmetric-tilt grain boundaries (ATGBs). The constructive nature of the framework lends itself to an algorithmic implementation based exclusively on integer matrix algebra to construct all interfaces that admit CSLs up to a prescribed size, and determine disconnection modes in grain boundaries. We demonstrate the use of SNF bicrystallography on selected bicrystal misorientation axes/angles in face-centered cubic (fcc), body-centered cubic (bcc), and hexagonal (hex) lattices.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4138894](https://doi.org/10.2139/ssrn.4138894)
-
----
-**Thermal gradient effect on helium and self-interstitial transport in tungsten**
-
-<b>Enrique Martínez</b>, Nithin Mathew, Danny Pérez, Sophie Blondel, Dwaipayan Dasgupta, Brian D. Wirth, Dimitrios Maroudas
-
-December 2021
-
-<sub><sup>
-First-wall materials in a fusion reactor are expected to withstand harsh conditions, with high heat and particle fluxes that modify the materials microstructure. These fluxes will create strong gradients of temperature and concentration of diverse species. Besides the He ash and the hydrogenic species, neutron particles generated in the fusion reaction will collide with the material creating intrinsic defects, such as vacancies, self-interstitials atoms (SIAs), and clusters of such point defects. These defects and the He atoms will then migrate in the presence of the aforementioned gradients. In this study, we use nonequilibrium molecular dynamics to analyze the transport of He and SIAs in the presence of a thermal gradient in tungsten. We observe that, in all cases, the defects and impurity atoms tend to migrate toward the hot regions of the tungsten sample. The resulting species concentration profiles are exponential distributions, rising toward the hot regions of the sample, in agreement with irreversible thermodynamics analysis. For both He atoms and SIAs, we find that the resulting species flux is directed opposite to the heat flux, indicating that species transport is governed by a Soret effect (thermal-gradient-driven diffusion) characterized by a negative heat of transport that drives species diffusion uphill (from the cooler to the hot regions of the sample). We demonstrate that the steady-state species profiles obtained accounting for the Soret effect vary significantly from those where temperature-gradient-driven transport is not considered and discuss the implications of such a Soret effect on the response to plasma exposure of plasma-facing tungsten.
-</sup></sub>
-
-[https://doi.org/10.1063/5.0071935](https://doi.org/10.1063/5.0071935)
-
----
-**The mobility of small, over-pressurized helium bubbles in tungsten at 2000 K**
-
-Zachary Bergstrom, Danny Pérez, <b>Enrique Martínez</b>
-
-September 2021
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.jnucmat.2021.153306](https://doi.org/10.1016/j.jnucmat.2021.153306)
-
----
-**Non-orthogonal computational grids for studying dislocation motion in phase field approaches**
-
-Xiaoyao Peng, Abigail Hunter, Irene J. Beyerlein, Ricardo A. Lebensohn, Kaushik Dayal, <b>Enrique Martínez</b>
-
-September 2021
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.commatsci.2021.110834](https://doi.org/10.1016/j.commatsci.2021.110834)
-
----
-**A stochastic solver based on the residence time algorithm for crystal plasticity models**
-
-Qianran Yu, <b>Enrique Martínez</b>, Javier Segurado, Jaime Marian
-
-August 2021
-
-<sub><sup>
-Abstract The deformation of crystalline materials by dislocation motion takes place in discrete amounts determined by the Burgers vector. Dislocations may move individually or in bundles, potentially giving rise to intermittent slip. This confers plastic deformation with a certain degree of variability that can be interpreted as being caused by stochastic fluctuations in dislocation behavior. However, crystal plasticity (CP) models are almost always formulated in a continuum sense, assuming that fluctuations average out over large material volumes and/or cancel out due to multi-slip contributions. Nevertheless, plastic fluctuations are known to be important in confined volumes at or below the micron scale, at high temperatures, and under low strain rate/stress deformation conditions. Here, we develop a stochastic solver for CP models based on the residence-time algorithm that naturally captures plastic fluctuations by sampling among the set of active slip systems in the crystal. The method solves the evolution equations of explicit CP formulations, which are recast as stochastic ordinary differential equations and integrated discretely in time. The stochastic CP model is numerically stable by design and naturally breaks the symmetry of plastic slip by sampling among the active plastic shear rates with the correct probability. This can lead to phenomena such as intermittent slip or plastic localization without adding external symmetry-breaking operations to the model. The method is applied to body-centered cubic tungsten single crystals under a variety of temperatures, loading orientations, and imposed strain rates.
-</sup></sub>
-
-[https://doi.org/10.1007/s00466-021-02073-7](https://doi.org/10.1007/s00466-021-02073-7)
-
----
-**Development of a solute and defect concentration dependant Ising model for the study of transmutation induced segregation in neutron irradiated W–(Re, Os) systems**
-
-Matthew J. Lloyd, <b>Enrique Martínez</b>, Luca Messina, D. Nguyen-Manh
-
-August 2021
-
-<sub><sup>
-Abstract In this study, radiation-induced precipitation of transmutation products is addressed via the development of a new solute and vacancy concentration dependant Ising model for the W–Re–Os system. This new model includes interactions between both Os and Re atoms with vacancies, thus facilitating more representative simulations of transmutation in fusion reactor components. Local solute concentration dependencies are introduced for the W–Re, W–Os and Re–Os pair interactions. The model correctly accounts for the repulsion between small clusters of vacancies and the attraction between larger clusters/voids, via the introduction of local vacancy concentration dependant interaction coefficients between pairs of atoms and vacancies. To parameterise the pair interactions between atoms and/or vacancies, the enthalpy of mixing, Δ H mix , for various configurations and solute/defect concentrations, was calculated using density functional theory, within 6 binary systems: W–Re, W–Os, Re–Os, W–vacancy, Re–vacancy and Os–vacancy. The new energy model was implemented into the SPPARKS Monte Carlo code, and successfully used to predict the formation of voids decorated with Re and Os solute atoms. Analysis suggests that there is a strong thermodynamic tendency for Os to bind to these voids with a comparatively weaker binding from Re atoms. The binding energies of various solute/vacancy clusters were calculated and showed that Re and Os solute atoms tend to stabilise small clusters of vacancies, increasing the attractive binding energy between the constituents.
-</sup></sub>
-
-[https://doi.org/10.1088/1361-648x/ac1ec4](https://doi.org/10.1088/1361-648x/ac1ec4)
-
----
-**Strain Effects on the Diffusion Properties of Near-Surface Self-Interstitial Atoms and Adatoms in Tungsten**
-
-Bochuan Sun, Dimitrios Maroudas, Brian D. Wirth, <b>Enrique Martínez</b>
-
-July 2021
-
-<sub><sup>
-Tungsten (W) is a candidate for the plasma-facing components and divertor in future fusion applications. The material will be subject to a large particle influx (mainly helium and hydrogenic species) that will form bubbles. As bubbles grow, they compress the material, adding to thermal stresses, and eject self-interstitial atoms (SIAs—isolated or in clusters) to release internal pressure. These SIAs diffuse towards the surface in large stress/strain fields and on the surface are thought to act as precursors for nanotendril formation (also known as fuzz) that develops on the material surface modifying its morphology. In this work we analyze the effect of strain on the diffusion properties of both SIAs and adatoms. Relying on atomistic simulations, we compute the average time that a SIA created in the center of a tungsten slab takes to reach a (110) surface for different strains and temperatures. This time relates to the SIA diffusivity and allows to compute the activation energy and dipole tensor including surface effects. We observe a large strain effect that significantly modifies the propensity for SIAs to reach the surface and, hence, to cluster to form dislocation loops in the bulk crystal. Strain also alters the diffusivity of the adatom although to a lesser extent. Finally, we report on the resulting surface roughness evolution and its dependence on strain.
-</sup></sub>
-
-[https://doi.org/10.3389/fmats.2021.678858](https://doi.org/10.3389/fmats.2021.678858)
-
----
-**Perspectives on multiscale modelling and experiments to accelerate materials development for fusion**
-
-Mark R. Gilbert, Kazuto Arakawa, Zachary Bergstrom, M.J. Caturla, S. L. Dudarev, Fei Gao, Alexandra M. Goryaeva, Shenyang Hu, Xunxiang Hu, Richard J. Kurtz, A. Litnovsky, Jaime Marian, Mihai-Cosmin Marinica, <b>Enrique Martínez</b>, Emmanuelle A. Marquis, Daniel R. Mason, Ba Nghiep Nguyen, Pär Olsson, Yuri Osetskiy, David J. Senor, Wahyu Setyawan, Michael P. Short, Tomoaki Suzudo, Jason R. Trelewicz, Tomohito Tsuru, Gary S. Was, Brian D. Wirth, Yang Liu, Yunyan Zhang, S.J. Zinkle
-
-June 2021
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.jnucmat.2021.153113](https://doi.org/10.1016/j.jnucmat.2021.153113)
-
----
-**Thermal gradient effect on the helium and intrinsic defects transport properties in Tungsten**
-
-<b>Enrique Martínez</b>, Nithin Mathew, Danny Pérez, Brian D. Wirth, Dimitrios Maroudas
-
-March 2021
-
-<sub><sup>
-
-</sup></sub>
-
-[None](None)
 
 ---
