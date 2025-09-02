@@ -9,19 +9,6 @@ Last updated: September 02, 2025
 </span>
 
 ---
-**Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
-
-<b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, D. Nguyen-Manh, Caleb Hatler, Miquela Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
-
-August 2025
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.actamat.2025.121435](https://doi.org/10.1016/j.actamat.2025.121435)
-
----
 **Effect of alloying on intrinsic ductility in WTaCrV high entropy alloys**
 
 <b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
@@ -33,6 +20,19 @@ August 2025
 </sup></sub>
 
 [https://doi.org/10.1016/j.mtla.2025.102519](https://doi.org/10.1016/j.mtla.2025.102519)
+
+---
+**Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
+
+<b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, D. Nguyen-Manh, Caleb Hatler, Miquela Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
+
+August 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.1016/j.actamat.2025.121435](https://doi.org/10.1016/j.actamat.2025.121435)
 
 ---
 **Design kinetic parameters for improved resilience of materials under irradiation**
@@ -100,32 +100,6 @@ Refractory High-Entropy Alloys (RHEAs) are promising candidates for structural m
 [https://doi.org/10.1002/advs.202417659](https://doi.org/10.1002/advs.202417659)
 
 ---
-**Atomistically-Informed Partial Dislocation Dynamics of Multi-Principal Element Alloys**
-
-Xin Liu, Hyunsoo Lee, Yang Li, <b>Liam Myhill</b>, Nikhil Chandra Admal, Giacomo Po, <b>Enrique Martínez</b>, Yinan Cui
-
-January 2025
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.5358125](https://doi.org/10.2139/ssrn.5358125)
-
----
-**Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
-
-<b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
-
-January 2025
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.5183694](https://doi.org/10.2139/ssrn.5183694)
-
----
 **Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
 
 <b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, Duc Nguyen-Manh, Caleb Hatler, Matthew J. Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
@@ -137,19 +111,6 @@ January 2025
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.5261326](https://doi.org/10.2139/ssrn.5261326)
-
----
-**Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
-
-Skye Supakul, Ishtiaque Robin, Eda Aydogan, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
-
-January 2025
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.5318308](https://doi.org/10.2139/ssrn.5318308)
 
 ---
 **Design Kinetic Parameters for Improved Resilience of Materials Under Irradiation**
@@ -165,6 +126,32 @@ January 2025
 [https://doi.org/10.2139/ssrn.5135553](https://doi.org/10.2139/ssrn.5135553)
 
 ---
+**Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
+
+<b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5273491](https://doi.org/10.2139/ssrn.5273491)
+
+---
+**Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
+
+<b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5183694](https://doi.org/10.2139/ssrn.5183694)
+
+---
 **Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
 
 Skye Supakul, Eda Aydogan, Ishtiaque Robin, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
@@ -178,9 +165,9 @@ January 2025
 [https://doi.org/10.2139/ssrn.5240158](https://doi.org/10.2139/ssrn.5240158)
 
 ---
-**Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
+**Atomistically-Informed Partial Dislocation Dynamics of Multi-Principal Element Alloys**
 
-<b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
+Xin Liu, Hyunsoo Lee, Yang Li, <b>Liam Myhill</b>, Nikhil Chandra Admal, Giacomo Po, <b>Enrique Martínez</b>, Yinan Cui
 
 January 2025
 
@@ -188,7 +175,20 @@ January 2025
 
 </sup></sub>
 
-[https://doi.org/10.2139/ssrn.5273491](https://doi.org/10.2139/ssrn.5273491)
+[https://doi.org/10.2139/ssrn.5358125](https://doi.org/10.2139/ssrn.5358125)
+
+---
+**Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
+
+Skye Supakul, Ishtiaque Robin, Eda Aydogan, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5318308](https://doi.org/10.2139/ssrn.5318308)
 
 ---
 **Segregation, ordering, and precipitation in refractory alloys**
@@ -547,19 +547,6 @@ We report a systematic computational analysis of the mechanical behavior of plas
 [https://doi.org/10.1021/acsami.2c20795](https://doi.org/10.1021/acsami.2c20795)
 
 ---
-**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
-
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El‐Atwani
-
-January 2023
-
-<sub><sup>
-Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
-
----
 **From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
 
 Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El‐Atwani
@@ -571,6 +558,19 @@ High-entropy materials represent the state-of-the-art on the alloy design strate
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
+
+---
+**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
+
+<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El‐Atwani
+
+January 2023
+
+<sub><sup>
+Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
 
 ---
 **Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
