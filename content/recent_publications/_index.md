@@ -11,7 +11,7 @@ Last updated: September 02, 2025
 ---
 **Effect of alloying on intrinsic ductility in WTaCrV high entropy alloys**
 
-Akshay Korpe, Osman El-Atwani, <b>Enrique Martínez</b>
+<b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
 
 August 2025
 
@@ -24,7 +24,7 @@ August 2025
 ---
 **Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
 
-Bomin Sun, Mark Fedorov, Jan Wróbel, D. Nguyen-Manh, Caleb Hatler, Miquela Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
+<b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, D. Nguyen-Manh, Caleb Hatler, Miquela Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
 
 August 2025
 
@@ -89,7 +89,7 @@ The alleged existence of sluggish diffusion in high-entropy alloys has drawn con
 ---
 **High Radiation Resistance in the Binary W‐Ta System Through Small V Additions: A New Paradigm for Nuclear Fusion Materials**
 
-Matheus A. Tunes, D. Parkison, Bomin Sun, Patrick Willenshofer, Sebastian Samberger, Christoph Frühwirth, Shalini Tripathi, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
+Matheus A. Tunes, D. Parkison, <b>Bochuan Sun</b>, Patrick Willenshofer, Sebastian Samberger, Christoph Frühwirth, Shalini Tripathi, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
 
 March 2025
 
@@ -102,7 +102,7 @@ Refractory High-Entropy Alloys (RHEAs) are promising candidates for structural m
 ---
 **Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
 
-Skye Supakul, Eda Aydogan, Ishtiaque Robin, Bomin Sun, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
+Skye Supakul, Ishtiaque Robin, Eda Aydogan, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
 
 January 2025
 
@@ -110,12 +110,25 @@ January 2025
 
 </sup></sub>
 
-[https://doi.org/10.2139/ssrn.5240158](https://doi.org/10.2139/ssrn.5240158)
+[https://doi.org/10.2139/ssrn.5318308](https://doi.org/10.2139/ssrn.5318308)
+
+---
+**Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
+
+<b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, Duc Nguyen-Manh, Caleb Hatler, Matthew J. Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5261326](https://doi.org/10.2139/ssrn.5261326)
 
 ---
 **Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
 
-Akshay Korpe, Osman El-Atwani, <b>Enrique Martínez</b>
+<b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
 
 January 2025
 
@@ -128,7 +141,7 @@ January 2025
 ---
 **Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
 
-Akshay Korpe, Osman El-Atwani, <b>Enrique Martínez</b>
+<b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
 
 January 2025
 
@@ -137,19 +150,6 @@ January 2025
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.5273491](https://doi.org/10.2139/ssrn.5273491)
-
----
-**Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
-
-Skye Supakul, Ishtiaque Robin, Eda Aydogan, Bomin Sun, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
-
-January 2025
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.5318308](https://doi.org/10.2139/ssrn.5318308)
 
 ---
 **Design Kinetic Parameters for Improved Resilience of Materials Under Irradiation**
@@ -165,19 +165,6 @@ January 2025
 [https://doi.org/10.2139/ssrn.5135553](https://doi.org/10.2139/ssrn.5135553)
 
 ---
-**Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
-
-Bomin Sun, Mark Fedorov, Jan Wróbel, Duc Nguyen-Manh, Caleb Hatler, Matthew J. Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
-
-January 2025
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.5261326](https://doi.org/10.2139/ssrn.5261326)
-
----
 **Atomistically-Informed Partial Dislocation Dynamics of Multi-Principal Element Alloys**
 
 Xin Liu, Hyunsoo Lee, Yang Li, <b>Liam Myhill</b>, Nikhil Chandra Admal, Giacomo Po, <b>Enrique Martínez</b>, Yinan Cui
@@ -189,6 +176,19 @@ January 2025
 </sup></sub>
 
 [https://doi.org/10.2139/ssrn.5358125](https://doi.org/10.2139/ssrn.5358125)
+
+---
+**Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
+
+Skye Supakul, Eda Aydogan, Ishtiaque Robin, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5240158](https://doi.org/10.2139/ssrn.5240158)
 
 ---
 **Segregation, ordering, and precipitation in refractory alloys**
@@ -233,7 +233,7 @@ November 2024
 ---
 **The path towards plasma facing components: A review of state-of-the-art in W-based refractory high-entropy alloys**
 
-Caleb Hatler, Ishtiaque Robin, Hyosim Kim, Nathan Curtis, Bomin Sun, Eda Aydogan, Saryu Fensin, Adrien Couet, <b>Enrique Martínez</b>, Dan J. Thoma, Osman El‐Atwani
+Caleb Hatler, Ishtiaque Robin, Hyosim Kim, Nathan Curtis, <b>Bochuan Sun</b>, Eda Aydogan, Saryu Fensin, Adrien Couet, <b>Enrique Martínez</b>, Dan J. Thoma, Osman El‐Atwani
 
 October 2024
 
@@ -273,7 +273,7 @@ July 2024
 **Enhancing Irradiation Resistance in Refractory Medium Entropy Alloys
   with Simplified Chemistry**
 
-Matheus A. Tunes, D. Parkison, Bomin Sun, Patrick Willenshofer, Sebastian Samberger, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
+Matheus A. Tunes, D. Parkison, <b>Bochuan Sun</b>, Patrick Willenshofer, Sebastian Samberger, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
 
 June 2024
 

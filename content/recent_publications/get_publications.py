@@ -76,6 +76,11 @@ def main():
 
             if "Enrique Martínez Sáez" in authors:
                 authors = authors.replace("Enrique Martínez Sáez", "Enrique Martínez")
+                
+            # bochuan's name is messed up lol
+            
+            if "Bomin Sun" in authors:
+                authors = authors.replace("Bomin Sun", "Bochuan Sun")
 
             for author in CONFIG.authors_to_bold:
                 authors = authors.replace(author, f"<b>{author}</b>")
