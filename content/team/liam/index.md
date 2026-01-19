@@ -19,4 +19,5 @@ On October 31, 2024, Liam won the Mechanical Engineering graduate student govern
 
 [Pi-MT Compatiton Presentation](pi-MT_10-31-24.pptx)
 
-For more information on Liam and his work, [click here](Resume2024.pdf)
+For more information on Liam and his work, [click here](Resume2026.pdf)
+
