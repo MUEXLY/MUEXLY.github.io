@@ -2,11 +2,141 @@
 
 ...and pre-prints, etc.*
 
-Last updated: September 02, 2025
+Last updated: January 19, 2026
 
 <span style="font-size:0.7em;padding-bottom:10px">
     *This list is procured from OpenAlex, so any mistakes from OpenAlex will appear here as well.
 </span>
+
+---
+**Active learning of a crystal plasticity flow rule from discrete dislocation dynamics simulations**
+
+Nick Julian, Giacomo Po, <b>Enrique Martínez</b>, Nithin Mathew, Danny Pérez
+
+December 2025
+
+<sub><sup>
+Abstract Continuum-scale material deformation models, such as crystal plasticity (CP), can significantly enhance their predictive accuracy by incorporating input from lower-scale (i.e. mesoscale) models. The procedure to generate and extract the relevant information is however typically complex and ad hoc, involving decision and intervention by domain experts, leading to long development times. In this study, we develop a principled approach for calibration of continuum-scale models using lower scale information by representing a CP flow rule as a Gaussian process model. This representation allows for efficient parameter space exploration, guided by the uncertainty embedded in the model through a process known as Bayesian optimization (BO). We demonstrate a semi-autonomous BO loop which instantiates discrete dislocation dynamics simulations whose initial conditions are automatically chosen to optimize the uncertainty of a model CP flow rule. Our self-guided computational pipeline efficiently generated a dataset and corresponding model whose error, uncertainty, and physical feature sensitivities were validated with comparison to an independent dataset four times larger, demonstrating a valuable and efficient active learning implementation readily transferable to similar material systems.
+</sup></sub>
+
+[https://doi.org/10.1088/1361-651x/ae2eee](https://doi.org/10.1088/1361-651x/ae2eee)
+
+---
+**Atomistically informed partial dislocation dynamics of multi-principal element alloys**
+
+Xin Liu, Hyunsoo Lee, Yang Li, <b>Liam Myhill</b>, David Rodney, Pierre-Antoine Geslin, Nikhil Chandra Admal, Giacomo Po, <b>Enrique Martínez</b>, Yinan Cui
+
+December 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.1016/j.jmps.2025.106478](https://doi.org/10.1016/j.jmps.2025.106478)
+
+---
+**Thermal gradient effect on hydrogen transport in tungsten**
+
+Sanad Alturk, <b>Jacob Jeffries</b>, Muhammed Kose, <b>Enrique Martínez</b>
+
+November 2025
+
+<sub><sup>
+Abstract One key challenge for efficiency and safety in fusion devices is the retention of tritium (T) in plasma-facing components. Tritium retention generates radioactive concerns and decreases the amount of fuel available to generate power. Hence, understanding the behavior of T in tungsten (W), as the main candidate as armor material, is critical to the deployment of fusion as a reliable energy source. In this work, we have studied the effect of a thermal gradient in the transport properties of hydrogen (as a T surrogate) in pure W. Strong thermal gradients develop in the divertor as a result of the intense energy fluxes arriving at the material. We have developed an analytical approach to compute the heat of transport ( <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll"> <mml:mrow> <mml:msup> <mml:mi>Q</mml:mi> <mml:mo>∗</mml:mo> </mml:msup> </mml:mrow> </mml:math> ) that is parameterized from molecular dynamics (MD) simulations. <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll"> <mml:mrow> <mml:msup> <mml:mi>Q</mml:mi> <mml:mo>∗</mml:mo> </mml:msup> </mml:mrow> </mml:math> is a parameter needed in irreversible thermodynamics frameworks to understand mass transport in the presence of thermal gradients. We show that <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll"> <mml:mrow> <mml:msup> <mml:mi>Q</mml:mi> <mml:mo>∗</mml:mo> </mml:msup> </mml:mrow> </mml:math> can be written as a function of temperature, temperature gradient, a characteristic length and the ratio of the rates towards hot and cold regions. Furthermore, we describe how, to first order, the dependence of <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll"> <mml:mrow> <mml:msup> <mml:mi>Q</mml:mi> <mml:mo>∗</mml:mo> </mml:msup> </mml:mrow> </mml:math> on the thermal gradient vanishes, in agreement with MD results. On average, we find <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll"> <mml:mrow> <mml:msup> <mml:mi>Q</mml:mi> <mml:mo>∗</mml:mo> </mml:msup> <mml:mo>=</mml:mo> <mml:mo>−</mml:mo> <mml:mn>5.41</mml:mn> <mml:mo>×</mml:mo> <mml:msup> <mml:mn>10</mml:mn> <mml:mrow> <mml:mo>−</mml:mo> <mml:mn>3</mml:mn> </mml:mrow> </mml:msup> <mml:mi>k</mml:mi> <mml:msup> <mml:mi>T</mml:mi> <mml:mn>2</mml:mn> </mml:msup> <mml:mrow> <mml:mi>eV</mml:mi> </mml:mrow> </mml:mrow> </mml:math> for H in pure W, with k the Boltzmann constant and T the temperature.
+</sup></sub>
+
+[https://doi.org/10.1088/1741-4326/ae2524](https://doi.org/10.1088/1741-4326/ae2524)
+
+---
+**Grain boundary metastability controls irradiation resistance in nanocrystalline metals**
+
+Osman El‐Atwani, Annie K. Barnett, <b>Enrique Martínez</b>, Jian Han, Asher C. Leff, Chang‐Yu Hung, James E. Nathaniel, Sicong He, Emily H. Mang, Larissa M. Woryk, Khalid Hattar, Blas P. Uberuaga, David J. Srolovitz, Michael L. Falk, Jaime Marian, Mitra L. Taheri
+
+November 2025
+
+<sub><sup>
+Grain boundaries (GBs) in polycrystalline materials are powerful sinks for irradiation defects. While standard theories assume that a GB’s efficiency as a sink is defined solely by its character before irradiation, recent evidence conclusively shows that the irradiation sink efficiency is a highly dynamic property controlled by the intrinsic metastability of GBs under far-from-equilibrium irradiation conditions. In this paper, we reveal that the denuded (i.e., defect-free) zone, typically the signature of a strong sink, can collapse as irradiation damage accumulates. We propose a radiation damage evolution model that captures this behavior based on the emergence of a series of irradiation defect-enabled metastable GB microstate changes that dynamically alter the ability of the GB to absorb further damage. We show that these microstate changes control further defect absorption and give rise to the formation of a defect network that manifests itself as a net Nye-tensor signal detectable via lattice curvature experiments.
+</sup></sub>
+
+[https://doi.org/10.1016/j.matdes.2025.115038](https://doi.org/10.1016/j.matdes.2025.115038)
+
+---
+**Decoupling thermal and irradiation effects on grain boundary segregation**
+
+Marie Thomas, Daniele Fatto' Offidani, Mohit Dhoriya, Emmanuelle A. Marquis, <b>Enrique Martínez</b>, Suveen N. Mathaudhu
+
+November 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.1016/j.mtla.2025.102607](https://doi.org/10.1016/j.mtla.2025.102607)
+
+---
+**A METHODOLOGICAL PROPOSAL TO APPLY THE MONTE-CARLO METHOD TO DIMENSIONAL METROLOGY IN THE INDUSTRIAL ENGINEERING FIELD**
+
+MARICARMEN MANJABACAS, J. Plaza, V. Miguel, <b>Enrique Martínez</b>
+
+November 2025
+
+<sub><sup>
+The Monte Carlo method (MCM), applied to uncertainty calculation in metrology, is well-suited for nonlinear functions. It also provides more accurate solutions in certain complex linear models. Although MCM is extensively covered in the ISO Guide to the Expression of Uncertainty in Measurement (GUM) and in metrological guides from reference institutions in various countries, industrial engineering curricula typically only introduce concepts related to uncertainty propagation using the traditional analytical method. MCM requires programming to generate random numbers within the expected range for each variable involved in the metrological system, combining computing tools with metrology. This methodological proposal is based on a basic system for constructing an angle using a sine bar and gauge blocks. The problem progressively incorporates the temperature variable under different behavioural hypotheses and the influence of other factors, such as the roundness tolerance of the sine bar supports. The results obtained using MCM are compared with those from the classical GUM method, and the analysis demonstrates the robustness of MCM from a scientific perspective. Based on this methodology, further challenges could be explored, such as introducing the flatness tolerance of the surface plate used. Keywords: Montecarlo, dimensional metrology, angle construction, influence magnitudes
+</sup></sub>
+
+[https://doi.org/10.52152/d11459](https://doi.org/10.52152/d11459)
+
+---
+**Kinetic Monte Carlo prediction of the morphology of pentaerythritol tetranitrate**
+
+<b>Jacob Jeffries</b>, Himanshu Singh, Romain Perriot, Christian F. A. Negre, Antonio Redondo, <b>Enrique Martínez</b>
+
+September 2025
+
+<sub><sup>
+In this work, we develop an atomistic, graph-based kinetic Monte Carlo (KMC) simulation routine to predict crystal morphology. Within this routine, we encode the state of the supercell in a binary occupation vector and the topology of the supercell in a simple nearest-neighbor graph. From this encoding, we efficiently compute the interaction energy of the system as a quadratic form of the binary occupation vector, representing pairwise interactions. This encoding, coupled with a simple diffusion model for adsorption, is then used to model evaporation and adsorption dynamics at solid-liquid interfaces. The resulting intermolecular interaction-breaking energies are incorporated into a kinetic model to predict crystal morphology, which is implemented in the open-source Python package Crystal Growth Kinetic Monte Carlo (cgkmc). We then apply this routine to pentaerythritol tetranitrate (PETN), an important energetic material, showing excellent agreement with the attachment energy model.
+</sup></sub>
+
+[https://doi.org/10.48550/arxiv.2509.25490](https://doi.org/10.48550/arxiv.2509.25490)
+
+---
+**How can next-generation technologies serve heliostat metrology?**
+
+Marc Röger, M. Nieslony, Alexander Schnerring, Rafal Broda, <b>Enrique Martínez</b>, Niels Algner, Jan Lewen, Max Pargmann, Daniel Maldonado Quinto
+
+September 2025
+
+<sub><sup>
+The increased availability of computing resources enables next-generation technologies to process large amounts of data, driving the creation of more accurate, efficient, and innovative systems. New tools such as digital twins and artificial intelligence have been shown to speed up development cycles, reduce risks and costs, and create better products in almost all disciplines. The authors believe that many tasks in CSP tower plants can benefit from this new data-driven paradigm. The presentation will focus on examples in which next-generation technologies are applied to optimize the operation and calibration of CSP tower plants.
+</sup></sub>
+
+[https://doi.org/10.1117/12.3065449](https://doi.org/10.1117/12.3065449)
+
+---
+**Bulk synthesis of radiation resistant W – Ti – Cr – V compositionally complex alloys**
+
+Skye Supakul, Ishtiaque Robin, Eda Aydogan, Weiying Chen, Matthew Vigil, Biao Sun, Shalini Tripathi, James V. Haag, Saryu Fensin, Wahyu Setyawan, <b>Enrique Martínez</b>, Dan J. Thoma, Osman El‐Atwani
+
+September 2025
+
+<sub><sup>
+Refractory compositionally complex alloys are candidate material systems for next generation advanced nuclear reactors. This work showcases the first successful bulk synthesis of low activation W–Ti based refractory compositionally complex alloys using arc melting and provides insights on using additive manufacturing for these compositions using directed energy deposition. Both techniques produce equiaxed grains composed of a tungsten matrix with Ti–V–Cr dendritic boundaries. The arc melted specimen possesses a multi-modal grain size distribution, while the directed energy deposition specimen possesses a more gaussian distribution of grain size. Both arc melted and directed energy deposition specimens demonstrate high thermal stability up to 900 °C, as well as promising radiation resistance with low loop formation and the presence of homogeneously distributed helium cavities maintaining small diameters at ≥10 dpa under simultaneous light (helium) and heavy (krypton) ion irradiation at 900 °C.
+</sup></sub>
+
+[https://doi.org/10.1016/j.jmrt.2025.09.046](https://doi.org/10.1016/j.jmrt.2025.09.046)
+
+---
+**Dual beam ion irradiation response of low activation thin films of nanocrystalline W-Ti-Based compositionally complex alloys**
+
+Skye Supakul, Ishtiaque Robin, Eda Aydogan, Biao Sun, Kayla Yano, Shalini Tripathi, James V. Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
+
+September 2025
+
+<sub><sup>
+Recently, compositionally complex alloys (CCAs) have been proposed as material candidates for extreme environments, such as for fission or fusion. To explore low activation designed W-Ti-based CCA systems, two new nanocrystalline CCA thin films were synthesized. Single-phase BCC ternary W–Ti–V and quaternary W–Ti–Cr–V CCAs were subjected to in-situ heating and dual-beam ion irradiation investigations at 900 °C. After exposure to 900 °C with and without ion irradiation both systems exhibited negligible grain growth. Small (≤ 1 nm) cavities distributed throughout the film were observed with no radiation induced loop formation post dual-beam ion irradiation up to ∼ 13 dpa. These responses are in excellent agreement with atomistic modeling. Compared to other candidate material systems, these systems possess impressive thermal stabilities and irradiation resistances, while serving as low activation alternatives to W–Ta–based compositionally complex alloys for extreme environments.
+</sup></sub>
+
+[https://doi.org/10.1016/j.matdes.2025.114658](https://doi.org/10.1016/j.matdes.2025.114658)
 
 ---
 **Effect of alloying on intrinsic ductility in WTaCrV high entropy alloys**
@@ -22,7 +152,7 @@ August 2025
 [https://doi.org/10.1016/j.mtla.2025.102519](https://doi.org/10.1016/j.mtla.2025.102519)
 
 ---
-**Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
+**Thermodynamic assessment of the quaternary WTaCrV refractory high entropy alloy as a means to guide experimental approaches**
 
 <b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, D. Nguyen-Manh, Caleb Hatler, Miquela Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
 
@@ -42,7 +172,7 @@ August 2025
 July 2025
 
 <sub><sup>
-
+High entropy alloys (HEAs) have captured much attention in recent years due to their conceivably improved radiation resistance compared to pure metals, terminal solid solution alloys and traditional nuclear materials. However, among HEAs, there are millions of design possibilities considering all potential compositions. In this study, we develop criteria to design HEAs with improved radiation resilience taking into consideration defect properties to promote interstitial-vacancy recombination. First, we conduct rate theory calculations on defects followed by Molecular Dynamics (MD) simulations on pure W and W-based multicomponent concentrated alloys. It is found that when the diffusion coefficients for single vacancies and interstitials become similar and the effective migration energies of defects are minimum (maximum diffusivities), defect recombination becomes optimal, and the concentration of defects is significantly reduced. This is supported by MD simulations indicating improved radiation resistance of V- and Cr-based alloys, which satisfy the above-stated criteria. Furthermore, experimental observations also reinforce the proposed approach. This study sheds light on the design criteria for improved radiation resistance and helps material selection without the need of extensive experimental work.
 </sup></sub>
 
 [https://doi.org/10.1016/j.matdes.2025.114419](https://doi.org/10.1016/j.matdes.2025.114419)
@@ -68,7 +198,7 @@ Giovanni Orlandi, Jun Li, S.D. Kenny, <b>Enrique Martínez</b>
 March 2025
 
 <sub><sup>
-While lithium-ion batteries (LIBs) have been largely commercialized as the rechargeable battery of choice, their liquid electrolyte limits the theoretical energy density of the battery and poses serious safety threats. Solid-state lithium batteries (SSLBs) use a solid electrolyte, which can provide much higher energy densities and better safety than LIBs. The adoption of SSLBs is held back by interactions that occur between the electrolyte and anode, such as high resistance to lithium (Li) ion flow and the growth of Li dendrites that lead to short circuits. This paper focuses on understanding the interface between oxide electrolytes and Li metal anodes with the goal of predicting the structure and properties dictated by the interface. By comparing interface energies for different orientations of Li and lithium oxide (Li2O), a primary component of the solid electrolyte interphase, the Li2O(110) surface was found to be the most energetically favorable. Furthermore, bonding between the metallic Li and the oxygen atoms on the Li2O(110) plane was observed to be more impactful on stability than the lattice strain. As a consequence, the lowest energy interface was obtained by introducing FCC Li between Li2O and BCC Li.
+While lithium-ion batteries (LIBs) have been largely commercialized as the rechargeable battery of choice, their liquid electrolyte limits the theoretical energy density of the battery and poses serious safety threats. Solid-state lithium batteries (SSLBs) use a solid electrolyte, which can provide much higher energy densities and better safety than LIBs. The adoption of SSLBs is held back by interactions that occur between the electrolyte and anode, such as high resistance to lithium (Li) ion flow and the growth of Li dendrites that lead to short circuits. This paper focuses on understanding the interface between oxide electrolytes and Li metal anodes with the goal of predicting the structure and properties dictated by the interface. By comparing interface energies for different orientations of Li and lithium oxide (Li<sub>2</sub>O), a primary component of the solid electrolyte interphase, the Li<sub>2</sub>O(110) surface was found to be the most energetically favorable. Furthermore, bonding between the metallic Li and the oxygen atoms on the Li<sub>2</sub>O(110) plane was observed to be more impactful on stability than the lattice strain. As a consequence, the lowest energy interface was obtained by introducing FCC Li between Li<sub>2</sub>O and BCC Li.
 </sup></sub>
 
 [https://doi.org/10.1021/acsami.4c22106](https://doi.org/10.1021/acsami.4c22106)
@@ -81,7 +211,7 @@ While lithium-ion batteries (LIBs) have been largely commercialized as the recha
 March 2025
 
 <sub><sup>
-The alleged existence of sluggish diffusion in high-entropy alloys has drawn controversy. In high-entropy alloys and, in general, in all solids, transport properties are controlled by point defect concentration, which must be known before performing atomistic simulations to compute transport coefficients. In this work, we present a general Langmuir-like model for defect concentration in an arbitrarily complex solid solution and apply this model to generate expressions for concentrations of vacancies and small interstitial atoms. We then calculate the vacancy concentration as a function of temperature in the equiatomic CoNiCrFeMn and FeAl alloys with modified embedded-atom-method potentials for various chemical orderings, showing there is no clear correlation between vacancy thermodynamics and chemical ordering in the CoNiCrFeMn alloy, but clear systematic patterns for FeAl. We believe this is due to the high stability of disordered, random, and ordered intermetallic phases, respectively, in the CoNiCrFeMn and FeAl systems. This work provides future avenues to the prediction of thermal interstitials and vacancies in solid solutions, which is necessary for models of nonequilibrium behavior of solid solutions.
+
 </sup></sub>
 
 [https://doi.org/10.1103/physrevmaterials.9.033803](https://doi.org/10.1103/physrevmaterials.9.033803)
@@ -89,12 +219,12 @@ The alleged existence of sluggish diffusion in high-entropy alloys has drawn con
 ---
 **High Radiation Resistance in the Binary W‐Ta System Through Small V Additions: A New Paradigm for Nuclear Fusion Materials**
 
-Matheus A. Tunes, D. Parkison, <b>Bochuan Sun</b>, Patrick Willenshofer, Sebastian Samberger, Christoph Frühwirth, Shalini Tripathi, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
+Matheus A. Tunes, Darren Parkison, <b>Bochuan Sun</b>, Patrick Willenshofer, Sebastian Samberger, Christoph Frühwirth, Shalini Tripathi, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
 
 March 2025
 
 <sub><sup>
-Refractory High-Entropy Alloys (RHEAs) are promising candidates for structural materials in nuclear fusion reactors, where W-based alloys are currently leading. Fusion materials must withstand extreme conditions, including i) severe radiation damage from energetic neutrons, ii) embrittlement due to H and He ion implantation, and iii) exposure to high temperatures and thermal gradients. Recent RHEAs, such as WTaCrV and WTaCrVHf, have shown superior radiation tolerance and microstructural stability compared to pure W, but their multi-element compositions complicate bulk fabrication and limit practical use. In this study, it is demonstrated that reducing alloying elements in RHEAs is feasible without compromising radiation tolerance. Herein, two Highly Concentrated Refractory Alloys (HCRAs) - W53Ta44V3 and W53Ta42V5 (at.%) - were synthesized and investigated. We found that small V additions significantly influence the radiation response of the binary W-Ta system. Experimental results, supported by ab-initio Monte Carlo simulations and machine-learning-driven molecular dynamics, reveal that minor variations in V content enhance Ta-V chemical short-range order (CSRO), improving radiation resistance in the W53Ta42V5 HCRA. By focusing on reducing chemical complexity and the number of alloying elements, the conventional high-entropy alloy paradigm is challenged, suggesting a new approach to designing simplified multi-component alloys with refractory properties for thermonuclear fusion applications.
+Abstract Refractory High‐Entropy Alloys (RHEAs) are promising candidates for structural materials in nuclear fusion reactors, where W‐based alloys are currently leading. Fusion materials must withstand extreme conditions, including i) severe radiation damage from energetic neutrons, ii) embrittlement due to H and He ion implantation, and iii) exposure to high temperatures and thermal gradients. Recent RHEAs, such as WTaCrV and WTaCrVHf, have shown superior radiation tolerance and microstructural stability compared to pure W, but their multi‐element compositions complicate bulk fabrication and limit practical use. In this study, it is demonstrated that reducing alloying elements in RHEAs is feasible without compromising radiation tolerance. Herein, two Highly Concentrated Refractory Alloys (HCRAs) − W 53 Ta 44 V 3 and W 53 Ta 42 V 5 (at.%) − were synthesized and investigated. We found that small V additions significantly influence the radiation response of the binary W–Ta system. Experimental results, supported by ab‐initio Monte Carlo simulations and machine‐learning‐driven molecular dynamics, reveal that minor variations in V content enhance Ta–V chemical short‐range order (CSRO), improving radiation resistance in the W 53 Ta 42 V 5 HCRA. By focusing on reducing chemical complexity and the number of alloying elements, the conventional high‐entropy alloy paradigm is challenged, suggesting a new approach to designing simplified multi‐component alloys with refractory properties for thermonuclear fusion applications.
 </sup></sub>
 
 [https://doi.org/10.1002/advs.202417659](https://doi.org/10.1002/advs.202417659)
@@ -102,7 +232,7 @@ Refractory High-Entropy Alloys (RHEAs) are promising candidates for structural m
 ---
 **Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
 
-<b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, Duc Nguyen-Manh, Caleb Hatler, Matthew J. Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
+<b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, Duc Nguyen-Manh, Caleb Hatler, Matthew Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
 
 January 2025
 
@@ -113,9 +243,9 @@ January 2025
 [https://doi.org/10.2139/ssrn.5261326](https://doi.org/10.2139/ssrn.5261326)
 
 ---
-**Design Kinetic Parameters for Improved Resilience of Materials Under Irradiation**
+**Design, Processing, and Properties of WTaCrV-Hf Multi-principal Element Alloys**
 
-<b>Enrique Martínez</b>, <b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Osman El‐Atwani, Matheus A. Tunes
+Miquela Vigil, Caleb Hatler, <b>Bochuan Sun</b>, Ishtiaque Robin, Skye Supakul, Richard G. Hoagland, Osman El‐Atwani, <b>Enrique Martínez</b>, Dan J. Thoma
 
 January 2025
 
@@ -123,7 +253,7 @@ January 2025
 
 </sup></sub>
 
-[https://doi.org/10.2139/ssrn.5135553](https://doi.org/10.2139/ssrn.5135553)
+[https://doi.org/10.2139/ssrn.5562071](https://doi.org/10.2139/ssrn.5562071)
 
 ---
 **Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
@@ -139,9 +269,9 @@ January 2025
 [https://doi.org/10.2139/ssrn.5273491](https://doi.org/10.2139/ssrn.5273491)
 
 ---
-**Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
+**Design Kinetic Parameters for Improved Resilience of Materials Under Irradiation**
 
-<b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
+<b>Enrique Martínez</b>, <b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Osman El‐Atwani, Matheus A. Tunes
 
 January 2025
 
@@ -149,7 +279,7 @@ January 2025
 
 </sup></sub>
 
-[https://doi.org/10.2139/ssrn.5183694](https://doi.org/10.2139/ssrn.5183694)
+[https://doi.org/10.2139/ssrn.5135553](https://doi.org/10.2139/ssrn.5135553)
 
 ---
 **Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
@@ -178,6 +308,19 @@ January 2025
 [https://doi.org/10.2139/ssrn.5358125](https://doi.org/10.2139/ssrn.5358125)
 
 ---
+**Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
+
+<b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5183694](https://doi.org/10.2139/ssrn.5183694)
+
+---
 **Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
 
 Skye Supakul, Ishtiaque Robin, Eda Aydogan, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
@@ -191,7 +334,7 @@ January 2025
 [https://doi.org/10.2139/ssrn.5318308](https://doi.org/10.2139/ssrn.5318308)
 
 ---
-**Segregation, ordering, and precipitation in refractory alloys**
+**Segregation, ordering, and precipitation in WTaV-based concentrated refractory alloys**
 
 Jesper Byggmästar, Damian Sobieraj, Jan Wróbel, Daniel K. Schreiber, Osman El‐Atwani, <b>Enrique Martínez</b>, D. Nguyen-Manh
 
@@ -204,8 +347,7 @@ Tungsten-based low-activation high-entropy alloys are possible candidates for ne
 [https://doi.org/10.48550/arxiv.2412.13750](https://doi.org/10.48550/arxiv.2412.13750)
 
 ---
-**Design Kinetic Parameters for Improved Resilience of Materials under
-  Irradiation**
+**Design Kinetic Parameters for Improved Resilience of Materials under Irradiation**
 
 <b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Matheus A. Tunes, <b>Enrique Martínez</b>, Osman El‐Atwani
 
@@ -270,10 +412,9 @@ July 2024
 [https://doi.org/10.1093/mam/ozae044.662](https://doi.org/10.1093/mam/ozae044.662)
 
 ---
-**Enhancing Irradiation Resistance in Refractory Medium Entropy Alloys
-  with Simplified Chemistry**
+**Enhancing Irradiation Resistance in Refractory Medium Entropy Alloys with Simplified Chemistry**
 
-Matheus A. Tunes, D. Parkison, <b>Bochuan Sun</b>, Patrick Willenshofer, Sebastian Samberger, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
+Matheus A. Tunes, Darren Parkison, <b>Bochuan Sun</b>, Patrick Willenshofer, Sebastian Samberger, Benjamin K. Derby, Jon K. Baldwin, Saryu Fensin, Damian Sobieraj, Jan Wróbel, Jesper Byggmästar, Stefan Pogatscher, <b>Enrique Martínez</b>, D. Nguyen-Manh, Osman El‐Atwani
 
 June 2024
 
@@ -286,19 +427,18 @@ Refractory High-Entropy Alloys (RHEAs) hold promising potential to be used as st
 ---
 **Influence of the distance of a collisional cascade to an edge dipole in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si2.svg" display="inline" id="d1e435"><mml:mi>α</mml:mi></mml:math>-Fe on dislocation mobility and defect production**
 
-Cristian D. Denton, Santiago Heredia‐Avalos, Juan Carlos Moreno‐Marín, <b>Enrique Martínez</b>, M.J. Caturla
+Cristian D. Denton, Santiago Heredia‐Avalos, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
 
 April 2024
 
 <sub><sup>
-In this work we studied the effects of 20 keV collision cascades in alpha iron with a 1/2〈111〉{110} edge dipole using molecular dynamics. We analysed three different cases: a) the primary knock-on atom (PKA) is centered between both dislocations, b) the PKA is closer to one of the dislocations, and c) the PKA is on top of one of the dislocations and directed towards it. Our calculations show enhanced formation of vacancy clusters in the bulk for intermediate distances due to the absorption of self-interstitials by the dislocation during the collision cascade reducing the recombination between vacancies and self-interstitials. This effect results in the formation of jogs at the dislocation and the consequent climb due to the absorption of the self-interstitials. As a result, there is an unbalance between vacancies and self-interstitials produced by the collision cascade, with a significantly larger number of vacancies than self-interstitials in the bulk and the formation of large vacancy clusters. When the collision cascade develops directly on top of the dislocation, jogs are formed due to both the absorption of vacancies and self-interstitials, inducing climb and with the total dislocation length increasing up to several nanometers.
+In this work we studied the effects of 20 keV collision cascades in alpha iron with a 1∕2⟨111⟩{110} edge dipole using molecular dynamics. We analysed three different cases: a) the primary knock-on atom (PKA) is centred between both dislocations, b) the PKA is closer to one of the dislocations, and c) the PKA is on top of one of the dislocations and directed towards it. Our calculations show enhanced formation of vacancy clusters in the bulk for intermediate distances due to the absorption of self-interstitials by the dislocation during the collision cascade reducing the recombination between vacancies and self-interstitials. This effect results in the formation of jogs at the dislocation and the consequent climb due to the absorption of the self-interstitials. As a result, there is an unbalance between vacancies and self-interstitials produced by the collision cascade, with a significantly larger number of vacancies than self-interstitials in the bulk and the formation of large vacancy clusters. When the collision cascade develops directly on top of the dislocation, jogs are formed due to both the absorption of vacancies and self-interstitials, inducing climb and with the total dislocation length increasing up to several nanometers.
 </sup></sub>
 
 [https://doi.org/10.1016/j.nme.2024.101663](https://doi.org/10.1016/j.nme.2024.101663)
 
 ---
-**Grain boundary metastability controls irradiation resistance in
-  nanocrystalline metals**
+**Grain boundary metastability controls irradiation resistance in nanocrystalline metals**
 
 Osman El‐Atwani, Annie K. Barnett, <b>Enrique Martínez</b>, Jian Han, Asher C. Leff, Chang‐Yu Hung, James E. Nathaniel, Sicong He, Emily H. Mang, Larissa M. Woryk, Khalid Hattar, Blas P. Uberuaga, David J. Srolovitz, Michael L. Falk, Jaime Marian, Mitra L. Taheri
 
@@ -337,8 +477,7 @@ March 2024
 [https://doi.org/10.1016/j.commatsci.2024.112954](https://doi.org/10.1016/j.commatsci.2024.112954)
 
 ---
-**Data-Driven Modeling of Dislocation Mobility from Atomistics using
-  Physics-Informed Machine Learning**
+**Data-Driven Modeling of Dislocation Mobility from Atomistics using Physics-Informed Machine Learning**
 
 Yifeng Tian, Soumendu Bagchi, <b>Liam Myhill</b>, Giacomo Po, <b>Enrique Martínez</b>, Yen Ting Lin, Nithin Mathew, Danny Pérez
 
@@ -351,8 +490,7 @@ Dislocation mobility, which dictates the response of dislocations to an applied 
 [https://doi.org/10.48550/arxiv.2403.14015](https://doi.org/10.48550/arxiv.2403.14015)
 
 ---
-**Primary Defect Production in Doped Iron Grain Boundaries during Low
-  Energy Collision Cascades**
+**Primary Defect Production in Doped Iron Grain Boundaries during Low Energy Collision Cascades**
 
 Yang Zhang, Blas P. Uberuaga, <b>Enrique Martínez</b>, Jason R. Trelewicz
 
@@ -378,17 +516,95 @@ In this work we develop a stochastic algorithm to integrate the Cahn-Hilliard eq
 [https://doi.org/10.48550/arxiv.2402.08034](https://doi.org/10.48550/arxiv.2402.08034)
 
 ---
-**Langmuir-like model of dilute impurities in concentrated solid solutions**
+**Atomistic modeling of the long-term microstructural evolution of heterogeneous systems in vacancy-supersaturated environments**
 
-<b>Jacob Jeffries</b>, <b>Enrique Martínez</b>
+<b>Enrique Martínez</b>
 
 February 2024
 
 <sub><sup>
-High-entropy alloys have drawn recent interest for their promising mechanical properties and irradiation resistance. Various properties, namely transport properties, are controlled by point defect concentration, which must be known before performing atomistic simulations to compute transport coefficients. In this work, we present a general Langmuir-like model for impurity concentration in an arbitrarily complex solid solution and apply this model to generate expressions for concentrations of vacancies and small interstitial atoms. We then calculate the vacancy concentration as a function of temperature in the equiatomic CoNiCrFeMn and FeAl alloys with modified embedded-atom-method potentials for various chemical orderings, showing there is no clear correlation between vacancy thermodynamics and chemical ordering in the CoNiCrFeMn alloy but clear systematic patterns for FeAl.
+
+</sup></sub>
+
+[None](None)
+
+---
+**Prediction of defect properties in concentrated solid solutions using a Langmuir-like model**
+
+<b>Jacob Jeffries</b>, <b>Enrique Martínez</b>, Mathaudhu, Suveen, Marquis, Emmanuelle, Martinez, Enrique
+
+February 2024
+
+<sub><sup>
+The alleged existence of sluggish diffusion in high entropy alloys has drawn controversy. In high entropy alloys, and in general in all solids, transport properties are controlled by point defect concentration, which must be known before performing atomistic simulations to compute transport coefficients. In this work, we present a general Langmuir-like model for defect concentration in an arbitrarily complex solid solution and apply this model to generate expressions for concentrations of vacancies and small interstitial atoms. We then calculate the vacancy concentration as a function of temperature in the equiatomic CoNiCrFeMn and FeAl alloys with modified embedded-atom-method potentials for various chemical orderings, showing there is no clear correlation between vacancy thermodynamics and chemical ordering in the CoNiCrFeMn alloy but clear systematic patterns for FeAl. We believe this is due to the high stability of disordered, random and ordered, intermetallic phases respectively in the CoNiCrFeMn and FeAl systems. This work provides future avenues to the prediction of thermal interstitials and vacancies in solid solutions, which is necessary for models of non-equilibrium behavior of solid solutions.
 </sup></sub>
 
 [https://doi.org/10.48550/arxiv.2402.07324](https://doi.org/10.48550/arxiv.2402.07324)
+
+---
+**Atomistic modeling of the long-term microstructural evolution of twist boundaries under vacancy supersaturation**
+
+<b>Enrique Martínez</b>
+
+February 2024
+
+<sub><sup>
+
+</sup></sub>
+
+[None](None)
+
+---
+**Metropolis and kinetic Monte Carlo with fields: diffusion / precipitation in heterogeneous systems**
+
+<b>Enrique Martínez</b>
+
+February 2024
+
+<sub><sup>
+
+</sup></sub>
+
+[None](None)
+
+---
+**Atomistic modeling of the long-term microstructural evolution of heterogeneous systems**
+
+<b>Enrique Martínez</b>
+
+February 2024
+
+<sub><sup>
+
+</sup></sub>
+
+[None](None)
+
+---
+**Radiation Induced Defects Behavior in the Presence of Interfaces**
+
+<b>Enrique Martínez</b>
+
+February 2024
+
+<sub><sup>
+
+</sup></sub>
+
+[None](None)
+
+---
+**Synchronous parallel kinetic Monte Carlo Diffusion in Heterogeneous Systems**
+
+<b>Enrique Martínez</b>
+
+February 2024
+
+<sub><sup>
+A new hybrid Molecular Dynamics-kinetic Monte Carlo algorithm has been developed in order to study the basic mechanisms taking place in diffusion in concentrated alloys under the action of chemical and stress fields. Parallel implementation of the k-MC part based on a recently developed synchronous algorithm [1. Compo Phys. 227 (2008) 3804-3823] resorting on the introduction of a set of null events aiming at synchronizing the time for the different subdomains, added to the parallel efficiency of MD, provides the computer power required to evaluate jump rates 'on the flight', incorporating in this way the actual driving force emerging from chemical potential gradients, and the actual environment-dependent jump rates. The time gain has been analyzed and the parallel performance reported. The algorithm is tested on simple diffusion problems to verify its accuracy.
+</sup></sub>
+
+[None](None)
 
 ---
 **From anti-Arrhenius to Arrhenius behavior in a dislocation-obstacle bypass: Atomistic Simulations and Theoretical Investigation**
@@ -406,12 +622,12 @@ Dislocations are the primary carriers of plasticity in metallic material. Unders
 ---
 **Shock wave induced migration of an edge dislocation dipole in alpha-Fe**
 
-Santiago Heredia‐Avalos, Cristian D. Denton, Juan Carlos Moreno‐Marín, <b>Enrique Martínez</b>, M.J. Caturla
+Santiago Heredia‐Avalos, Cristian D. Denton, Juan Carlos Moreno-Marı́n, <b>Enrique Martínez</b>, M.J. Caturla
 
 December 2023
 
 <sub><sup>
-The mobility of a 1/2〈111〉{110} edge dipole in alpha-iron has been studied using molecular dynamics simulations. Collision cascades generated by keV recoils have been shown to induce the migration of dislocations. In order to elucidate the origin of the motion of these dislocations, and separate the production of defects from temperature or pressure effects, a stressed region of different shapes (sphere and cylinder) is simulated close to the edge dipole. We observe that the generated shock wave triggers the movement of the dislocations even when no defects are produced. The shape of the distorted region and the character of the dislocations influence the way the dislocations move, due to the change in Peach-Koehler force direction and to the fact that the shock waves arrive to the different parts of the dislocations at different times.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.jnucmat.2023.154878](https://doi.org/10.1016/j.jnucmat.2023.154878)
@@ -424,7 +640,7 @@ Matthew J. Lloyd, Jack Haley, Bethany Jim, Robert G. Abernethy, Mark R. Gilbert,
 December 2023
 
 <sub><sup>
-This study aims to compare the effects of neutron and self-ion irradiation on the mechanical properties and microstructural evolution in W. Neutron irradiation at the HFR reactor to 1.67 dpa at 800 °C resulted in the formation of large Re and Os rich clusters and voids. The post-irradiation composition was measured using APT and verfified against FISPACT modelling. The measured Re and Os concentration was used to create alloys with equivalent concentrations of Re and Os. These alloys were exposed to self-ion irradiation to a peak dose of 1.7 dpa at 800 °C. APT showed that self-ion irradiation leads to the formation of small Os clusters, wheras under neutron irradiation large Re/Os clusters form. Voids are formed by both ion and neutron irradiation, but the voids formed by neutron irradiation are larger. By comparing the behaviour of W-1.4Re and W-1.4Re-0.1Os, suppression of Re cluster formation was observed. Irradiation hardening was measured using nanoindentation and was found to be 2.7 GPa, after neutron irradiation and 1.6 GPa and 0.6 GPa for the self-ion irradiated W-1.4Re and W-1.4Re-0.1Os. The higher hardening is attributed to the barrier strength of large voids and Re/Os clusters that are observed after neutron irradiation.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.mtla.2023.101991](https://doi.org/10.1016/j.mtla.2023.101991)
@@ -437,217 +653,9 @@ Thomasina Zaengle, <b>Enrique Martínez</b>, Thomas W. Hawkins, Colin D. McMille
 October 2023
 
 <sub><sup>
-The flux assisted molten core method, previously employed to fabricate glass-clad crystalline GaAs core fiber, is applied here to realize crystalline selenide and phosphide cores. These semiconductor families show great promise in photonics, optoelectronics, and thermoelectrics, although their volatility has previously prohibited successful fabrication utilizing the conventional molten core method. Through the introduction of a flux, the alloy melt temperature and associated vapor pressure can be sufficiently reduced to permit thermal drawing of the melt inside a glass cladding into fiber. Reported here are demonstrations of crystalline selenide and phosphide cores. Also reported is the CO2 laser post processing of a ZnSe core fluxed with Cu8GeSe6, which resulted in lateral segregation of the ZnSe phase from the flux. X-ray diffraction and electron microscopy were deployed to determine the resulting ZnSe, InP and flux alloy phases and elemental distributions in the fiber core. X-ray diffraction of the InP: flux and most of the ZnSe: flux systems showed intermetallic flux phases that were not present on the phase diagrams reported in the literature. Formation enthalpy and phase diagrams of the intermetallic phases at room temperature were used to determine which observed phases were thermodynamically stable or meta-stable. The results indicate that the influences at play are primarily thermodynamic, but in some cases, kinetics plays a role during the fabrication of these fibers, forming metastable phases. Lastly, a review and discussion of the new demands on cladding glasses is presented for laser post-processing such fibers. This work demonstrates an approach to incorporating volatile and incongruently melting phases, that are not compatible with the standard molten core method, to realize novel in-fiber optoelectronic compositions.
+
 </sup></sub>
 
 [https://doi.org/10.1016/j.optmat.2023.114388](https://doi.org/10.1016/j.optmat.2023.114388)
-
----
-**A combined kinetic Monte Carlo and phase field approach to model thermally activated dislocation motion**
-
-Xiaoyao Peng, Nithin Mathew, Irene J. Beyerlein, <b>Enrique Martínez</b>, Abigail Hunter
-
-September 2023
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.commatsci.2023.112490](https://doi.org/10.1016/j.commatsci.2023.112490)
-
----
-**Impact of Soret effect on hydrogen and helium retention in PFC tungsten under ELM-like conditions**
-
-Dwaipayan Dasgupta, Sophie Blondel, <b>Enrique Martínez</b>, Dimitrios Maroudas, Brian D. Wirth
-
-May 2023
-
-<sub><sup>
-Abstract In our previous work, we have demonstrated using nonequilibrium molecular-dynamics simulations that the fluxes of helium and self-interstitial atoms in the presence of a thermal gradient in tungsten are directed opposite to the heat flux, indicating that species transport is governed by a Soret effect, namely, thermal-gradient-driven diffusion, characterized by a negative heat of transport that drives species transport uphill, i.e. from the cooler to the hot regions of the tungsten sample. In this work, the findings of our thermal and species transport analysis have been implemented in our cluster-dynamics code, Xolotl, which has been used to compute temperature and species profiles over spatiotemporal scales representative of plasma-facing component (PFC) tungsten under typical reactor operating conditions, including extreme heat loads at the plasma-facing surface characteristic of plasma instabilities that induce edge localized modes (ELMs). We demonstrate that the steady-state species profiles, when properly accounting for the Soret effect, vary significantly from those where temperature-gradient-driven transport is not accounted for and discuss the implications of such a Soret effect on the response to plasma exposure of plasma-facing tungsten. Although our cluster-dynamics simulations do not yet include self-clustering of helium or hydrogen blister formation, our simulation results show that the Soret effect substantially reduces helium and hydrogenic species retention inside PFC tungsten.
-</sup></sub>
-
-[https://doi.org/10.1088/1741-4326/acda4a](https://doi.org/10.1088/1741-4326/acda4a)
-
----
-**Comparison of Dislocation Loop Formation Resistance in Nanocrystalline and Coarse-Grained Refractory High Entropy Alloys**
-
-Osman El‐Atwani, H.T. Vo, N. Krienke, <b>Enrique Martínez</b>, Jon K. Baldwin, Wei‐Ying Chen, Meimei Li, Saryu Fensin
-
-May 2023
-
-<sub><sup>
-In nanocrystalline high entropy alloys (HEAs), the difference in chemistry and the density of interfaces play a role in the microstructure evolution, although their relative importance is not well understood. Here, we compare data published in the literature regarding dislocation loop damage in pure W under ion irradiation to new results on nanocrystalline and coarse grained HEAs irradiated under single and dual ion beams. Dislocation loop damage evolution has been studied. The results suggest that both grain boundaries and grain matrices play important roles in the microstructure evolution of HEAs with grain matrices playing the dominant role. Irradiation response and dislocation loop damage in coarse-grained (a) and nanocrystallinegrained (b) W-based HEAs as compared to coarse-grained (c) and nanocrystalline-grained (d) pure W material.
-</sup></sub>
-
-[https://doi.org/10.1007/s44210-023-00013-z](https://doi.org/10.1007/s44210-023-00013-z)
-
----
-**A quinary WTaCrVHf nanocrystalline refractory high-entropy alloy withholding extreme irradiation environments**
-
-Osman El‐Atwani, H.T. Vo, Matheus A. Tunes, C. Lee, <b>Andrew Alvarado</b>, N. Krienke, Jonathan D. Poplawsky, Aaron A. Kohnert, Jonathan Gigax, W.-Y. Chen, M. Li, Yongqiang Wang, Jan Wróbel, D. Nguyen-Manh, Jon K. Baldwin, O. U. Tukac, Eda Aydogan, Saryu Fensin, <b>Enrique Martínez</b>
-
-May 2023
-
-<sub><sup>
-In the quest of new materials that can withstand severe irradiation and mechanical extremes for advanced applications (e.g. fission & fusion reactors, space applications, etc.), design, prediction and control of advanced materials beyond current material designs become paramount. Here, through a combined experimental and simulation methodology, we design a nanocrystalline refractory high entropy alloy (RHEA) system. Compositions assessed under extreme environments and in situ electron-microscopy reveal both high thermal stability and radiation resistance. We observe grain refinement under heavy ion irradiation and resistance to dual-beam irradiation and helium implantation in the form of low defect generation and evolution, as well as no detectable grain growth. The experimental and modeling results-showing a good agreement-can be applied to design and rapidly assess other alloys subjected to extreme environmental conditions.
-</sup></sub>
-
-[https://doi.org/10.1038/s41467-023-38000-y](https://doi.org/10.1038/s41467-023-38000-y)
-
----
-**Predicting short-range order evolution in WTaCrVHf refractory high-entropy alloys**
-
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El‐Atwani
-
-April 2023
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.scriptamat.2023.115506](https://doi.org/10.1016/j.scriptamat.2023.115506)
-
----
-**From high-entropy alloys to high-entropy ceramics: The radiation-resistant highly concentrated refractory carbide (CrNbTaTiW)C**
-
-Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El‐Atwani
-
-March 2023
-
-<sub><sup>
-High-entropy materials represent the state-of-the-art on the alloy design strategy for future applications in extreme environments. Recent data indicates that high-entropy alloys (HEAs) exhibit outstanding radiation resistance in face of existing diluted alloy counterparts due to suppressed damage formation and evolution. An extension of the HEA concept is presented in this paper towards the synthesis and characterization of novel high-entropy ceramics as emergent materials for application in environments where energetic particle irradiation is a major concern. A novel carbide within the quinary refractory system CrNbTaTiW has been synthesized using magnetron-sputtering. The material exhibited nanocrystalline grains, single-phase crystal structure and C content around 50 at.%. Heavy-ion irradiation with in-situ Transmission Electron Microscopy was used to assess the irradiation response of the new high-entropy carbide (HEC) at 573 K and a comparison with the HEA within the system is made. No displacement damage effects appear within the microstructures of both HEA and HEC up to a dose of 10 displacements-per-atom. Surprisingly, the HEC has not amorphized under the investigated conditions. Xe was implanted in both materials and bubbles nucleated, but smaller sizes compared with conventional nuclear materials shedding light they are potential candidates for use in nuclear energy.
-</sup></sub>
-
-[https://doi.org/10.1016/j.actamat.2023.118856](https://doi.org/10.1016/j.actamat.2023.118856)
-
----
-**A methodology to generate crystal-based molecular structures for atomistic simulations**
-
-Christian F. A. Negre, <b>Andrew Alvarado</b>, Himanshu Singh, Joshua M. Finkelstein, <b>Enrique Martínez</b>, Romain Perriot
-
-March 2023
-
-<sub><sup>
-We propose a systematic method to construct crystal-based molecular structures often needed as input for computational chemistry studies. These structures include crystal ``slabs" with periodic boundary conditions (PBCs) and non-periodic solids such as Wulff structures. We also introduce a method to build crystal slabs with orthogonal PBC vectors. These methods are integrated into our code, Los Alamos Crystal Cut (LCC), which is open source and thus fully available to the community. Examples showing the use of these methods are given throughout the manuscript.
-</sup></sub>
-
-[https://doi.org/10.1088/1361-648x/acc294](https://doi.org/10.1088/1361-648x/acc294)
-
----
-**Molecular-Dynamics Analysis of the Mechanical Behavior of Plasma-Facing Tungsten**
-
-Asanka Weerasinghe, <b>Enrique Martínez</b>, Brian D. Wirth, Dimitrios Maroudas
-
-January 2023
-
-<sub><sup>
-We report a systematic computational analysis of the mechanical behavior of plasma-facing component (PFC) tungsten focusing on the impact of void and helium (He) bubble defects on the mechanical response beyond the elastic regime. Specifically, we explore the effects of porosity and He atomic fraction on the mechanical properties and structural response of PFC tungsten, at varying temperature and bubble size. We find that the Young modulus of defective tungsten undergoes substantial softening that follows an exponential scaling relation as a function of matrix porosity and He atomic content. Beyond the elastic regime, our high strain rate simulations reveal that the presence of nanoscale spherical defects (empty voids and He bubbles) reduces the yield strength of tungsten in a monotonically decreasing fashion, obeying an exponential scaling relation as a function of tungsten matrix porosity and He concentration. Our detailed analysis of the structural response of PFC tungsten near the yield point reveals that yielding is initiated by emission of dislocation loops from bubble/matrix interfaces, mainly 1/2⟨111⟩ shear loops, followed by gliding and growth of these loops and reactions to form ⟨100⟩ dislocations. Furthermore, dislocation gliding on the ⟨111⟩{211} twin systems nucleates 1/6⟨111⟩ twin regions in the tungsten matrix. These dynamical processes reduce the stress in the matrix substantially. Subsequent dislocation interactions and depletion of the twin phases via nucleation and propagation of detwinning partials lead the tungsten matrix to a next deformation stage characterized by stress increase during applied straining. Our structural analysis reveals that the depletion of twin boundaries (areal defects) is strongly impacted by the density of He bubbles at higher porosities. After the initial stress relief upon yielding, increase in the dislocation density in conjunction with decrease in the areal defect density facilitates the initiation of dislocation-driven deformation mechanisms in the PFC crystal.
-</sup></sub>
-
-[https://doi.org/10.1021/acsami.2c20795](https://doi.org/10.1021/acsami.2c20795)
-
----
-**From High-Entropy Alloys to High-Entropy Ceramics: The Radiation-Resistant Highly Concentrated Refractory Carbide (CrNbTaTiW)C**
-
-Matheus A. Tunes, Stefan Fritze, Barbara Osinger, Patrick Willenshofer, <b>Andrew Alvarado</b>, <b>Enrique Martínez</b>, Ashok S. Menon, Petter Ström, Graeme Greaves, Erik Lewin, Ulf Jansson, Stefan Pogatscher, Tarik A. Saleh, Vladimir Vishnyakov, Osman El‐Atwani
-
-January 2023
-
-<sub><sup>
-High-entropy materials represent the state-of-the-art on the alloy design strategy for future applications in extreme environments. Recent data indicates that high-entropy alloys (HEAs) exhibit outstanding radiation resistance in face of existing diluted alloy counterparts due to suppressed damage formation and evolution. An extension of the HEA concept is presented in this paper towards the synthesis and characterization of novel high-entropy ceramics as emergent materials for application in environments where energetic particle irradiation is a major concern. A novel carbide within the quinary refractory system CrNbTaTiW has been synthesized using magnetron-sputtering. The material exhibited nanocrystalline grains, singlephase crystal structure and C content around 50 at.%. Heavy-ion irradiation with in-situ Transmission Electron Microscopy was used to assess the irradiation response of the new highentropy carbide (HEC) at 573 K and a comparison with the HEA within the system is made. No displacement damage effects appear within the microstructures of both HEA and HEC up to a dose of 17 displacements-per-atom. Surprisingly, the HEC has not amorphized under the investigated conditions. Xe was implanted in both materials and bubbles nucleated, but smaller sizes compared with conventional nuclear materials shedding light they are potential candidates for use in nuclear energy.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4349924](https://doi.org/10.2139/ssrn.4349924)
-
----
-**Predicting Short-Range Order Evolution in WTaCrVHf Refractory High-Entropy Alloys**
-
-<b>Andrew Alvarado</b>, Chanho Lee, Jan Wróbel, Damian Sobieraj, D. Nguyen-Manh, Jonathan D. Poplawsky, Saryu Fensin, <b>Enrique Martínez</b>, Osman El‐Atwani
-
-January 2023
-
-<sub><sup>
-Short-range order (SRO) in multicomponent concentrated alloys affects their mechanical response. Hence, is paramount to understand how composition modifies the chemical ordering in the system to design materials with optimal properties. We present here a methodology to predict the SRO and thermodynamic properties in chemically complex systems and apply it to the WTaCrVHf quinary alloy. We observe that the addition of Hf significantly modifies the SRO, mainly at intermediate to low temperatures, matching experimental observations.
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.4400796](https://doi.org/10.2139/ssrn.4400796)
-
----
-**Interface dislocations and grain boundary disconnections using Smith normal bicrystallography**
-
-Nikhil Chandra Admal, Tusher Ahmed, <b>Enrique Martínez</b>, Giacomo Po
-
-September 2022
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.1016/j.actamat.2022.118340](https://doi.org/10.1016/j.actamat.2022.118340)
-
----
-**Volume of a dislocation network**
-
-Max Boleininger, S. L. Dudarev, Daniel R. Mason, <b>Enrique Martínez</b>
-
-June 2022
-
-<sub><sup>
-We derive a simple analytical line integral expression for the relaxation volume tensor of an arbitrary interconnected dislocation network. This quantity determines the magnitude of dislocation contribution to the dimensional changes and volumetric swelling of a material, and highlights the fundamental dual role of dislocations as sources of internal strain as well as carriers of plastic deformation. To illustrate applications of the method, we compute the relaxation volume of a stacking fault tetrahedron, a defect commonly occurring in fcc metals; the volume of an unusual tetrahedral configuration formed by the $(a/2)\ensuremath{\langle}111\ensuremath{\rangle}$ and $a\ensuremath{\langle}001\ensuremath{\rangle}$ dislocations in a bcc metal; and estimate the relative contribution of extended dislocations to the volume relaxation of heavily irradiated tungsten.
-</sup></sub>
-
-[https://doi.org/10.1103/physrevmaterials.6.063601](https://doi.org/10.1103/physrevmaterials.6.063601)
-
----
-**First-principles modelling of transmutation induced segregation in neutron-irradiated W(Re,Os) system at high temperature**
-
-Duc Hieu Nguyen, Matthew J. Lloyd, Jan Wróbel, M. Klimenkov, Luca Messina, S. L. Dudarev, <b>Enrique Martínez</b>, Charlotte Becquart, Christophe Domain
-
-May 2022
-
-<sub><sup>
-
-</sup></sub>
-
-[None](None)
-
----
-**Interstitial hydrogen enhances the mobility of some grain boundaries in tungsten**
-
-Nithin Mathew, Danny Pérez, Wonjoon Suk, Blas P. Uberuaga, <b>Enrique Martínez</b>
-
-May 2022
-
-<sub><sup>
-Abstract Segregation of interstitials at a grain boundary (GB) is known to generally lower its mobility. This phenomenon, called ‘solute-drag’, has important ramifications on the process of recrystallization and microstructural evolution. In this manuscript, we present predictions from molecular dynamics (MD) simulations which demonstrate that interstitial hydrogen in tungsten can in fact increase the mobility of some GBs which exhibit shear coupling. Assuming a disconnection-based mechanism, activation energies and pre-factors for disconnection nucleation are predicted from simulations of shear-coupled motion. In GBs where enhanced mobility is predicted, interstitial H reduces both the activation energy and the pre-factor for disconnection nucleation, thus effectively increasing the mobility. For GBs with diminished mobility, MD predicts that presence of interstitial H reduces the pre-factor and, in some cases, increases the activation energy. The reduction in the activation energy inferred from MD simulations are confirmed by nudged elastic band calculations. Temperature-dependent structural transitions are observed for some GBs, and the effect of interstitial H is found to change with the changes in structure. The effect of interstitial H is predicted to be complex and highly variable, providing some plausible explanations for experimental observations on the recrystallization of tungsten in presence of H-loaded plasma.
-</sup></sub>
-
-[https://doi.org/10.1088/1741-4326/ac70e9](https://doi.org/10.1088/1741-4326/ac70e9)
-
----
-**Atomistic and machine learning studies of solute segregation in metastable grain boundaries**
-
-Yasir Mahmood, Maher B. Alghalayini, <b>Enrique Martínez</b>, Christiaan J. J. Paredis, Fadi Abdeljawad
-
-April 2022
-
-<sub><sup>
-The interaction of alloying elements with grain boundaries (GBs) influences many phenomena, such as microstructural evolution and transport. While GB solute segregation has been the subject of active research in recent years, most studies focus on ground-state GB structures, i.e., lowest energy GBs. The impact of GB metastability on solute segregation remains poorly understood. Herein, we leverage atomistic simulations to generate metastable structures for a series of [001] and [110] symmetric tilt GBs in a model Al-Mg system and quantify Mg segregation to individual sites within these boundaries. Our results show large variations in the atomic Voronoi volume due to GB metastability, which are found to influence the segregation energy. The atomistic data are then used to train a Gaussian Process machine learning model, which provides a probabilistic description of the GB segregation energy in terms of the local atomic environment. In broad terms, our approach extends existing GB segregation models by accounting for variability due to GB metastability, where the segregation energy is treated as a distribution rather than a single-valued quantity.
-</sup></sub>
-
-[https://doi.org/10.1038/s41598-022-10566-5](https://doi.org/10.1038/s41598-022-10566-5)
-
----
-**Influence of stress correlations on dislocation glide in random alloys**
-
-Ali Rida, <b>Enrique Martínez</b>, David Rodney, Pierre-Antoine Geslin
-
-March 2022
-
-<sub><sup>
-Solute strengthening is an important mechanism that contributes to improving the mechanical properties of alloys and particularly the recent generations of concentrated alloys. The stress field emerging from an elastic model of a random solid solution displays strongly anisotropic correlations that interact differently with dislocations of different characters. In the present paper, we investigate the depinning transition of edge and screw dislocations evolving in such a correlated stress environment using a dislocation dynamics numerical model. We find that edge dislocations are only weakly affected by the correlations, while screw dislocations are strongly influenced, showing a smaller critical stress, which increases with the amplitude of the stress noise with a larger exponent than the edge dislocation. The numerical results are compared with existing statistical models of solute strengthening, allowing to discuss critically their assumptions.
-</sup></sub>
-
-[https://doi.org/10.1103/physrevmaterials.6.033605](https://doi.org/10.1103/physrevmaterials.6.033605)
 
 ---
