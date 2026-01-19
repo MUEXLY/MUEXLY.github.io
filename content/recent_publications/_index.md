@@ -230,32 +230,6 @@ Abstract Refractory High‐Entropy Alloys (RHEAs) are promising candidates for s
 [https://doi.org/10.1002/advs.202417659](https://doi.org/10.1002/advs.202417659)
 
 ---
-**Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
-
-<b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, Duc Nguyen-Manh, Caleb Hatler, Matthew Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
-
-January 2025
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.5261326](https://doi.org/10.2139/ssrn.5261326)
-
----
-**Design, Processing, and Properties of WTaCrV-Hf Multi-principal Element Alloys**
-
-Miquela Vigil, Caleb Hatler, <b>Bochuan Sun</b>, Ishtiaque Robin, Skye Supakul, Richard G. Hoagland, Osman El‐Atwani, <b>Enrique Martínez</b>, Dan J. Thoma
-
-January 2025
-
-<sub><sup>
-
-</sup></sub>
-
-[https://doi.org/10.2139/ssrn.5562071](https://doi.org/10.2139/ssrn.5562071)
-
----
 **Effect of Alloying on Intrinsic Ductility in WTaCrV High Entropy Alloys**
 
 <b>Akshay Korpe</b>, Osman El-Atwani, <b>Enrique Martínez</b>
@@ -269,9 +243,9 @@ January 2025
 [https://doi.org/10.2139/ssrn.5273491](https://doi.org/10.2139/ssrn.5273491)
 
 ---
-**Design Kinetic Parameters for Improved Resilience of Materials Under Irradiation**
+**Thermodynamic Assessment of the Quaternary WTaCrV Refractory High Entropy Alloy as a Means to Guide Experimental Approaches**
 
-<b>Enrique Martínez</b>, <b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Osman El‐Atwani, Matheus A. Tunes
+<b>Bochuan Sun</b>, Mark Fedorov, Jan Wróbel, Duc Nguyen-Manh, Caleb Hatler, Matthew Vigil, Dan J. Thoma, Osman El-Atwani, <b>Enrique Martínez</b>
 
 January 2025
 
@@ -279,12 +253,12 @@ January 2025
 
 </sup></sub>
 
-[https://doi.org/10.2139/ssrn.5135553](https://doi.org/10.2139/ssrn.5135553)
+[https://doi.org/10.2139/ssrn.5261326](https://doi.org/10.2139/ssrn.5261326)
 
 ---
 **Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
 
-Skye Supakul, Eda Aydogan, Ishtiaque Robin, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
+Skye Supakul, Ishtiaque Robin, Eda Aydogan, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
 
 January 2025
 
@@ -292,7 +266,20 @@ January 2025
 
 </sup></sub>
 
-[https://doi.org/10.2139/ssrn.5240158](https://doi.org/10.2139/ssrn.5240158)
+[https://doi.org/10.2139/ssrn.5318308](https://doi.org/10.2139/ssrn.5318308)
+
+---
+**Design, Processing, and Properties of WTaCrV-Hf Multi-principal Element Alloys**
+
+Miquela Vigil, Caleb Hatler, <b>Bochuan Sun</b>, Ishtiaque Robin, Skye Supakul, Richard G. Hoagland, Osman El‐Atwani, <b>Enrique Martínez</b>, Dan J. Thoma
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5562071](https://doi.org/10.2139/ssrn.5562071)
 
 ---
 **Atomistically-Informed Partial Dislocation Dynamics of Multi-Principal Element Alloys**
@@ -323,7 +310,7 @@ January 2025
 ---
 **Outstanding Ion Irradiation Resistance of Nanocrystalline Low Activation W-Ti-Based Compositionally Complex Alloys**
 
-Skye Supakul, Ishtiaque Robin, Eda Aydogan, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
+Skye Supakul, Eda Aydogan, Ishtiaque Robin, <b>Bochuan Sun</b>, Kayla Yano, Shalini Tripathi, Jacob Haag, Weiying Chen, Benjamin K. Derby, Daniel Velázquez, Sergey Tsurkan, Dan J. Thoma, <b>Enrique Martínez</b>, Osman El‐Atwani
 
 January 2025
 
@@ -331,7 +318,20 @@ January 2025
 
 </sup></sub>
 
-[https://doi.org/10.2139/ssrn.5318308](https://doi.org/10.2139/ssrn.5318308)
+[https://doi.org/10.2139/ssrn.5240158](https://doi.org/10.2139/ssrn.5240158)
+
+---
+**Design Kinetic Parameters for Improved Resilience of Materials Under Irradiation**
+
+<b>Enrique Martínez</b>, <b>Mohammadhossein Nahavandian</b>, Eda Aydogan, Jesper Byggmästar, Osman El‐Atwani, Matheus A. Tunes
+
+January 2025
+
+<sub><sup>
+
+</sup></sub>
+
+[https://doi.org/10.2139/ssrn.5135553](https://doi.org/10.2139/ssrn.5135553)
 
 ---
 **Segregation, ordering, and precipitation in WTaV-based concentrated refractory alloys**
@@ -542,7 +542,7 @@ The alleged existence of sluggish diffusion in high entropy alloys has drawn con
 [https://doi.org/10.48550/arxiv.2402.07324](https://doi.org/10.48550/arxiv.2402.07324)
 
 ---
-**Atomistic modeling of the long-term microstructural evolution of twist boundaries under vacancy supersaturation**
+**Metropolis and kinetic Monte Carlo with fields: diffusion / precipitation in heterogeneous systems**
 
 <b>Enrique Martínez</b>
 
@@ -555,7 +555,7 @@ February 2024
 [None](None)
 
 ---
-**Metropolis and kinetic Monte Carlo with fields: diffusion / precipitation in heterogeneous systems**
+**Atomistic modeling of the long-term microstructural evolution of twist boundaries under vacancy supersaturation**
 
 <b>Enrique Martínez</b>
 
@@ -581,19 +581,6 @@ February 2024
 [None](None)
 
 ---
-**Radiation Induced Defects Behavior in the Presence of Interfaces**
-
-<b>Enrique Martínez</b>
-
-February 2024
-
-<sub><sup>
-
-</sup></sub>
-
-[None](None)
-
----
 **Synchronous parallel kinetic Monte Carlo Diffusion in Heterogeneous Systems**
 
 <b>Enrique Martínez</b>
@@ -602,6 +589,19 @@ February 2024
 
 <sub><sup>
 A new hybrid Molecular Dynamics-kinetic Monte Carlo algorithm has been developed in order to study the basic mechanisms taking place in diffusion in concentrated alloys under the action of chemical and stress fields. Parallel implementation of the k-MC part based on a recently developed synchronous algorithm [1. Compo Phys. 227 (2008) 3804-3823] resorting on the introduction of a set of null events aiming at synchronizing the time for the different subdomains, added to the parallel efficiency of MD, provides the computer power required to evaluate jump rates 'on the flight', incorporating in this way the actual driving force emerging from chemical potential gradients, and the actual environment-dependent jump rates. The time gain has been analyzed and the parallel performance reported. The algorithm is tested on simple diffusion problems to verify its accuracy.
+</sup></sub>
+
+[None](None)
+
+---
+**Radiation Induced Defects Behavior in the Presence of Interfaces**
+
+<b>Enrique Martínez</b>
+
+February 2024
+
+<sub><sup>
+
 </sup></sub>
 
 [None](None)
